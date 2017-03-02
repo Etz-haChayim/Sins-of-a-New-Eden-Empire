@@ -1,0 +1,38 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_KRONOS"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_KRONOS"
+infoCardIcon ""
+NameStringID "IDS_GALLENTE_SHIP_BATTLESHIP_KRONOS_NAME"
+DescriptionStringID "IDS_GALLENTE_SHIP_BATTLESHIP_KRONOS_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 6 , 1 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "Gallente_ResearchSubject_SubCapitalAccess_Megathron"
+		Level 4
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 83.000000
+PerLevelUpgradeTime 8.000000
+BaseCost
+	credits 11000.000000
+	metal 7200.000000
+	crystal 4100.000000
+PerLevelCostIncrease
+	credits 1100.000000
+	metal 720.000000
+	crystal 410.000000
+Tier 6
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 4
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

@@ -1,0 +1,35 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_ABILITY_SALVAGEOPERATIONS"
+smallHudIcon "HUDICON_ABILITY_SALVAGEOPERATIONS"
+infoCardIcon ""
+NameStringID "IDS_Amarr_ResearchSubject_SubCapitalAccess_Inquisitor_NAME"
+DescriptionStringID "IDS_Amarr_ResearchSubject_SubCapitalAccess_Inquisitor_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 0 , 4 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 20.000000
+PerLevelUpgradeTime 2.000000
+BaseCost
+	credits 450.000000
+	metal 260.000000
+	crystal 183.000000
+PerLevelCostIncrease
+	credits 45.000000
+	metal 26.000000
+	crystal 18.000000
+Tier 0
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 4
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

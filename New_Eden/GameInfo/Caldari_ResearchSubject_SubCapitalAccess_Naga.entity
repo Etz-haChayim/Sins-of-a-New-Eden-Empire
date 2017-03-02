@@ -1,0 +1,35 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_NAGA"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_NAGA"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_NAGA_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_NAGA_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 4 , 3 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 51.000000
+PerLevelUpgradeTime 5.000000
+BaseCost
+	credits 2858.000000
+	metal 1157.000000
+	crystal 1700.000000
+PerLevelCostIncrease
+	credits 2858.000000
+	metal 1157.000000
+	crystal 1700.000000
+Tier 3
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 4
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

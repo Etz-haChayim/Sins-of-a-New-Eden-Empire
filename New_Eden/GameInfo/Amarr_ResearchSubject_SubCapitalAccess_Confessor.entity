@@ -1,0 +1,38 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_CONFESSOR"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_CONFESSOR"
+infoCardIcon ""
+NameStringID "IDS_Amarr_ResearchSubject_SubCapitalAccess_Confessor_NAME"
+DescriptionStringID "IDS_Amarr_ResearchSubject_SubCapitalAccess_Confessor_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 2 , 2 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "Amarr_ResearchSubject_SubCapitalAccess_Coercer"
+		Level 4
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 80.000000
+PerLevelUpgradeTime 8.000000
+BaseCost
+	credits 2400.000000
+	metal 1400.000000
+	crystal 2400.000000
+PerLevelCostIncrease
+	credits 240.000000
+	metal 140.000000
+	crystal 240.000000
+Tier 2
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 4
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

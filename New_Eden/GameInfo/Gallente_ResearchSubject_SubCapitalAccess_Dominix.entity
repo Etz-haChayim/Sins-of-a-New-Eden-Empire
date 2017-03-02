@@ -1,0 +1,35 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_FRIGATE_PHASECOLONY"
+smallHudIcon "HUDICON_FRIGATE_PHASECOLONY"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_DOMINIX"
+DescriptionStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_DOMINIX_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 5 , 4 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 107.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 6630.000000
+	metal 4100.000000
+	crystal 2500.000000
+PerLevelCostIncrease
+	credits 663.000000
+	metal 410.000000
+	crystal 250.000000
+Tier 5
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 4
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

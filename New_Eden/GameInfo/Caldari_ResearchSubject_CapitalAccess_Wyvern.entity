@@ -1,0 +1,35 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_CAPITALACCESS_WYVERN"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_CAPITALACCESS_WYVERN"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_CAPITALSHIPACESS_WYVERN"
+DescriptionStringID "IDS_RESEARCHSUBJECT_CAPITALSHIPACESS_WYVERN_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 6 , 2 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 350.000000
+PerLevelUpgradeTime 4.000000
+BaseCost
+	credits 58000.000000
+	metal 19500.000000
+	crystal 39000.000000
+PerLevelCostIncrease
+	credits 5800.000000
+	metal 1950.000000
+	crystal 3900.000000
+Tier 6
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

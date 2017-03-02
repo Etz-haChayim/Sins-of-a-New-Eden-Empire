@@ -1,0 +1,35 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_HECATE"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_HECATE"
+infoCardIcon ""
+NameStringID "IDS_Gallente_ResearchSubject_SubCapitalAccess_Hecate_NAME"
+DescriptionStringID "IDS_Gallente_ResearchSubject_SubCapitalAccess_Hecate_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 2 , 2 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 80.000000
+PerLevelUpgradeTime 8.000000
+BaseCost
+	credits 1868.000000
+	metal 1120.000000
+	crystal 748.000000
+PerLevelCostIncrease
+	credits 1868.000000
+	metal 1120.000000
+	crystal 748.000000
+Tier 2
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 4
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

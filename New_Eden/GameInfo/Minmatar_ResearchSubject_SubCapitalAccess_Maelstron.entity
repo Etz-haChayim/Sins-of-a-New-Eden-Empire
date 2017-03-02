@@ -1,0 +1,35 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_MAELSTRON"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_MAELSTRON"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Maelstron_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Maelstron_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 6 , 0 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 100.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 5850.000000
+	metal 2050.000000
+	crystal 2850.000000
+PerLevelCostIncrease
+	credits 585.000000
+	metal 205.000000
+	crystal 285.000000
+Tier 6
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880
