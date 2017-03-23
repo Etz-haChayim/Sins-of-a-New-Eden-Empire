@@ -31,7 +31,7 @@ maxMitigation 0.000000
 Prerequisites
 	NumResearchPrerequisites 2
 	ResearchPrerequisite
-		Subject "Gallente_ResearchSubject_SubCapitalAccess_Catalyst"
+		Subject "Gallente_ResearchSubject_SubCapitalAccess_Hecate"
 		Level 1
 	ResearchPrerequisite
 		Subject "AllRaces_ResearchSubject_T3ModuleAccess_PropursionSystems"

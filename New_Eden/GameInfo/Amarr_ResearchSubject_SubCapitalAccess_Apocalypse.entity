@@ -1,4 +1,4 @@
-﻿TXT
+TXT
 entityType "ResearchSubject"
 hudIcon "HUDICON_ABILITY_DEPLOYCOMBATTURRET"
 smallHudIcon "HUDICON_ABILITY_DEPLOYCOMBATTURRET"
@@ -25,7 +25,7 @@ PerLevelCostIncrease
 	metal 410.000000
 	crystal 255.000000
 Tier 5
-onlyWorksIfTierLabsExist TRUE
+onlyWorksIfTierLabsExist TRUE 
 MaxNumResearchLevels 2
 priority 1.000000
 researchBoolModifiers 0

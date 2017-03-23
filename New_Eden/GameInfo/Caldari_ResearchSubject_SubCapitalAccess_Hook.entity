@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_ROOK_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_ROOK_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 3 , 3 ]
+	pos [ 2 , 3 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 1
@@ -29,7 +29,7 @@ PerLevelCostIncrease
 	crystal 107.000000
 Tier 3
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 4
+MaxNumResearchLevels 1
 priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

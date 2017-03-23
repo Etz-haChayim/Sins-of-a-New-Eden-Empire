@@ -35,7 +35,7 @@ entities
 			entityDefName "Minmatar_Ship_Titan_Ragnarok"
 	capitalShipInfo
 		Page:0
-			count 7
+			count 8
 			entityDefName "Minmatar_Ship_Carrier_Nidhoggur"
 			entityDefName "Minmatar_Ship_Carrier_Triage_Lif"
 			entityDefName "Minmatar_Ship_Dreadnought_Naglfar_ShortRange"
@@ -43,6 +43,7 @@ entities
 			entityDefName "Minmatar_Ship_Supercarrier_Hel"
 			entityDefName "Amarr_Ship_ColonyCapital_Rorqual"
 			entityDefName "AllRaces_Ship_Supercarrier_Revenant"
+			entityDefName "Minmatar_Ship_Capital_Titan_Ragnarok"
 	frigateInfo
 		Page:0
 			count 9

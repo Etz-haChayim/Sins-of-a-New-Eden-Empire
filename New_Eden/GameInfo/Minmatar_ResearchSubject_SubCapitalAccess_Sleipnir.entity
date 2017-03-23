@@ -3,8 +3,8 @@ entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_SUBCAPITALACCESS_SLEIPNIR"
 smallHudIcon "HUDICON_RESEARCHSUBJECT_SUBCAPITALACCESS_SLEIPNIR"
 infoCardIcon ""
-NameStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Hurricane_NAME"
-DescriptionStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Hurricane_DESCRIPTION"
+NameStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Sleipnir_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Sleipnir_DESCRIPTION"
 researchWindowLocation
 	block 2
 	pos [ 5 , 0 ]
@@ -29,7 +29,7 @@ PerLevelCostIncrease
 	crystal 111.000000
 Tier 5
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 4
+MaxNumResearchLevels 1
 priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

@@ -30,11 +30,11 @@ BaseArmorPoints 0.000000
 maxMitigation 0.000000 
 Prerequisites
 	NumResearchPrerequisites 2
-	ResearchPrerequisite
-		Subject "AllRaces_ResearchSubject_T3ModuleAccess_PropursionSystems"
+		ResearchPrerequisite
+		Subject "Amarr_ResearchSubject_SubCapitalAccess_Confessor"
 		Level 1
 	ResearchPrerequisite
-		Subject "Amarr_ResearchSubject_SubCapitalAccess_Confessor"
+		Subject "AllRaces_ResearchSubject_T3ModuleAccess_PropursionSystems"
 		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0

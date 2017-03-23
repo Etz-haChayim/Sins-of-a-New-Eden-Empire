@@ -1,10 +1,10 @@
 ﻿TXT
 entityType "ResearchSubject"
-hudIcon "HUDICON_ABILITY_FLAGSHIPSPRINT"
-smallHudIcon "HUDICON_ABILITY_FLAGSHIPSPRINT"
+hudIcon "HUDICON_ABILITY_BOOSTMORALE"
+smallHudIcon "HUDICON_ABILITY_BOOSTMORALE"
 infoCardIcon ""
-NameStringID "IDS_ABILITY_FLAGSHIPSPRINT_NAME"
-DescriptionStringID "IDS_ABILITY_FLAGSHIPSPRINT_DESCRIPTION"
+NameStringID "IDS_ABILITY_SHIELDWARFAREMINDLINK_NAME"
+DescriptionStringID "IDS_ABILITY_BOOSTSHIELD_DESCRIPTION"
 researchWindowLocation
 	block 0
 	pos [ 3 , 4 ]
@@ -26,7 +26,7 @@ PerLevelCostIncrease
 	crystal 400.000000
 Tier 2
 onlyWorksIfTierLabsExist FALSE
-MaxNumResearchLevels 4
+MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

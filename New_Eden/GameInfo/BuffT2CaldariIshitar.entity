@@ -10,14 +10,21 @@ isChannelling FALSE
 numInstantActions 0
 numPeriodicActions 0
 numOverTimeActions 0
-numEntityModifiers 1
+numEntityModifiers 2
 entityModifier
-	buffEntityModifierType "AntimatterCostOfNonUltimates"
-	value
-		Level:0 0.500000
-		Level:1 0.500000
-		Level:2 0.500000
-		Level:3 0.500000
+    buffEntityModifierType "DamageAsDamageDealer"
+    value
+        Level:0 1.30000
+        Level:1 1.350000
+        Level:2 1.40000
+        Level:3 1.45000
+entityModifier
+    buffEntityModifierType "ArmorAsDamageTarget"
+    value
+        Level:0 1.125000
+        Level:1 1.250000
+        Level:2 1.375000
+        Level:3 1.500000
 numEntityBoolModifiers 0
 numFinishConditions 1
 finishCondition

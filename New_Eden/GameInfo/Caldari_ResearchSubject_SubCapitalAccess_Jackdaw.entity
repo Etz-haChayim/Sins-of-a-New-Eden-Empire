@@ -26,7 +26,7 @@ PerLevelCostIncrease
 	crystal 1400.000000
 Tier 1
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 4
+MaxNumResearchLevels 1
 priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

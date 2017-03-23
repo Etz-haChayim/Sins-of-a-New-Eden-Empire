@@ -31,7 +31,7 @@ maxMitigation 0.000000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
-		Subject "Caldari_ResearchSubject_SubCapitalAccess_Caracal"
+		Subject "Caldari_ResearchSubject_SubCapitalAccess_Drake"
 		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
