@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "CapitalShip"
 ability:0 "AbilityPLASMASmartbomb"
-ability:1 "AbilityRemoteArmorRepairerCapital"
+ability:1 "AbilityEnergyNeutralizationBurst"
 ability:2 "AbilityProjectedECMBurst"
 ability:3 "AbilityLaunchSquads"
 ability:4 ""
@@ -165,7 +165,7 @@ maxRollRate 1.000000
 maxRollAngle 30.000000
 squadTypeEntityDef:0 "Gallente_DroneSquad_Cyclops"
 squadAntiMatterCost:0 0.000000
-squadTypeEntityDef:1 ""
+squadTypeEntityDef:1 "Gallente_DroneSquad_firbolg"
 squadAntiMatterCost:1 0.000000
 squadTypeEntityDef:2 ""
 squadAntiMatterCost:2 0.000000

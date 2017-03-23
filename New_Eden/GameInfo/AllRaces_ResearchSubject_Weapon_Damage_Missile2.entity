@@ -7,7 +7,7 @@ NameStringID "IDS_AllRaces_ResearchSubject_Weapon_Damage_Missile2_NAME"
 DescriptionStringID "IDS_AllRaces_ResearchSubject_Weapon_Damage_Missile2_DESCRIPTION"
 researchWindowLocation
 	block 1
-	pos [ 3 , 3 ]
+	pos [ 3 , 2 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 1

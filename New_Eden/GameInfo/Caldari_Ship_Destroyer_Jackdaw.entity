@@ -31,7 +31,7 @@ maxMitigation 0.500000
 Prerequisites
 	NumResearchPrerequisites 2
 	ResearchPrerequisite
-		Subject "Caldari_ResearchSubject_SubCapitalAccess_Comorant"
+		Subject "Caldari_ResearchSubject_SubCapitalAccess_Jackdaw"
 		Level 1
 	ResearchPrerequisite
 		Subject "AllRaces_ResearchSubject_T3ModuleAccess_PropursionSystems"

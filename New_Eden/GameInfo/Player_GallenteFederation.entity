@@ -35,7 +35,7 @@ entities
 			entityDefName "Gallente_Ship_Titan_Erebus"
 	capitalShipInfo
 		Page:0
-			count 7
+			count 8
 			entityDefName "Gallente_Ship_Carrier_Thanatos"
 			entityDefName "Gallente_Ship_Carrier_Triage_Thanatos"
 			entityDefName "Gallente_Ship_Dreadnought_Moros_ShortRange"
@@ -43,6 +43,7 @@ entities
 			entityDefName "Gallente_Ship_Supercarrier_Nyx"
 			entityDefName "Gallente_Ship_ColonyCapital_Rorqual"
 			entityDefName "AllRaces_Ship_Supercarrier_Revenant"
+			entityDefName "Gallente_Ship_Capital_Titan_Erebus"
 	frigateInfo
 		Page:0
 			count 9

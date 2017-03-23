@@ -3,8 +3,8 @@ entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_SUBCAPITALACCESS_CLYAMORE"
 smallHudIcon "HUDICON_RESEARCHSUBJECT_SUBCAPITALACCESS_CLYAMORE"
 infoCardIcon ""
-NameStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Cyclone_NAME"
-DescriptionStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Cyclone_DESCRIPTION"
+NameStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Claymore_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Claymore_Description"
 researchWindowLocation
 	block 2
 	pos [ 5 , 4 ]
@@ -29,7 +29,7 @@ PerLevelCostIncrease
 	crystal 142.000000
 Tier 4
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 4
+MaxNumResearchLevels 1
 priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 0
