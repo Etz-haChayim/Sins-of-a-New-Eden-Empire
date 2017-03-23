@@ -6,7 +6,7 @@ infoCardIcon ""
 NameStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_ABADDON"
 DescriptionStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_ABADDON_DESCRIPTION"
 researchWindowLocation
-	block 2
+	block 2 
 	pos [ 6 , 4 ]
 ResearchField "Combat"
 Prerequisites
@@ -26,7 +26,7 @@ PerLevelCostIncrease
 	crystal 253.000000
 Tier 6
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 1
+MaxNumResearchLevels 2
 priority 1.000000
 researchBoolModifiers 0
 researchFloatModifiers 0
