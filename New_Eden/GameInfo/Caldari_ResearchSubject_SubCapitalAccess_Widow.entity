@@ -3,8 +3,8 @@ entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_WIDOW"
 smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_WIDOW"
 infoCardIcon ""
-NameStringID "IDS_CALDARI_SHIP_BATTLESHIP_WIDOW_NAME"
-DescriptionStringID "IDS_CALDARI_SHIP_BATTLESHIP_WIDOW_DESCRIPTION"
+NameStringID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_WIDOW_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_WIDOW_DESC"
 researchWindowLocation
 	block 2
 	pos [ 6 , 1 ]
@@ -29,7 +29,7 @@ PerLevelCostIncrease
 	crystal 410.000000
 Tier 6
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 4
+MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

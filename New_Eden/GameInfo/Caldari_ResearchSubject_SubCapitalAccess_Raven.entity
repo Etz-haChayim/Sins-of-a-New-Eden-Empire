@@ -3,8 +3,8 @@ entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_RAVEN"
 smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_RAVEN"
 infoCardIcon ""
-NameStringID "IDS_CALDARI_SHIP_BATTLESHIP_RAVEN_NAME"
-DescriptionStringID "IDS_CALDARI_SHIP_BATTLESHIP_RAVEN_DESCRIPTION"
+NameStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_RAVEN"
+DescriptionStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_RAVEN_DESCRIPTION"
 researchWindowLocation
 	block 2
 	pos [ 5 , 3 ]
@@ -26,7 +26,7 @@ PerLevelCostIncrease
 	crystal 410.000000
 Tier 5
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 4
+MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

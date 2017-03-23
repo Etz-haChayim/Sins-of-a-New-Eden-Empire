@@ -6,7 +6,7 @@ infoCardIcon ""
 NameStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_ABADDON"
 DescriptionStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_ABADDON_DESCRIPTION"
 researchWindowLocation
-	block 2
+	block 2 
 	pos [ 6 , 4 ]
 ResearchField "Combat"
 Prerequisites

@@ -1,10 +1,10 @@
 ﻿TXT
 entityType "ResearchSubject"
-hudIcon "HUDICON_ABILITY_FLAGSHIPSPRINT"
-smallHudIcon "HUDICON_ABILITY_FLAGSHIPSPRINT"
+hudIcon "HUDIconStarBaseUpgradeTechFactory1"
+smallHudIcon "HUDIconStarBaseUpgradeTechFactory1"
 infoCardIcon ""
-NameStringID "IDS_ABILITY_FLAGSHIPSPRINT_NAME"
-DescriptionStringID "IDS_ABILITY_FLAGSHIPSPRINT_DESCRIPTION"
+NameStringID "IDS_ABILITY_REMOTEREPAIRSHIELD_NAME"
+DescriptionStringID "IDS_ABILITY_REMOTEREPAIRSHIELD_DESC"
 researchWindowLocation
 	block 0
 	pos [ 2 , 4 ]
@@ -26,7 +26,7 @@ PerLevelCostIncrease
 	crystal 200.000000
 Tier 2
 onlyWorksIfTierLabsExist FALSE
-MaxNumResearchLevels 4
+MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

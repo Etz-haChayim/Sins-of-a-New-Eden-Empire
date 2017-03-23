@@ -3,8 +3,8 @@ entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_PILGRIM"
 smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_PILGRIM"
 infoCardIcon ""
-NameStringID "IDS_Amarr_ResearchSubject_SubCapitalAccess_Arbitrator_NAME"
-DescriptionStringID "IDS_Amarr_ResearchSubject_SubCapitalAccess_Arbitrator_DESCRIPTION"
+NameStringID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_CURSE_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_CURSE_DESC"
 researchWindowLocation
 	block 2
 	pos [ 3 , 4 ]
@@ -29,7 +29,7 @@ PerLevelCostIncrease
 	crystal 124.000000
 Tier 3
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 4
+MaxNumResearchLevels 1
 priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 0
