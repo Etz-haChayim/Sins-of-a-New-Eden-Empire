@@ -1226,20 +1226,20 @@ brush
 	name "HUDICON_FRIGATE_PHASEMINELAYER"
 	content "States"
 	Disabled
-		fileName "Ships_Buttons_Disabled"
-		pixelBox [ 565 , 52 , 47 , 33 ]
+		fileName "Unit_Hud_Disabled"
+		pixelBox [ 251 , 469 , 47 , 33 ]
 	Pressed
-		fileName "Ships_Buttons_Pressed"
-		pixelBox [ 565 , 52 , 47 , 33 ]
+		fileName "Unit_Hud_Pressed"
+		pixelBox [ 251 , 469 , 47 , 33 ]
 	CursorOver
-		fileName "Ships_Buttons_CursorOver"
-		pixelBox [ 565 , 52 , 47 , 33 ]
+		fileName "Unit_Hud_CursorOver"
+		pixelBox [ 251 , 469 , 47 , 33 ]
 	Focused
-		fileName "Ships_Buttons_Normal"
-		pixelBox [ 565 , 52 , 47 , 33 ]
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 251 , 469 , 47 , 33 ]
 	Normal
-		fileName "Ships_Buttons_Normal"
-		pixelBox [ 565 , 52 , 47 , 33 ]
+		fileName "Unit_Hud_Normal"
+		pixelBox [ 251 , 469 , 47 , 33 ]
 brush
 	name "HUDICON_FRIGATE_PHASEMODULECONSTRUCTOR"
 	content "States"
