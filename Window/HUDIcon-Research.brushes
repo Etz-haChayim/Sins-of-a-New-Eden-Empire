@@ -11556,19 +11556,19 @@ brush
 	content "States"
 	Disabled
 		fileName "Ships_Buttons_Disabled"
-		pixelBox [ 259 , 644 , 47 , 33 ]
+		pixelBox [ 259 , 460 , 47 , 33 ]
 	Pressed
 		fileName "Ships_Buttons_Pressed"
-		pixelBox [ 259 , 644 , 47 , 33 ]
+		pixelBox [ 259 , 460 , 47 , 33 ]
 	CursorOver
 		fileName "Ships_Buttons_CursorOver"
-		pixelBox [ 259 , 644 , 47 , 33 ]
+		pixelBox [ 259 , 460 , 47 , 33 ]
 	Focused
 		fileName "Ships_Buttons_Normal"
-		pixelBox [ 259 , 644 , 47 , 33 ]
+		pixelBox [ 259 , 460 , 47 , 33 ]
 	Normal
 		fileName "Ships_Buttons_Normal"
-		pixelBox [ 259 , 644 , 47 , 33 ]
+		pixelBox [ 259 , 460 , 47 , 33 ]
 brush
 	name "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_LOKI"
 	content "States"
