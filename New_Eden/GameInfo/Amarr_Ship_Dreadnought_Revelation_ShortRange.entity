@@ -46,7 +46,7 @@ bombEffectsDef
 	missileMaxSlowTurnTime 6.000000
 mainViewIcon "MAINVIEWICON_CAPITALSHIP_TECHCOLONY"
 basePrice
-	credits 55631.000000
+	credits 5582.000000
 	metal 3646.000000
 	crystal 1935.000000
 slotCount 1.000000
