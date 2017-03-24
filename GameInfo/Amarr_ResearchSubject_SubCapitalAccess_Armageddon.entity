@@ -1,0 +1,35 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_ABILITY_REPAIRDROIDS"
+smallHudIcon "HUDICON_ABILITY_REPAIRDROIDS"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACESS_ARMAGEDDON"
+DescriptionStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACESS_ARMAGEDDON_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 5 , 3 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 95.000000
+PerLevelUpgradeTime 10.000000
+BaseCost
+	credits 6100.000000
+	metal 3850.000000
+	crystal 2300.000000
+PerLevelCostIncrease
+	credits 610.000000
+	metal 385.000000
+	crystal 230.000000
+Tier 5
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

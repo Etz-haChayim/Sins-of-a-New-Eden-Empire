@@ -1,0 +1,38 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_FRIGATE_BROADSWORD"
+smallHudIcon "HUDICON_FRIGATE_BROADSWORD"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Broadsword_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Broadsword_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 4 , 3 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "Minmatar_ResearchSubject_SubCapitalAccess_Muninn"
+		Level 4
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 80.000000
+PerLevelUpgradeTime 8.000000
+BaseCost
+	credits 1680.000000
+	metal 2100.000000
+	crystal 2800.000000
+PerLevelCostIncrease
+	credits 168.000000
+	metal 210.000000
+	crystal 280.000000
+Tier 5
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

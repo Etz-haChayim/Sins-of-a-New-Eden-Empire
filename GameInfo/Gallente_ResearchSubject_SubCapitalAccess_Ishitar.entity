@@ -1,0 +1,38 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_ISHITAR"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_ISHITAR"
+infoCardIcon ""
+NameStringID "IDS_MINMATAR_SHIP_CRUISER_ISHITAR_NAME"
+DescriptionStringID "IDS_MINMATAR_SHIP_CRUISER_ISHITAR_Description"
+researchWindowLocation
+	block 2
+	pos [ 3 , 4 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "Gallente_ResearchSubject_SubCapitalAccess_Vexor"
+		Level 1
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 60.000000
+PerLevelUpgradeTime 6.000000
+BaseCost
+	credits 3570.000000
+	metal 2136.000000
+	crystal 1436.000000
+PerLevelCostIncrease
+	credits 357.000000
+	metal 213.000000
+	crystal 143.000000
+Tier 3
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880

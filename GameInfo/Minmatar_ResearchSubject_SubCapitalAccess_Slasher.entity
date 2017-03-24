@@ -1,0 +1,35 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_SLASHER"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_SLASHER"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Slasher_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Slasher_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 0 , 3 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 20.000000
+PerLevelUpgradeTime 2.000000
+BaseCost
+	credits 288.000000
+	metal 124.000000
+	crystal 163.000000
+PerLevelCostIncrease
+	credits 28.000000
+	metal 12.000000
+	crystal 16.000000
+Tier 0
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 1.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880
