@@ -13,7 +13,7 @@ Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
 		Subject "Minmatar_ResearchSubject_SubCapitalAccess_Cyclone"
-		Level 4
+		Level 2
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
@@ -27,9 +27,9 @@ PerLevelCostIncrease
 	credits 258.000000
 	metal 115.000000
 	crystal 142.000000
-Tier 4
+Tier 5
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 1
+MaxNumResearchLevels 2
 priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 0
