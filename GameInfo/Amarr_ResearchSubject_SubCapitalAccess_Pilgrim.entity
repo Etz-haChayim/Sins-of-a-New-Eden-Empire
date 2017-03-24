@@ -13,7 +13,7 @@ Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
 		Subject "Amarr_ResearchSubject_SubCapitalAccess_Arbitrator"
-		Level 4
+		Level 2
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
@@ -29,7 +29,7 @@ PerLevelCostIncrease
 	crystal 124.000000
 Tier 3
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 1
+MaxNumResearchLevels 2
 priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

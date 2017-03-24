@@ -24,9 +24,9 @@ PerLevelCostIncrease
 	credits 2858.000000
 	metal 1157.000000
 	crystal 1700.000000
-Tier 3
+Tier 4
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 1
+MaxNumResearchLevels 2
 priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 0
