@@ -1,0 +1,35 @@
+﻿TXT
+entityType "ResearchSubject"
+hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_HURRICANE"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_HURRICANE"
+infoCardIcon ""
+NameStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Hurricane_NAME"
+DescriptionStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Hurricane_DESCRIPTION"
+researchWindowLocation
+	block 2
+	pos [ 4 , 0 ]
+ResearchField "Combat"
+Prerequisites
+	NumResearchPrerequisites 0
+	RequiredFactionNameID ""
+	RequiredCompletedResearchSubjects 0
+MinimumArtifactLevel -1
+BaseUpgradeTime 30.000000
+PerLevelUpgradeTime 3.000000
+BaseCost
+	credits 1944.000000
+	metal 836.000000
+	crystal 1110.000000
+PerLevelCostIncrease
+	credits 194.000000
+	metal 83.000000
+	crystal 111.000000
+Tier 4
+onlyWorksIfTierLabsExist TRUE
+MaxNumResearchLevels 1
+priority 0.000000
+researchBoolModifiers 0
+researchFloatModifiers 0
+artifactPicture ""
+uniqueOverlayBrush "RebellionResearchOverlay"
+dlcId 204880
