@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCHSUBJECT_CapitalAccess_Naglfar_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_CapitalAccess_Naglfar_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 4 , 4 ]
+	pos [ 4 , 0 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0

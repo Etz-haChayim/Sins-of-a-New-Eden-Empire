@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Rupture_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Rupture_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 1 , 2 ]
+	pos [ 2 , 2 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0

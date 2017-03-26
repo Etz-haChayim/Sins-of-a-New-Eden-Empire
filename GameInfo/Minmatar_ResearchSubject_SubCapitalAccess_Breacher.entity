@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Breacher_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Breacher_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 1 , 3 ]
+	pos [ 0 , 4 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0
@@ -24,7 +24,7 @@ PerLevelCostIncrease
 	credits 100.000000
 	metal 25.000000
 	crystal 25.000000
-Tier 1
+Tier 0
 onlyWorksIfTierLabsExist TRUE
 MaxNumResearchLevels 1
 priority 0.000000
