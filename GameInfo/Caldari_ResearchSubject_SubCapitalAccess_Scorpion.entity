@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_SCORPION"
 DescriptionStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_SCORPION_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 4 , 4 ]
+	pos [ 4 , 1 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0

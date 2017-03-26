@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCHSUBJECT_CAPITALSHIPACESS_CHIMERA"
 DescriptionStringID "IDS_RESEARCHSUBJECT_CAPITALSHIPACESS_CHIMERA_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 3 , 1 ]
+	pos [ 3 , 0 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0
