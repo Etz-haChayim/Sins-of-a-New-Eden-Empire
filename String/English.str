@@ -1,5 +1,119 @@
 TXT
-NumStrings 8061
+NumStrings 8155
+StringInfo
+    ID "IDS_ABILITY_RORQUALPANIC_NAME"
+	Value "P.A.N.I.C Module"
+StringInfo
+    ID "IDS_ABILITY_RORQUALPANIC_DESC"
+	Value "The Pulse Activated Nexus Invulnerability Core makes the Rorqual invulnerable for 2 minutes, however the module has a 10 minute cooldown so use it wisely"
+StringInfo
+    ID "IDS_ABILITY_RORQUALEXTRACTOR_NAME"
+	Value "Mining Boost"
+StringInfo
+    ID "IDS_ABILITY_RORQUALEXTRACTOR_DESC"
+	Value "Boosts the output of nearby Extractors stacks with each Rorqual up to 10 times"
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Cyclone_NAME"
+	Value "Cyclone Envoy BPO"
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Cyclone_DESC"
+	Value "Grants access to the Cyclone variant - regal vessels that can improve relations with opposing factions."
+StringInfo
+    ID "IDS_FRIGATE_CYCLONEENVOY_NAME"
+	Value "Cyclone Envoy"
+StringInfo
+    ID "IDS_FRIGATE_CYCLONEENVOY_DESC"
+	Value "A refitted Cyclone battlecruiser that can improve relations with opposing factions."
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_CURSE_NAME"
+	Value "Curse Upgrade"
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_CURSE_DESC"
+	Value "Upgrade the Arbitrator Cruiser into the Curse Recon Ship."
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_LACHESIS_NAME"
+	Value "Lachesis Upgrade"
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_LACHESIS_DESC"
+	Value "Upgrade the Celestis Cruiser into the Lachesis Recon Ship."
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_THORAX_NAME"
+	Value "Thorax BPO"
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_THORAX_DESC"
+	Value "Gives access to the Thorax cruiser"
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_DEIMOS_NAME"
+	Value "Deimos Upgrade"
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_DEIMOS_DESC"
+	Value "Upgrade the Thorax Cruiser into the Deimos Heavy Assault Cruiser."
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_WIDOW_NAME"
+	Value "Widow Upgrade"
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_WIDOW_DESC"
+	Value "Upgrade the Scorpion Battleship into the Widow Black Ops Battleship."
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_GOLEM_NAME"
+	Value "Golem Upgrade"
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_GOLEM_DESC"
+	Value "Upgrade the Raven Battleship into the Golem Marauder."
+StringInfo
+    ID "IDS_ABILITY_SHIELDWARFAREMINDLINK_NAME"
+	Value "Shield Warfare Mind-Link"
+StringInfo
+    ID "IDS_ABILITY_SHIELDWARFAREMINDLINK_DESC"
+	Value "Boosts other Ships shields"
+StringInfo
+    ID "IDS_ABILITY_REMOTEREPAIRSHIELD_NAME"
+	Value "Remote Shield Booster"
+StringInfo
+    ID "IDS_ABILITY_REMOTEREPAIRSHIELD_DESC"
+	Value "Boosts other Ships shields"
+StringInfo
+    ID "IDS_Allraces_ResearchSubject_PlanetModuleAccess_KeepstarCitadel_NAME"
+	Value "Keepstar Extra-Large Citadel"
+StringInfo
+    ID "IDS_Allraces_ResearchSubject_PlanetModuleAccess_KeepstarCitadel_DESCRIPTION"
+	Value "Grants the ability to deploy Keepstar Citadel to Orcas, allowing them to anchor the extra-large structures in aid of any planet defence."
+StringInfo
+    ID "IDS_ABILITY_DEPLOYCITADELKEEPSTAR_NAME"
+	Value "Construct Keepstar Citadel"
+StringInfo
+    ID "IDS_ABILITY_DEPLOYCITADELKEEPSTAR_DESCRIPTION"
+	Value "Begins construction of an Keepstar citadel at the ship's present location. The ship is consumed in the process."
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Claymore_NAME"
+	Value "Claymore Upgrade"
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Claymore_Description"
+	Value "Upgrade of the Cyclone battlecruiser to the Claymore Command Ship"
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_HUGINN_NAME"
+	Value "Huginn Upgrade"
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_HUGINN_Description"
+	Value "Upgrade of the Bellicose cruiser to the Huginn Recon Ship."
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Sleipnir_NAME"
+	Value "Sleipnir Upgrade"
+StringInfo
+    ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Sleipnir_DESCRIPTION"
+	Value "Upgrade of the Hurricane battlecruiser to the Sleipnir Command Ship"
+StringInfo
+    ID "IDS_GALLENTE_SHIP_CRUISER_ISHTAR_NAME"
+	Value "Ishtar Upgrade"
+StringInfo
+    ID "IDS_GALLENTE_SHIP_CRUISER_ISHTAR_Description"
+	Value "Upgrade of the Vexor cruiser to the Ishtar Heavy Assault Cruiser."
+StringInfo
+    ID "IDS_TITAN_MINMATAR_NAME"
+	Value "Ragnarok"
+StringInfo
+    ID "IDS_TITAN_MINMATAR_DESCRIPTION"
+	Value "The liberty of our people is solely our responsibility. Tempting as it is to foist this burden upon our well-wishers, we must never forget that the onus of our emancipation rests with us and us alone. For too long, our proud people have been subjugated to the whims of enslavers, forced to endure relentless suffering and humiliation at the hands of people whose motivations, masked though they may be by florid religious claptrap, remain as base and despicable as those of the playground bully."
 StringInfo
 	ID "IDSPlayerAINameTech0"
 	Value "Amarr Empire"
@@ -2237,7 +2351,7 @@ StringInfo
 	Value "Duration"
 StringInfo
 	ID "IDS_INFOCARD_TITLE_CREDITS"
-	Value "Credits Summary"
+	Value "ISK Summary"
 StringInfo
 	ID "IDS_INFOCARD_TITLE_METAL"
 	Value "Metal Summary"
@@ -2348,7 +2462,7 @@ StringInfo
 	Value "Has Remote Sensor"
 StringInfo
 	ID "IDS_INFOCARD_BUFFOVERTIME_CREDITRATE"
-	Value "Credits earned /sec"
+	Value "ISK earned /sec"
 StringInfo
 	ID "IDS_INFOCARD_BUFFOVERTIME_DAMAGERATETOPLANET"
 	Value "Bombing damage done /sec"
@@ -2678,7 +2792,7 @@ StringInfo
 	Value "Bounty applied"
 StringInfo
 	ID "IDS_INFOCARD_BUFFVALUE_CREDITSEARNED"
-	Value "Credits earned"
+	Value "ISK earned"
 StringInfo
 	ID "IDS_INFOCARD_BUFFVALUE_RELATIONSHIPINCREASE"
 	Value "Relationship increase"
@@ -2705,7 +2819,7 @@ StringInfo
 	Value "Hold down Shift when increasing Bounty to increase it by larger amounts."
 StringInfo
 	ID "IDS_INFOCARD_STRINGINFO_BOUNTYAGAINSTPLAYER_TOTALAMOUNTTIP1"
-	Value "Important: Credits spent on Bounty cannot be refunded."
+	Value "Important: ISK spent on Bounty cannot be refunded."
 StringInfo
 	ID "IDS_INFOCARD_STRINGINFO_BOUNTYINCAMOUNT"
 	Value "Next Increment: *VALUE0* *VALUE1*"
@@ -3626,7 +3740,7 @@ StringInfo
 	Value "Purchase Next Level"
 StringInfo
 	ID "IDS_INFOCARD_CAPITALSHIPPURCHASENEXTLEVEL_DESCRIPTION"
-	Value "Spend credits to train the crew of this capital ship to the next experience level."
+	Value "Spend ISK to train the crew of this capital ship to the next experience level."
 StringInfo
 	ID "IDS_INFOCARD_UPGRADECOST"
 	Value "Cost: *VALUE0*"
@@ -4184,7 +4298,7 @@ StringInfo
 	Value "Phase space travel to this planet is currently disabled."
 StringInfo
 	ID "IDS_GAMEMESSAGE_NOCREDITS"
-	Value "Insufficient Credits."
+	Value "Insufficient ISK."
 StringInfo
 	ID "IDS_GAMEMESSAGE_NOMETAL"
 	Value "Insufficient Metal."
@@ -4814,7 +4928,7 @@ StringInfo
 	Value "%d/%d"
 StringInfo
 	ID "IDS_RESOURCENAME_CREDITS"
-	Value "Credits"
+	Value "ISK"
 StringInfo
 	ID "IDS_RESOURCENAME_METAL"
 	Value "Metal"
@@ -4940,7 +5054,7 @@ StringInfo
 	Value "Research prerequisites not met."
 StringInfo
 	ID "IDS_CANREQUESTSHIPSTATUS_NOTENOUGHCREDITS"
-	Value "Insufficient Credits."
+	Value "Insufficient ISK."
 StringInfo
 	ID "IDS_CANREQUESTSHIPSTATUS_NOTENOUGHMETAL"
 	Value "Insufficient Metal."
@@ -4967,7 +5081,7 @@ StringInfo
 	Value "Buildable"
 StringInfo
 	ID "IDS_CANBUILDPLANETMODULESTATUS_NOTENOUGHCREDITS"
-	Value "Insufficient Credits."
+	Value "Insufficient ISK."
 StringInfo
 	ID "IDS_CANBUILDPLANETMODULESTATUS_NOTENOUGHMETAL"
 	Value "Insufficient Metal."
@@ -5480,13 +5594,13 @@ StringInfo
 	Value "Plundered Booty"
 StringInfo
 	ID "IDS_PLANETBONUS_PIRATETREASURE_DESC"
-	Value "A vast hoard of ill-gotten riches is shipped back to your capital one cargo hold at a time. Grants a bonus to credit income."
+	Value "A vast hoard of ill-gotten riches is shipped back to your capital one cargo hold at a time. Grants a bonus to ISK income."
 StringInfo
 	ID "IDS_PLANETBONUS_PLANETARYCORRUPTION_NAME"
 	Value "Planetary Corruption"
 StringInfo
 	ID "IDS_PLANETBONUS_PLANETARYCORRUPTION_DESC"
-	Value "Corrupt officials and black market traders have gained a foothold here, leading to reduced tax and trade income."
+	Value "Corrupt officials and Jita Market traders have gained a foothold here, leading to reduced tax and trade income."
 StringInfo
 	ID "IDS_PLANETBONUS_POLLUTEDENVIRONMENT_NAME"
 	Value "Polluted Environment"
@@ -6194,13 +6308,13 @@ StringInfo
 	Value "Persuasive Offers"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_BOUNTYMULTIPLIERBUY_DESCRIPTION"
-	Value "Bounty hunters become easier to manipulate, which leads to greater returns for the credits your empire spends on bounty."
+	Value "Bounty hunters become easier to manipulate, which leads to greater returns for the ISK your empire spends on bounty."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_BOUNTYMULTIPLIERCOLLECT_NAME"
 	Value "Expert Bounty Hunting"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_BOUNTYMULTIPLIERCOLLECT_DESCRIPTION"
-	Value "Increases the amount of credits earned when your empire collects bounty."
+	Value "Increases the amount of ISK earned when your empire collects bounty."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_CAPITALSHIP_CULTUREPROTECTION_NAME"
 	Value "Shock and Awe"
@@ -6218,7 +6332,7 @@ StringInfo
 	Value "Capital Skill Training"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_CAPITALSHIP_MAXBUYLEVELTECH0_DESCRIPTION"
-	Value "Allows credits to be expended in order to raise the level of a capital ships crew."
+	Value "Allows ISK to be expended in order to raise the level of a capital ships crew."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_CAPITALSHIP_MAXBUYLEVELPSI0_NAME"
 	Value "Basic Crew Training"
@@ -6242,7 +6356,7 @@ StringInfo
 	Value "Favored Client Discount"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_CHEAPRESOURCES_DESCRIPTION"
-	Value "Strengthened ties to criminal elements allows your empire to purchase metal and crystal from the Black Market at discounted prices."
+	Value "Strengthened ties to criminal elements allows your empire to purchase metal and crystal from the Jita Market at discounted prices."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_CIVILIAN_EVACUATIONS_NAME"
 	Value "Civilian Evacuations"
@@ -6308,7 +6422,7 @@ StringInfo
 	Value "Enslaved Labor"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_COSTDECREASECREDITS_DESCRIPTION"
-	Value "The local populace on occupied worlds are forced into assisting production, reducing the credit cost of all ships and structures."
+	Value "The local populace on occupied worlds are forced into assisting production, reducing the ISK cost of all ships and structures."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_COSTDECREASERESOURCES_NAME"
 	Value "Optimized Construction"
@@ -7256,7 +7370,7 @@ StringInfo
 	Value "Pricing Pact"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PACT_MARKET_DESCRIPTION"
-	Value "A mutual understanding with traders is reached, giving both factions better rates when purchasing from the black market."
+	Value "A mutual understanding with traders is reached, giving both factions better rates when purchasing from the Jita Market."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PACT_ENERGY_WEAPON_COOLDOWN_NAME"
 	Value "Pulse Pact"
@@ -7316,7 +7430,7 @@ StringInfo
 	Value "Pillaged War Chest"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PILLAGED_WAR_CHEST_DESCRIPTION"
-	Value "Raiders work in coordination with planetary bombardment ships to automatically pillage credits as the planet takes damage."
+	Value "Raiders work in coordination with planetary bombardment ships to automatically pillage ISK as the planet takes damage."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PIRATERAIDDECREASE_NAME"
 	Value "Raider Xenophobia"
@@ -7334,7 +7448,7 @@ StringInfo
 	Value "Political Kickbacks"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_POLITICAL_KICKBACKS_DESCRIPTION"
-	Value "Our diplomats recieve bribery training, increasing the relations gained by giving Credits to other factions."
+	Value "Our diplomats recieve bribery training, increasing the relations gained by giving ISK to other factions."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETACCESS_GREENHOUSEPHASE_NAME"
 	Value "Greenhouse Occupation"
@@ -7502,19 +7616,19 @@ StringInfo
 	Value "Orbital Commerce"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETMODULEACCESS_MARKETTECH_DESCRIPTION"
-	Value "Grants access to the Trade Port structure, allowing increased credit income through trade traffic between planets with trade ports."
+	Value "Grants access to the Trade Port structure, allowing increased ISK income through trade traffic between planets with trade ports."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETMODULEACCESS_MARKETPSI_NAME"
 	Value "Interplanetary Trade"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETMODULEACCESS_MARKETPSI_DESCRIPTION"
-	Value "Grants access to the Trade Port structure, allowing increased credit income through trade traffic between planets with trade ports."
+	Value "Grants access to the Trade Port structure, allowing increased ISK income through trade traffic between planets with trade ports."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETMODULEACCESS_MARKETPHASE_NAME"
 	Value "Off-World Exports"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETMODULEACCESS_MARKETPHASE_DESCRIPTION"
-	Value "Grants access to the Trade Port structure, allowing increased credit income through trade traffic between planets with trade ports."
+	Value "Grants access to the Trade Port structure, allowing increased ISK income through trade traffic between planets with trade ports."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_PLANETMODULEACCESS_REFINERYTECH_NAME"
 	Value "Orbital Refinement"
@@ -7844,7 +7958,7 @@ StringInfo
 	Value "Improved Salvaging"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SALVAGEEFFICIENCY_DESCRIPTION"
-	Value "Increases the credits refunded and decreases the time to salvage planetary structures."
+	Value "Increases the ISK refunded and decreases the time to salvage planetary structures."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SAVAGE_THRILL_NAME"
 	Value "Savage Thrill"
@@ -8102,7 +8216,7 @@ StringInfo
 	Value "Stripped to the Core"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRIPPED_TO_THE_CORE_DESCRIPTION"
-	Value "Allows you to consume a planet once you abandon it, stripping it of all natural resources to generate a huge amount of credits, metal and crystal. The planet is transformed into a Dead Asteroid."
+	Value "Allows you to consume a planet once you abandon it, stripping it of all natural resources to generate a huge amount of ISK, metal and crystal. The planet is transformed into a Dead Asteroid."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_STRUCTUREPRICEDECREASE_NAME"
 	Value "Modular Architecture"
@@ -8768,7 +8882,7 @@ StringInfo
 	Value "Universal Negotiation"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_UNIVERSAL_NEGOTIATION_DESCRIPTION"
-	Value "Allows you to offer and demand gifts of credits, metal and crystal from other factions."
+	Value "Allows you to offer and demand gifts of ISK, metal and crystal from other factions."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_BOUNTY_HUNTING_NAME"
 	Value "Bounty Hunting"
@@ -8792,7 +8906,7 @@ StringInfo
 	Value "Xeno-Manipulation"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_XENO_MANIPULATION_DESCRIPTION"
-	Value "Allows you to offer and demand gifts of credits, metal and crystal from opposing factions."
+	Value "Allows you to offer and demand gifts of ISK, metal and crystal from opposing factions."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_ADVANCED_XENO_MANIPULATION_NAME"
 	Value "Xeno Influence"
@@ -8804,7 +8918,7 @@ StringInfo
 	Value "Overtures"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_OVERTURES_DESCRIPTION"
-	Value "Allows you to offer and demand gifts of credits, metal and crystal to opposing factions."
+	Value "Allows you to offer and demand gifts of ISK, metal and crystal to opposing factions."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_VENDETTA_NAME"
 	Value "Vendetta"
@@ -10268,7 +10382,7 @@ StringInfo
 	Value "Drain Planet"
 StringInfo
 	ID "IDS_ABILITY_RESOURCEDRAIN_DESCRIPTION"
-	Value "A powerful vortex sucks resources off a planet, giving credits to your empire and dealing damage to any structures on the surface."
+	Value "A powerful vortex sucks resources off a planet, giving ISK to your empire and dealing damage to any structures on the surface."
 StringInfo
 	ID "IDS_ABILITY_RESURRECTION_NAME"
 	Value "Resurrection"
@@ -10514,7 +10628,7 @@ StringInfo
 	Value "Plunder"
 StringInfo
 	ID "IDS_ABILITY_STEALRESOURCES_DESC"
-	Value "Steals credits from a target enemy ship."
+	Value "Steals ISK from a target enemy ship."
 StringInfo
 	ID "IDS_ABILITY_STUNBURST_NAME"
 	Value "E.M.P."
@@ -12188,7 +12302,7 @@ StringInfo
 	Value "Open Criminal Underground Window"
 StringInfo
 	ID "IDS_UIMAPPINGNAME_OPENMARKETSCREEN"
-	Value "Open Black Market Window"
+	Value "Open Jita Market Window"
 StringInfo
 	ID "IDS_UIMAPPINGNAME_OPENPIRATESCREEN"
 	Value "Open Pirate Window"
@@ -13337,7 +13451,7 @@ StringInfo
 	Value "Join me, and together we can rule the galaxy as... um, you and me."
 StringInfo
 	ID "IDS_TAUNT_TECH_AllianceOfferTrade"
-	Value "Would you like to earn a few extra credits?"
+	Value "Would you like to earn a few extra ISK?"
 StringInfo
 	ID "IDS_TAUNT_TECH_AllianceOfferTrade"
 	Value "Can I interest you in some merchandise?"
@@ -14279,10 +14393,10 @@ StringInfo
 	Value "A trade agreement with the Unity may be beneficial to you."
 StringInfo
 	ID "IDS_TAUNT_PSI_AllianceOfferTrade"
-	Value "A few more credits will do neither of us harm."
+	Value "A few more ISK will do neither of us harm."
 StringInfo
 	ID "IDS_TAUNT_PSI_AllianceOfferTrade"
-	Value "I'm sure you could use a few extra credits?"
+	Value "I'm sure you could use a few extra ISK?"
 StringInfo
 	ID "IDS_TAUNT_PSI_AllianceOfferTrade"
 	Value "The Unity has wealth to share. Are you interested?"
@@ -15080,10 +15194,10 @@ StringInfo
 	Value "An excellent suggestion!"
 StringInfo
 	ID "IDS_TAUNT_PHASE_AllianceAcceptTrade"
-	Value "Good idea. I could use some extra credits."
+	Value "Good idea. I could use some extra ISK."
 StringInfo
 	ID "IDS_TAUNT_PHASE_AllianceAcceptTrade"
-	Value "A few extra credits never hurt anybody."
+	Value "A few extra ISK never hurt anybody."
 StringInfo
 	ID "IDS_TAUNT_PHASE_AllianceAcceptTrade"
 	Value "Our economy could use a boost. Good idea."
@@ -15191,10 +15305,10 @@ StringInfo
 	Value "We can both make some money from a trade agreement."
 StringInfo
 	ID "IDS_TAUNT_PHASE_AllianceOfferTrade"
-	Value "I'm sure your economy wouldn't suffer from a few extra credits."
+	Value "I'm sure your economy wouldn't suffer from a few extra ISK."
 StringInfo
 	ID "IDS_TAUNT_PHASE_AllianceOfferTrade"
-	Value "A few extra credits would not hurt our economies."
+	Value "A few extra ISK would not hurt our economies."
 StringInfo
 	ID "IDS_TAUNT_PHASE_AllianceOfferTrade"
 	Value "Let's trade."
@@ -15617,7 +15731,7 @@ StringInfo
 	Value "If that was you putting bounty on us... don't."
 StringInfo
 	ID "IDS_TAUNT_PHASE_BountyIncreasedOther"
-	Value "Save your bounty money to defend your worlds. You're going to need every credit you can get."
+	Value "Save your bounty money to defend your worlds. You're going to need every ISK you can get."
 StringInfo
 	ID "IDS_TAUNT_PHASE_AllyResourcesReceived"
 	Value "A generous gesture."
@@ -16100,13 +16214,13 @@ StringInfo
 	Value "Welcome to the Economy and Production tutorial. You will learn about the resources in Sins of a Solar Empire: Rebellion, how to acquire them, and how to spend them on units and structures."
 StringInfo
 	ID "IDS_TUTORIAL_RESOURCING_INTRORESOURCES"
-	Value "There are three resources in Sins of a Solar Empire: Credits, Metal, and Crystal. Credits are the most basic and universal resource. They are a part of the cost of all units, structures and research."
+	Value "There are three resources in Sins of a Solar Empire: ISK, Metal, and Crystal. ISK are the most basic and universal resource. They are a part of the cost of all units, structures and research."
 StringInfo
 	ID "IDS_TUTORIAL_RESOURCING_EXPLAINCREDITS"
-	Value "Additionally, credits ease certain transactions between empires, whether it be through the buying and selling of resources on the Black Market, or in the form of bounty against other empires."
+	Value "Additionally, ISK ease certain transactions between empires, whether it be through the buying and selling of resources on the Jita Market, or in the form of bounty against other empires."
 StringInfo
 	ID "IDS_TUTORIAL_RESOURCING_EXPLAINCREDITSSOURCE0"
-	Value "In the previous tutorial, you learned that your empire earns credits from the tax income of the population of planets under your control."
+	Value "In the previous tutorial, you learned that your empire earns ISK from the tax income of the population of planets under your control."
 StringInfo
 	ID "IDS_TUTORIAL_RESOURCING_EXPLAINCREDITSSOURCE1"
 	Value "By investing in planet development, you can increase your tax income by raising the maximum sustainable population of your planets. To do this, click the Develop Planet button."
@@ -16118,7 +16232,7 @@ StringInfo
 	Value "Good. Civilian Infrastructure also affects Underdevelopment Tax Rate, which is a reduction to taxes that affects newly colonized planets."
 StringInfo
 	ID "IDS_TUTORIAL_RESOURCING_EXPLAINPOPUPGRADE1"
-	Value "Until a certain number of these upgrades are performed, these planets will be a drain on your empire's credit income."
+	Value "Until a certain number of these upgrades are performed, these planets will be a drain on your empire's ISK income."
 StringInfo
 	ID "IDS_TUTORIAL_RESOURCING_EXPLAINMETAL"
 	Value "Metal is one of two secondary resources, and is primarily used in the construction of ships and structures. It is acquired from asteroids rich in metal ore via a Metal Extractor structure."
@@ -16367,10 +16481,10 @@ StringInfo
 	Value "As your empire expands to more and more planets, your income growth will begin to lessen due to lost allegiance. One way of offsetting this is by building Trade Ports."
 StringInfo
 	ID "IDS_TUTORIAL_ADVANCEDRESOURCING_INTROTRADEPORT1"
-	Value "Trade Ports automatically produce autonomous trade ships that transport goods between friendly planets with Trade Ports. Each Trade Port produces credits over time, at a rate that scales with the number of trade ships it has launched."
+	Value "Trade Ports automatically produce autonomous trade ships that transport goods between friendly planets with Trade Ports. Each Trade Port produces ISK over time, at a rate that scales with the number of trade ships it has launched."
 StringInfo
 	ID "IDS_TUTORIAL_ADVANCEDRESOURCING_INTROTRADEPORT2"
-	Value "Each Trade Port also earns extra income proportional to the longest chain of planets with trade ports in your trade network. You can see the extents of this chain by mousing over your credit summary at the top of the HUD."
+	Value "Each Trade Port also earns extra income proportional to the longest chain of planets with trade ports in your trade network. You can see the extents of this chain by mousing over your ISK summary at the top of the HUD."
 StringInfo
 	ID "IDS_TUTORIAL_ADVANCEDRESOURCING_BUILDTRADEPORTS"
 	Value "Go ahead and build a Trade Port at both your terran and desert planets. They are built from the Logistics Structure menu. For the rest of the tutorial the restrictions on how many structures you can build will be relaxed."
@@ -16562,13 +16676,13 @@ StringInfo
 	Value "Additional details on what a Pact provides and how much relationship is required of both players is shown on its InfoCard. Note that both empire's gain the benefits of a Pact. Click the Close button to return to the Diplomacy screen."
 StringInfo
 	ID "IDS_TUTORIAL_DIPLOMACY_MISSION_OFFER"
-	Value "From time to time, other empires may offer you missions to complete, or request aid from you in the form of credits or resources."
+	Value "From time to time, other empires may offer you missions to complete, or request aid from you in the form of ISK or resources."
 StringInfo
 	ID "IDS_TUTORIAL_DIPLOMACY_MISSION_OFFERED"
 	Value "You've just been offered a mission! Mission details can be seen by selecting the Diplomacy screen tab for the offering player."
 StringInfo
 	ID "IDS_TUTORIAL_DIPLOMACY_MISSION_REWARDS"
-	Value "The reward, penalty for failure and the target of the mission request is displayed. This example offers a 0.25 bonus to relationship - which would be shown on the Relationship Infocard under Missions - plus some credits and resources."
+	Value "The reward, penalty for failure and the target of the mission request is displayed. This example offers a 0.25 bonus to relationship - which would be shown on the Relationship Infocard under Missions - plus some ISK and resources."
 StringInfo
 	ID "IDS_TUTORIAL_DIPLOMACY_MISSION_DEFAULT"
 	Value "Missions are assumed to be accepted unless you specifically Reject them by clicking the Reject button in the upper-right corner. Rejecting a mission will hurt your standing with the faction offering the mission, but not nearly as much as failing the mission outright."
@@ -16577,7 +16691,7 @@ StringInfo
 	Value "By researching the appropriate technology from the Diplomacy tree, you can offer missions to other players also."
 StringInfo
 	ID "IDS_TUTORIAL_DIPLOMACY_GIFTS"
-	Value "A quick, if temporary way, of winning friends is with gifts. With some diplomatic research, you can donate credits or resources to other factions. This can be a great way of getting an empire to do what you want quickly."
+	Value "A quick, if temporary way, of winning friends is with gifts. With some diplomatic research, you can donate ISK or resources to other factions. This can be a great way of getting an empire to do what you want quickly."
 StringInfo
 	ID "IDS_TUTORIAL_DIPLOMACY_ENVOYS_INTRO"
 	Value "A more permanent boost to relations can be gained through the use of Envoys. These are special, non-offensive, diplomatic cruisers that you can send to other empires you have a Cease Fire treaty with."
@@ -16595,7 +16709,7 @@ StringInfo
 	Value "While initial pirate raids are easy to deal with, they will grow in numbers and strength over time. Pirates will also upgrade their ships as they collect bounty."
 StringInfo
 	ID "IDS_TUTORIAL_DIPLOMACY_PIRATE_MISSIONS"
-	Value "With a little research and backroom dealings, you can even pay Pirates to go on specific missions for your empire. Credits is all it will require."
+	Value "With a little research and backroom dealings, you can even pay Pirates to go on specific missions for your empire. ISK is all it will require."
 StringInfo
 	ID "IDS_TUTORIAL_DIPLOMACY_END"
 	Value "This concludes the Diplomacy tutorial."
@@ -16715,7 +16829,7 @@ StringInfo
 	Value "Not Owned"
 StringInfo
 	ID "IDS_PLANETUPGRADEPATHCANQUEUENEXTSTAGESTATUS_NOTENOUGHCREDITS"
-	Value "Insufficient Credits"
+	Value "Insufficient ISK"
 StringInfo
 	ID "IDS_PLANETUPGRADEPATHCANQUEUENEXTSTAGESTATUS_NOTENOUGHMETAL"
 	Value "Insufficient Metal"
@@ -16904,58 +17018,58 @@ StringInfo
 	Value "Fleet Logistics"
 StringInfo
 	ID "IDS_GameStat_CreditIncomeRate"
-	Value "Credit income rate"
+	Value "ISK income rate"
 StringInfo
 	ID "IDS_GameStat_CreditsGainedFromPlanetIncome"
-	Value "Credits gained from planet income"
+	Value "ISK gained from planet income"
 StringInfo
 	ID "IDS_GameStat_CreditsGainedFromTradeShips"
-	Value "Credits gained from trade ships"
+	Value "ISK gained from trade ships"
 StringInfo
 	ID "IDS_GameStat_CreditsGainedFromPlayerTransfer"
-	Value "Credits received from allies"
+	Value "ISK received from allies"
 StringInfo
 	ID "IDS_GameStat_CreditsGainedFromStockMarket"
-	Value "Credits gained from selling to the black market"
+	Value "ISK gained from selling to the Jita Market"
 StringInfo
 	ID "IDS_GameStat_CreditsGainedFromStockMarketBucket"
-	Value "Credits gained from selling to other players"
+	Value "ISK gained from selling to other players"
 StringInfo
 	ID "IDS_GameStat_CreditsGainedFromOther"
-	Value "Credits gained from other sources"
+	Value "ISK gained from other sources"
 StringInfo
 	ID "IDS_GameStat_CreditsLostToPlayerTransfer"
-	Value "Credits given to allies"
+	Value "ISK given to allies"
 StringInfo
 	ID "IDS_GameStat_CreditsLostToBountyIncrease"
-	Value "Credits spent on bounty"
+	Value "ISK spent on bounty"
 StringInfo
 	ID "IDS_GameStat_CreditsLostToPlanetIncome"
-	Value "Credits lost to planet underdevelopment"
+	Value "ISK lost to planet underdevelopment"
 StringInfo
 	ID "IDS_GameStat_CreditsLostToStockMarket"
-	Value "Credits spent on the black market"
+	Value "ISK spent on the Jita Market"
 StringInfo
 	ID "IDS_GameStat_CreditsLostToShipPurchase"
-	Value "Credits spent on ships"
+	Value "ISK spent on ships"
 StringInfo
 	ID "IDS_GameStat_CreditsLostToModulePurchase"
-	Value "Credits spent on structures"
+	Value "ISK spent on structures"
 StringInfo
 	ID "IDS_GameStat_CreditsLostToPlanetUpgradePurchase"
-	Value "Credits spent on planets"
+	Value "ISK spent on planets"
 StringInfo
 	ID "IDS_GameStat_CreditsLostToResearchSubjectPurchase"
-	Value "Credits spent on research"
+	Value "ISK spent on research"
 StringInfo
 	ID "IDS_GameStat_CreditsLostToCapitalShipLevelPurchase"
-	Value "Credits spent on capital ship levels"
+	Value "ISK spent on capital ship levels"
 StringInfo
 	ID "IDS_GameStat_CreditsLostToStarBaseUpgradePurchase"
-	Value "Credits spent on starbase upgrades"
+	Value "ISK spent on starbase upgrades"
 StringInfo
 	ID "IDS_GameStat_CreditsLostToOther"
-	Value "Credits lost to other sources"
+	Value "ISK lost to other sources"
 StringInfo
 	ID "IDS_GameStat_MetalIncomeRate"
 	Value "Metal income rate"
@@ -16970,7 +17084,7 @@ StringInfo
 	Value "Metal received from allies"
 StringInfo
 	ID "IDS_GameStat_MetalGainedFromStockMarket"
-	Value "Metal gained from the black market"
+	Value "Metal gained from the Jita Market"
 StringInfo
 	ID "IDS_GameStat_MetalGainedFromOther"
 	Value "Metal gained from other sources"
@@ -16979,7 +17093,7 @@ StringInfo
 	Value "Metal given to allies"
 StringInfo
 	ID "IDS_GameStat_MetalLostToStockMarket"
-	Value "Metal sold on the black market"
+	Value "Metal sold on the Jita Market"
 StringInfo
 	ID "IDS_GameStat_MetalLostToStockMarketBucket"
 	Value "Metal to be sold to other players"
@@ -17015,7 +17129,7 @@ StringInfo
 	Value "Crystal received from allies"
 StringInfo
 	ID "IDS_GameStat_CrystalGainedFromStockMarket"
-	Value "Crystal gained from the black market"
+	Value "Crystal gained from the Jita Market"
 StringInfo
 	ID "IDS_GameStat_CrystalGainedFromOther"
 	Value "Crystal gained from other sources"
@@ -17024,7 +17138,7 @@ StringInfo
 	Value "Crystal given to allies"
 StringInfo
 	ID "IDS_GameStat_CrystalLostToStockMarket"
-	Value "Crystal sold on the black market"
+	Value "Crystal sold on the Jita Market"
 StringInfo
 	ID "IDS_GameStat_CrystalLostToStockMarketBucket"
 	Value "Crystal to be sold to other players"
@@ -17234,7 +17348,7 @@ StringInfo
 	Value "Structure - Utility"
 StringInfo
 	ID "IDS_GameStat_CreditsAvailable"
-	Value "Credits available"
+	Value "ISK available"
 StringInfo
 	ID "IDS_GameStat_MetalAvailable"
 	Value "Metal available"
@@ -17360,7 +17474,7 @@ StringInfo
 	Value "User Actions"
 StringInfo
 	ID "IDS_GameStatGroup_Credits"
-	Value "Credits"
+	Value "ISK"
 StringInfo
 	ID "IDS_GameStatGroup_Metal"
 	Value "Metal"
@@ -18164,7 +18278,7 @@ StringInfo
 	Value "Active Pirates:"
 StringInfo
 	ID "IDSIcoCustomGameInfoIsBlackMarketActive"
-	Value "Active Black Market:"
+	Value "Active Jita Market:"
 StringInfo
 	ID "IDSIcoCustomGameInfoArePiratesActiveTrue"
 	Value "True"
@@ -18341,13 +18455,13 @@ StringInfo
 	Value "Resource extraction increase:"
 StringInfo
 	ID "IDS_RESEARCHFLOATMODIFIER_CREDITCOSTADJUSTMENT"
-	Value "Credit cost decrease:"
+	Value "ISK cost decrease:"
 StringInfo
 	ID "IDS_RESEARCHFLOATMODIFIER_CREDITSGAINEDPERPOINTOFBOMBINGDAMAGEDEALT"
-	Value "Credits gained:"
+	Value "ISK gained:"
 StringInfo
 	ID "IDS_RESEARCHFLOATMODIFIER_CREDITSGAINEDONPLANETSTRIPPED"
-	Value "Credits gained:"
+	Value "ISK gained:"
 StringInfo
 	ID "IDS_RESEARCHFLOATMODIFIER_METALGAINEDONPLANETSTRIPPED"
 	Value "Metal gained:"
@@ -18359,10 +18473,10 @@ StringInfo
 	Value "Resource cost decrease:"
 StringInfo
 	ID "IDS_RESEARCHFLOATMODIFIER_DERIVATIVECREDITSFROMPURCHASESPERCENT"
-	Value "Sale to credit conversion:"
+	Value "Sale to ISK conversion:"
 StringInfo
 	ID "IDS_RESEARCHFLOATMODIFIER_DERIVATIVECREDITSFROMTRADEPERCENT"
-	Value "Trade to credit conversion:"
+	Value "Trade to ISK conversion:"
 StringInfo
 	ID "IDS_RESEARCHFLOATMODIFIER_EXPERIENCEAWARDEDADJUSTMENT"
 	Value "Bonus combat experience:"
@@ -18575,7 +18689,7 @@ StringInfo
 	Value "Max Relations bonus increase:"
 StringInfo
 	ID "IDS_RESEARCHFLOATMODIFIER_TEMPORARYRELATIONSHIPFROMGIVECREDITSVALUEADJUSTMENT"
-	Value "Credits relations boost:"
+	Value "ISK relations boost:"
 StringInfo
 	ID "IDS_RESEARCHFLOATMODIFIER_TEMPORARYRELATIONSHIPFROMGIVEMETALVALUEADJUSTMENT"
 	Value "Metal relations boost:"
@@ -18785,7 +18899,7 @@ StringInfo
 	Value "Available"
 StringInfo
 	ID "IDS_ISTARBASEUPGRADECANQUEUENEXTSTAGESTATUS_NOTENOUGHCREDITS"
-	Value "Insufficient Credits."
+	Value "Insufficient ISK."
 StringInfo
 	ID "IDS_ISTARBASEUPGRADECANQUEUENEXTSTAGESTATUS_NOTENOUGHMETAL"
 	Value "Insufficient Metal."
@@ -20234,7 +20348,7 @@ StringInfo
 	Value "%s:00"
 StringInfo
 	ID "IDSPlayerScreenPriceCreditsButton"
-	Value "%s Credits"
+	Value "%s ISK"
 StringInfo
 	ID "IDSPlayerScreenPriceMetalButton"
 	Value "%s Metal"
@@ -20243,7 +20357,7 @@ StringInfo
 	Value "%s Crystal"
 StringInfo
 	ID "IDSPlayerScreenRewardCreditsButton"
-	Value "%s Credits"
+	Value "%s ISK"
 StringInfo
 	ID "IDSPlayerScreenRewardMetalButton"
 	Value "%s Metal"
@@ -20321,7 +20435,7 @@ StringInfo
 	Value "You have lost."
 StringInfo
 	ID "IDSPlayerScreen_CanOfferQuest_NotEnoughCredits"
-	Value "You do not have enough credits."
+	Value "You do not have enough ISK."
 StringInfo
 	ID "IDSPlayerScreen_CanOfferQuest_PiratesBusy"
 	Value "The pirates are already on another mission."
@@ -20456,7 +20570,7 @@ StringInfo
 	Value "Sansha Incursions"
 StringInfo
 	ID "IDSNPCScreenMarketTabButton"
-	Value "Black Market"
+	Value "Jita Market"
 StringInfo
 	ID "IDSPirateScreenStrength0"
 	Value "WEAK"
@@ -20483,7 +20597,7 @@ StringInfo
 	Value "%d"
 StringInfo
 	ID "IDSMarketScreenTitle"
-	Value "BLACK MARKET"
+	Value "JITA MARKET"
 StringInfo
 	ID "IDSMarketScreenBuyButtonFormat"
 	Value "Buy %d"
@@ -20597,10 +20711,10 @@ StringInfo
 	Value "Sansha Incursions Inactive"
 StringInfo
 	ID "IDSGameOptionsIsBlackMarketEnabledTrue"
-	Value "Black Market Enabled"
+	Value "Jita Market Enabled"
 StringInfo
 	ID "IDSGameOptionsIsBlackMarketEnabledFalse"
-	Value "Black Market Disabled"
+	Value "Jita Market Disabled"
 StringInfo
 	ID "IDSGameOptionsUseQuickStartTrue"
 	Value "Quick Start"
@@ -20807,7 +20921,7 @@ StringInfo
 	Value "Main Menu"
 StringInfo
 	ID "IDSStatsScreenTabButtonCredits"
-	Value "Credits"
+	Value "ISK"
 StringInfo
 	ID "IDSStatsScreenTabButtonMetal"
 	Value "Metal"
@@ -21062,7 +21176,7 @@ StringInfo
 	Value "Random Uncolonizable Non-Magnetic Fair"
 StringInfo
 	ID "IDSQuestGiveCredits"
-	Value "Give Credits"
+	Value "Give ISK"
 StringInfo
 	ID "IDSQuestGiveCrystal"
 	Value "Give Crystal"
@@ -21089,7 +21203,7 @@ StringInfo
 	Value "Send Envoy"
 StringInfo
 	ID "IDSQuestInfoCardDescGiveCredits"
-	Value "Give Credits to this player to complete the mission."
+	Value "Give ISK to this player to complete the mission."
 StringInfo
 	ID "IDSQuestInfoCardDescGiveCrystal"
 	Value "Give Crystal to this player to complete the mission."
@@ -21461,13 +21575,13 @@ StringInfo
 	Value "Tip: You can focus on game events by selecting their card in bottom left, then pressing 'Spacebar'"
 StringInfo
 	ID "IDSLoadScreenTip20"
-	Value "Tip: Building trade ports in adjacent planets will link them together. The longer the chain, the greater the income generated per trade port. Hold the cursor over your credit summary to highlight your longest chain."
+	Value "Tip: Building trade ports in adjacent planets will link them together. The longer the chain, the greater the income generated per trade port. Hold the cursor over your ISK summary to highlight your longest chain."
 StringInfo
 	ID "IDSLoadScreenTip21"
 	Value "Tip: Refineries can exploit owned and adjacent resource asteroids. Asteroids can only support a fixed number of refineries at a time."
 StringInfo
 	ID "IDSLoadScreenTip22"
-	Value "Tip: Killing enemy trade or refinery ships will give you credits and decrease the unfortunate owner's rate of income until they are built again."
+	Value "Tip: Killing enemy trade or refinery ships will give you ISK and decrease the unfortunate owner's rate of income until they are built again."
 StringInfo
 	ID "IDSLoadScreenTip23"
 	Value "Tip: Enemy culture on your planets will decrease their allegiance. If planet allegiance reaches 0% you will lose control of the planet."
@@ -21479,7 +21593,7 @@ StringInfo
 	Value "Tip: Your maximum planet Allegiance is based on the planet's distance from your Capital planet."
 StringInfo
 	ID "IDSLoadScreenTip26"
-	Value "Tip: Planets with low Allegiance will have lower credit and resource income."
+	Value "Tip: Planets with low Allegiance will have lower ISK and resource income."
 StringInfo
 	ID "IDSLoadScreenTip27"
 	Value "Tip: Explore planets from their Planet Development menu to find valuable artifacts and other bonuses."
@@ -21503,7 +21617,7 @@ StringInfo
 	Value "Tip: Capital ships and titans can gain levels from experience earned by being present when enemy ships are destroyed in combat or by purchasing training for them."
 StringInfo
 	ID "IDSLoadScreenTip34"
-	Value "Tip: Watch out for pirate Pillager ships, they can steal credits from your empire by targetting ships and structures with their Plunder ability."
+	Value "Tip: Watch out for pirate Pillager ships, they can steal ISK from your empire by targetting ships and structures with their Plunder ability."
 StringInfo
 	ID "IDSLoadScreenTip35"
 	Value "Tip: AI players can be influenced if they are happy enough with you. If you complete enough missions, you will be able to ask him to attack or defend planets for you."
@@ -21728,7 +21842,7 @@ StringInfo
 	Value "Money Lender"
 StringInfo
 	ID "IDSAchievementDescHasGivenCredits"
-	Value "Give %s Credits to other players."
+	Value "Give %s ISK to other players."
 StringInfo
 	ID "IDSAchievementNameHasGivenMetal"
 	Value "Metal Lender"
@@ -21782,13 +21896,13 @@ StringInfo
 	Value "Tax Collector"
 StringInfo
 	ID "IDSAchievementDescHasMadeTaxIncome"
-	Value "Collect %s Credits from taxes in a single game."
+	Value "Collect %s ISK from taxes in a single game."
 StringInfo
 	ID "IDSAchievementNameHasMadeTradeIncome"
 	Value "Export Maven"
 StringInfo
 	ID "IDSAchievementDescHasMadeTradeIncome"
-	Value "Collect %s Credits from trade ships in a single game."
+	Value "Collect %s ISK from trade ships in a single game."
 StringInfo
 	ID "IDSAchievementNameHasMadeMetalIncome"
 	Value "Metal Miner"
@@ -21884,37 +21998,37 @@ StringInfo
 	Value "Metal Speculator"
 StringInfo
 	ID "IDSAchievementDescHasBoughtMetal"
-	Value "Buy %s Metal from the Black Market"
+	Value "Buy %s Metal from the Jita Market"
 StringInfo
 	ID "IDSAchievementNameHasSoldMetalToMarket"
 	Value "Metal Merchant"
 StringInfo
 	ID "IDSAchievementDescHasSoldMetalToMarket"
-	Value "Sell %s Metal directly to the Black Market"
+	Value "Sell %s Metal directly to the Jita Market"
 StringInfo
 	ID "IDSAchievementNameHasBoughtCrystal"
 	Value "Crystal Speculator"
 StringInfo
 	ID "IDSAchievementDescHasBoughtCrystal"
-	Value "Buy %s Crystal from the Black Market"
+	Value "Buy %s Crystal from the Jita Market"
 StringInfo
 	ID "IDSAchievementNameHasSoldCrystalToMarket"
 	Value "Crystal Merchant"
 StringInfo
 	ID "IDSAchievementDescHasSoldCrystalToMarket"
-	Value "Sell %s Crystal directly to the Black Market"
+	Value "Sell %s Crystal directly to the Jita Market"
 StringInfo
 	ID "IDSAchievementNameHasSoldResourcesToPlayers"
 	Value "Resource Opportunist"
 StringInfo
 	ID "IDSAchievementDescHasSoldResourcesToPlayers"
-	Value "Gain %s Credits from other players buying up your resources."
+	Value "Gain %s ISK from other players buying up your resources."
 StringInfo
 	ID "IDSAchievementNameHasIncreasedBounty"
 	Value "He's no good to me dead"
 StringInfo
 	ID "IDSAchievementDescHasIncreasedBounty"
-	Value "Spend %s credits increasing the bounty on other players in a single game."
+	Value "Spend %s ISK increasing the bounty on other players in a single game."
 StringInfo
 	ID "IDSAchievementNameHasColonizedPlanets"
 	Value "Colonizer"
@@ -21998,7 +22112,7 @@ StringInfo
 	Value "Research"
 StringInfo
 	ID "IDSPlayerRankingNameCreditIncome"
-	Value "Credits"
+	Value "ISK"
 StringInfo
 	ID "IDSPlayerRankingNameMetalIncome"
 	Value "Metal"
@@ -22274,7 +22388,7 @@ StringInfo
 	Value "Target Player: *VALUE0*"
 StringInfo
 	ID "IDS_QUESTINFOCARDSTATUS_GIVERESOURCES"
-	Value "Remaining Credits: %i Metal: %i Crystal: %i"
+	Value "Remaining ISK: %i Metal: %i Crystal: %i"
 StringInfo
 	ID "IDS_QUESTINFOCARDSTATUS_KILLSHIPS"
 	Value "Remaining Ships: %i"
@@ -22514,7 +22628,7 @@ StringInfo
 	Value "Income Rate"
 StringInfo
 	ID "IDS_GAMEOPTION_INCOMESPEED_DESCRIPTION"
-	Value "Determines how quickly players collect credits and resources."
+	Value "Determines how quickly players collect ISK and resources."
 StringInfo
 	ID "IDS_GAMEOPTION_BUILDSPEED_NAME"
 	Value "Build Speed"
@@ -23429,7 +23543,7 @@ StringInfo
 	Value "Shield Mind-link"
 StringInfo
 	ID "IDS_ABILITY_BOOSTSHIELD_DESCRIPTION"
-	Value "The Shileded Warfare Mind-link is a special module fitted to Command Battlecruisers designed to give specific assisting bonuses to nearby combat ships, this particular module increases the shield resistance value of all nearby combat ships."	
+	Value "The Shield Warfare Mind-link is a special module fitted to Command Battlecruisers designed to give specific assisting bonuses to nearby combat ships, this particular module increases the shield resistance value of all nearby combat ships."	
 StringInfo
 	ID "IDS_ABILITY_TRIAGEBOOST_NAME"
 	Value "Triage Booster"
@@ -23528,7 +23642,7 @@ StringInfo
 	Value "The earliest of the Amarr battlecruisers, the prophecy has been in the empire for a long time. It has since been refitted as a command battlecruiser sporting command link arrays which will boost the armour resistance of all friendly ships armour, The bonus will also provide a fixed boost to hull HP which can greatly assist in the survivability of smaller ships such as frigates and destroyers."
 StringInfo
 	ID "IDS_CRUISER_SCYTHER_NAME"
-	Value "Scyther"
+	Value "Scythe"
 StringInfo
 	ID "IDS_CRUISER_SCYTHER_DESCRIPTION"
 	Value "A small but heavily armoured cruiser designed to provide armour to nearby friendly ships. It transfers armour to other ships at an impressive range in order to allow it to carry out its logistics role at a safe distance from a battle."
@@ -23615,25 +23729,25 @@ StringInfo
 	Value "Black Ops battleship"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_RAGNAROK_NAME"
-	Value "Ragnarok"
+	Value "Ragnarok BPO"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_TITANACCESS_RAGNAROK_DESCRIPTION"
 	Value "The liberty of our people is solely our responsibility. Tempting as it is to foist this burden upon our well-wishers, we must never forget that the onus of our emancipation rests with us and us alone. For too long, our proud people have been subjugated to the whims of enslavers, forced to endure relentless suffering and humiliation at the hands of people whose motivations, masked though they may be by florid religious claptrap, remain as base and despicable as those of the playground bully."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_CapitalAccess_Hel_NAME"
-	Value "Hel"
+	Value "Hel BPO"
 StringInfo	
 	ID "IDS_RESEARCHSUBJECT_CapitalAccess_Hel_DESCRIPTION"
 	Value "Inspired by a vicious scissor-toothed shark indigenous to old-world Matar, the Hel is widely viewed as a sign of a Republic out for blood. Since the beginning of its development it has remained a project cloaked in secrecy, with precious few people aware of its progress and its capabilities, and its formal unveiling has come as a defiant slap in the face to many who formerly believed the Matari incapable of working at this scale of starship design. "
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_CapitalAccess_Naglfar_NAME"
-	Value "Naglfar"
+	Value "Naglfar BPO"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_CapitalAccess_Naglfar_DESCRIPTION"
 	Value "The Naglfar is based on a Matari design believed to date back to the earliest annals of antiquity. While the exact evolution of memes informing its figure is unclear, the same distinctive vertical monolith form has shown up time and time again in the wind-scattered remnants of Matari legend."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_CapitalAccess_Nidhoggur_NAME"
-	Value "Nidhoggur"
+	Value "Nidhoggur BPO"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_CapitalAccess_Nidhoggur_DESCRIPTION"
 	Value "Essentially a pared-down version of its big brother the Hel, the Nidhoggur nonetheless displays the same austerity of vision evident in its sibling. Quite purposefully created for nothing less than all-out warfare, and quite comfortable with that fact, the Nidhoggur will no doubt find itself a mainstay on many a battlefield."
@@ -23645,25 +23759,25 @@ StringInfo
 	Value "After much chest-beating, and due in no small part to the intervention of Sanmatar Maleatu Shakor, the arguments of the Sebiestor won out and the Lif-class Force Auxiliary was commissioned over the objections of the Brutor military elite."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Belicose_NAME"
-	Value "Belicose"
+	Value "Belicose BPO"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Belicose_DESCRIPTION"
 	Value "Being a highly versatile class of Minmatar ships, the Bellicose has been used as a combat juggernaut as well as a support ship for wings of frigates."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Breacher_NAME"
-	Value "Breacher"
+	Value "Breacher BPO"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Breacher_DESCRIPTION"
 	Value "The Breacher's structure is little more than a fragile scrapheap, but the ship's missile launcher and planet bombardment have placed it among the most valued Minmatar frigates when it comes to long range combat."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Broadsword_NAME"
-	Value "Broadsword"
+	Value "Broadsword BPO"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Broadsword_DESCRIPTION"
 	Value "Effectively combining the trapping power of interdictors with the defensive capabilities of heavy assault cruisers, the heavy interdiction cruiser is an invaluable addition to any skirmish force, offensive or defensive. Heavy interdiction cruisers are the only ships able to use the warp disruption field generator, a module which creates a warp disruption field that moves with the origin ship wherever it goes. "
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Cyclone_NAME"
-	Value "Cyclone"
+	Value "Cyclone BPO"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Cyclone_DESCRIPTION"
 	Value "The Cyclone was created in order to meet the increasing demand for a vessel capable of providing muscle for frigate detachments while remaining more mobile than a battleship. To this end, the Cyclone's seven high-power slots and powerful thrusters have proved ideal."
@@ -23675,49 +23789,49 @@ StringInfo
 	Value ""
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Hurricane_NAME"
-	Value "Hurricane"
+	Value "Hurricane BPO"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Hurricane_DESCRIPTION"
 	Value "The force with which this ship hits is more than sufficient to leave a trail of shattered enemies, floating around like so much lifeless debris. An adaptable vessel, it has enough turret hardpoints for a full-scale assault while remaining versatile enough to allow for plenty of missile fire, and has both sufficient speed to outrun its enemies and sufficient capacitor charge to outlast them."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Maelstron_NAME"
-	Value "Maelstron"
+	Value "Maelstrom BPO"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Maelstron_DESCRIPTION"
 	Value "With the Maelstrom, versatility is the name of the game. Its defensive capabilities make it ideally suited for small raid groups or solo work, while its 8 turret hardpoints present opportunities for untold carnage on the fleet battlefield."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Rupture_NAME"
-	Value "Rupture"
+	Value "Rupture BPO"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Rupture_DESCRIPTION"
 	Value "The Rupture is slow for a Minmatar ship, but it more than makes up for it in power. The Rupture has superior firepower and is used by the Minmatar Republic both to defend space stations and other stationary objects and as part of massive attack formations."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Scyther_NAME"
-	Value "Scyther"
+	Value "Scythe BPO"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Scyther_DESCRIPTION"
 	Value "The Scythe-class cruiser remains the oldest Minmatar ship still in use. It has seen many battles and is an integrated part in Minmatar tales and heritage. "
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Slasher_NAME"
-	Value "Slasher"
+	Value "Slasher BPO"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Slasher_DESCRIPTION"
 	Value "The Slasher is cheap, but versatile. It's been manufactured en masse, making it one of the most common vessels in Minmatar space. "
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Tempest_NAME"
-	Value "Tempest"
+	Value "Tempest BPO"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Tempest_DESCRIPTION"
 	Value "The Tempest is one of the Republic Fleet's key vessels; a versatile gunship proficient at long-range bombardment and capable of dishing out specialized types of damage with great effectiveness. A well-rounded squadron of Tempests has been proven time and time again to be an invaluable wild card in a fleet battle, one which opponents should ignore at their own peril."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Thrasher_NAME"
-	Value "Thrasher"
+	Value "Thrasher BPO"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Thrasher_DESCRIPTION"
 	Value "Engineered as a supplement to its big brother the Cyclone, the Thrasher's tremendous turret capabilities and advanced tracking computers allow it to protect its larger counterpart from smaller, faster menaces."
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Typhoon_NAME"
-	Value "Typhoon"
+	Value "Typhoon BPO"
 StringInfo
 	ID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Typhoon_DESCRIPTION"
 	Value "Much praised by its proponents and much maligned by its detractors, the Typhoon-class battleship has always been one of the most hotly debated spacefaring vessels around. Its distinguishing aspect - and the source of most of the controversy - is its sheer versatility, variously seen as either a lack of design focus or a deliberate freedom for pilot modification."
@@ -23783,7 +23897,7 @@ StringInfo
 	Value "Scimitar Upgrade"
 StringInfo
 	ID "IDS_MINMATAR_SHIP_CRUISER_SCIMITAR_Description"
-	Value "Upgrade the scyther cruiser to the Scimitar Advanced logistic Cruiser."
+	Value "Upgrade the Scythe cruiser to the Scimitar Advanced logistic Cruiser."
 StringInfo
 	ID "IDS_MINMATAR_SHIP_CRUISER_MUNINN_NAME"
 	Value "Muninn Upgrade"
@@ -23795,7 +23909,7 @@ StringInfo
 	Value "Panther Upgrade"
 StringInfo
 	ID "IDS_MINMATAR_SHIP_BATTLESHIP_VAGUR_NAME"
-	Value "Vagur Upgrade"
+	Value "Vargur Upgrade"
 StringInfo
 	ID "IDS_GALLENTE_SHIP_BATTLESHIP_KRONOS_NAME"
 	Value "Kronos Upgrade"
@@ -23804,7 +23918,7 @@ StringInfo
 	Value "Upgrade the Megathron Battleship to the powerfull Marauder Kronos"
 StringInfo
 	ID "IDS_MINMATAR_SHIP_BATTLESHIP_VAGUR_DESCRIPTION"
-	Value "Upgrade the Tempest Battleship to the powerfull Marauder Vagur"
+	Value "Upgrade the Tempest Battleship to the powerfull Marauder Vargur"
 StringInfo
 	ID "IDS_AMARR_SHIP_BATTLESHIP_PALADIN_NAME"
 	Value "Paladin Upgrade"
@@ -23813,16 +23927,16 @@ StringInfo
 	Value "Upgrade the Apocalypse Battleship to the powerfull Marauder Paladin"
 StringInfo
 	ID "IDS_MINMATAR_SHIP_CRUISER_ISHITAR_NAME"
-	Value "Ishitar Upgrade"
+	Value "Ishtar Upgrade"
 StringInfo
 	ID "IDS_MINMATAR_SHIP_CRUISER_ISHITAR_Description"
-	Value "Upgrade of the Vexor Cruiser to the Ishitar Heavy Assault Cruiser."
+	Value "Upgrade of the Vexor Cruiser to the Ishtar Heavy Assault Cruiser."
 StringInfo
 	ID "IDS_MINMATAR_SHIP_CRUISER_ISHITAR_DRONEBONUS_NAME"
-	Value "Ishitar Drone Bonus"
+	Value "Ishtar Drone Bonus"
 StringInfo
 	ID "IDS_MINMATAR_SHIP_CRUISER_ISHITAR_DRONEBONUS_Description"
-	Value "Ishitar bonus to drones"
+	Value "Ishtar bonus to drones"
 StringInfo
 	ID "IDS_AMARR_SHIP_CRUISER_ZEALOT_NAME"
 	Value "Zealot Upgrade"
@@ -23873,19 +23987,19 @@ StringInfo
 	Value "Improve the Battleship-sized autocannons. Deal massive damage, up close and personal. Deliver a rapid-fire barrage of shells at close ranges. This research also increases the damage of all autocannons by 4% per level."	
 StringInfo
 	ID "IDS_AllRaces_ResearchSubject_Weapon_Damage_ArtyCannon1_NAME"
-	Value "Small Artilary Cannons"
+	Value "Small Artillery Cannons"
 StringInfo
 	ID "IDS_AllRaces_ResearchSubject_Weapon_Damage_ArtyCannon1_DESCRIPTION"
 	Value "Artillery is one of the most powerful weapons that can be mounted on a frigate. This research also increases the damage of all autocannons by 4% per level."	
 StringInfo
 	ID "IDS_AllRaces_ResearchSubject_Weapon_Damage_ArtyCannon2_NAME"
-	Value "Medium Artilary Cannons"
+	Value "Medium Artillery Cannons"
 StringInfo
 	ID "IDS_AllRaces_ResearchSubject_Weapon_Damage_ArtyCannon2_DESCRIPTION"
 	Value "A powerful long-range cannon. One of the most damaging weapons mountable on a cruiser. This research also increases the damage of all autocannons by 4% per level."	
 StringInfo
 	ID "IDS_AllRaces_ResearchSubject_Weapon_Damage_ArtyCannon3_NAME"
-	Value "Large Artilary Cannons"
+	Value "Large Artillery Cannons"
 StringInfo
 	ID "IDS_AllRaces_ResearchSubject_Weapon_Damage_ArtyCannon3_DESCRIPTION"
 	Value "The ultimate artillery cannon. It hurls death and destruction over incredible distances. Deliver a rapid-fire barrage of shells at close ranges. This research also increases the damage of all autocannons by 4% per level."	
@@ -24183,4 +24297,172 @@ StringInfo
 StringInfo
 	ID "IDS_CITADEL_KEEPSTAR"
 	Value "KEEPSTAR XL Citadel"		
-	
+StringInfo
+	ID "IDS_Amarr_ResearchSubject_SubCapitalAccess_Maller_NAME"
+	Value "Maller BPO"			
+StringInfo
+	ID "IDS_Amarr_ResearchSubject_SubCapitalAccess_Maller_DESCRIPTION"
+	Value "Give access to the Maller Cruiser. This cruiser is equiped with armor hardners making the first frontline choose."			
+StringInfo
+	ID "IDS_Amarr_ResearchSubject_SubCapitalAccess_Sacrilege_NAME"
+	Value "Sacrilege Upgrade"			
+StringInfo
+	ID "IDS_Amarr_ResearchSubject_SubCapitalAccess_Sacrilege_DESCRIPTION"
+	Value "Upgrade the Maller Cruiser into the Heavy Assault Cruiser Sacrilege."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_DRAKE_NAME"
+	Value "Drake"			
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_DRAKE_DESCRIPTION"
+	Value "The Drake, well-known for its excellent tanking abilities, is a very popular ship."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_ROOK_NAME"
+	Value "Rook Upgrade"			
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_ROOK_DESCRIPTION"
+	Value "Upgrade the Blackbird Cruiser into the Covert Ops Cruiser Rook."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_NIGHTHAWK_NAME"
+	Value "Nighthawk Upgrade"			
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_NIGHTHAWK_DESCRIPTION"
+	Value "Upgrade the Drake Battlecruiser into Nighthawk Command Cruiser."
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_VULTURE_NAME"
+	Value "Vulture Upgrade"			
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_VULTURE_DESCRIPTION"
+	Value "Upgrade the Ferox Battlecruiser into Vulture Command Cruiser."
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_FEROXSKILL_NAME"
+	Value "Ferox Skill"
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_FEROXSKILL_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_COMORANT_NAME"
+	Value "Comorant Skill"
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_COMORANT_DESCRIPTION"
+	Value ""																																																																
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_CONDOR_NAME"
+	Value "Condor Skill"
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_CONDOR_DESCRIPTION"
+	Value ""	
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_RAVEN_NAME"
+	Value "Raven Skill"
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_RAVEN_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_OSPREY_NAME"
+	Value "Osprey Skill"
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_OSPREY_DESCRIPTION"
+	Value ""	
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_NAGA_NAME"
+	Value "Naga Skill"
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_NAGA_DESCRIPTION"
+	Value ""
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_KESTREL_NAME"
+	Value "Kestrel Skill"
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_KESTREL_DESCRIPTION"
+	Value ""		
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_CARACAL_NAME"
+	Value "Caracal Skill"
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_CARACAL_DESCRIPTION"
+	Value ""	
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_VULTURE_NAME"
+	Value "Vulture Skill"
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_VULTURE_DESCRIPTION"
+	Value ""	
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_MOA_NAME"
+	Value "Moa Skill"
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_MOA_DESCRIPTION"
+	Value ""	
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_EAGLE_NAME"
+	Value "Eagle Skill"
+StringInfo
+	ID "IDS_INFOCARD_ABILITY_EAGLE_DESCRIPTION"
+	Value ""	
+StringInfo
+	ID "IDS_FRIGATE_MOA_NAME"
+	Value "Moa"
+StringInfo
+	ID "IDS_FRIGATE_MOA_DESCRIPTION"
+	Value ""	
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_MOA_NAME"
+	Value "Moa BPO"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_MOA_DESCRIPTION"
+	Value "Give Access to the Moa Cruiser"	
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_EAGLE_NAME"
+	Value "Eagle Upgrade"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_EAGLE_DESCRIPTION"
+	Value "Upgrade the Moa Cruiser to the heavy assault cruiser Eagle with bonus to Shields, weapons damage and range."	
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_EOS_NAME"
+	Value "Eos Upgrade"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_EOS_DESCRIPTION"
+	Value "Upgrade the Myrmidom Battlecruiser to the Command Ship Eos."	
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_ASTARTE_NAME"
+	Value "Astarte Upgrade"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_ASTARTE_DESCRIPTION"
+	Value "Upgrade the Brutix Battlecruiser to the Command Ship Astarte."	
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_DAMNATION_NAME"
+	Value "Damnation Upgrade"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_DAMNATION_DESCRIPTION"
+	Value "Upgrade the Prophecy Battlecruiser to the Command Ship Damnation."	
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_ABSOLUTION_NAME"
+	Value "Absolution Upgrade"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_ABSOLUTION_DESCRIPTION"
+	Value "Upgrade the Harbringer Battlecruiser to the Command Ship Absolution."	
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_PILGRIM_NAME"
+	Value "Pilgrim Upgrade"
+StringInfo
+	ID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_PILGRIM_DESCRIPTION"
+	Value "Upgrade the Pilgrim Cruiser to the Covert Ops Cruiser Pilgim."	
+StringInfo
+	ID "IDS_AllRaces_ResearchSubject_Weapon_Damage_Upgrade1_NAME"
+	Value "Weapon Upgrade"
+StringInfo
+	ID "IDS_AllRaces_ResearchSubject_Weapon_Damage_Upgrade1_DESCRIPTION"
+	Value "Increase Damage in 5% per level of all non-missile Frigates and Destroyers."	
+StringInfo
+	ID "IDS_AllRaces_ResearchSubject_Weapon_Damage_Upgrade2_NAME"
+	Value "Weapon Upgrade"
+StringInfo
+	ID "IDS_AllRaces_ResearchSubject_Weapon_Damage_Upgrade2_DESCRIPTION"
+	Value "Increase Damage in 5% per level of all non-missile Cruisers and Battlecruisers."	
+StringInfo
+	ID "IDS_AllRaces_ResearchSubject_Weapon_Damage_Upgrade3_NAME"
+	Value "Weapon Upgrade"
+StringInfo
+	ID "IDS_AllRaces_ResearchSubject_Weapon_Damage_Upgrade3_DESCRIPTION"
+	Value "Increase Damage in 5% per level of all non-missile Battleships."
+												

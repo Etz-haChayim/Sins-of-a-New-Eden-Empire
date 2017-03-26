@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 92
+brushCount 188
 brush
 	name "CORVETTEPICTURE_PHASE_LOYALIST"
 	content "Simple"
@@ -461,3 +461,484 @@ brush
 	content "Simple"
 	fileName "Unit_Picture"
 	pixelBox [ 1362 , 782 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HERON"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 2 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_MERLIN"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 171 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CONDOR"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 341 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_COMORANT"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 681 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CARACAL"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 852 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_BLACKBIRD"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1021 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_OSPREY"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1192 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_SCORPION"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1702 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_RAVEN"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1530 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ROKH"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1873 , 2 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ONYX"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 341 , 83 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_KESTREL"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 512 , 2 , 167 , 75 ]																																																																						
+brush
+	name "PICTURE_FRIGATE_FEROX"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 2 , 81 , 167 , 75 ]																																																																						
+brush
+	name "PICTURE_CARRIER_CHIMERA"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 511 , 79 , 167 , 75 ]																																																																						
+brush
+	name "PICTURE_DREADNOUGHT_PHOENIX"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1191 , 79 , 167 , 75 ]																																																																						
+brush
+	name "PICTURE_DREADNOUGHT_LEVIATHAN"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1872 , 79 , 167 , 75 ]																																																																					
+brush
+	name "PICTURE_FRIGATE_COLONY_ORCA"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1362 , 2 , 167 , 75 ]																																																																						
+brush
+	name "PICTURE_FRIGATE_NAGA"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 172 , 81 , 167 , 75 ]																																																																						
+brush
+	name "PICTURE_CAPITAL_RORQUAL"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 851 , 79 , 167 , 75 ]																																																																						
+brush
+	name "PICTURE_CAPITAL_WYVERN"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1702 , 79 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_MAGNATE"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 2 , 235 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ARMAGEDON"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 2 , 313 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_BESTOWER"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 2 , 391 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_IMICUS"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 2 , 469 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_MEGATHRON"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 2 , 547 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PROBE"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 2 , 703 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TYPHOON"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 2 , 781 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_SUCCUBUS"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 3 , 937 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PUNISHER"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 172 , 235 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_APOCALYPSE"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 172 , 313 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PROVIDENCE"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 172 , 391 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_INCURSION"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 172 , 469 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HYPERION"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 172 , 547 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_RIFTER"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 172 , 703 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TEMPEST"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 172 , 781 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_WRETHER"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 172 , 859 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 342 , 1 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_EXECUTIONER"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 342 , 235 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ABADDON"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 342 , 313 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ATRON"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 342 , 469 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ITERON"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 342 , 625 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_SLASHER"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 342 , 703 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_MAELSTRON"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 342 , 781 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_MAMMOTH"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 342 , 859 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NIGHTMARE"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 343 , 937 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PHANTOM"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 2 , 937 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_INQUISITOR"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 512 , 235 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_TRISTAN"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 512 , 469 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NEREUS"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 512 , 625 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_BREACHER"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 512 , 703 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_FENRIR"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 512 , 859 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_REVENANT"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 513 , 937 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_COECER"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 682 , 235 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CATALYST"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 682 , 469 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_THRASHER"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 682 , 703 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_OMEN"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 852 , 235 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_VEXOR"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 852 , 469 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITAL_THANATOS"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 852 , 547 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_OBELISK"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 852 , 625 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_RUPTURE"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 852 , 703 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_NIDHOGGUR"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 852 , 781 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 852 , 859 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_ARBITATOR"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1022 , 235 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITAL_ARCHON"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1022 , 313 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CELESTIS"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1022 , 469 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_BELICOSE"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1022 , 703 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_AUGOROR"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1192 , 235 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_EXECUROR"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1192 , 469 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITAL_MOROS"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1192 , 547 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_SCYTHER"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1192 , 703 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITAL_NAGLFAR"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1192 , 781 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITAL_REVELATION"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1362 , 313 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_MYRMIDON"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1362 , 469 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PROPHECY"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1532 , 235 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_LEGION"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1532 , 313 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_BRUTIX"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1532 , 469 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PROTHEUS"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1532 , 547 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_CYCLONE"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1532 , 703 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_LOKI"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1532 , 781 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HARBINGER"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1702 , 235 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITAL_AEON"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1702 , 313 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_PHOBOS"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1702 , 469 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITAL_NYX"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1702 , 547 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HURRICANE"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1702 , 703 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITAL_HEL"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1702 , 781 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_DEVOTER"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1872 , 235 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITAL_AVATAR"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1872 , 313 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_DOMINIX"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1872 , 469 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITAL_EREBUS"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1872 , 547 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_BROADSWORD"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1872 , 703 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITAL_RAGNAROK"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1872 , 781 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITAL_LIF"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1021 , 783 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITAL_VENTURE"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 509 , 626 , 167 , 75 ]
+brush
+	name "PICTURE_CAPITAL_CONFESSOR"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 852 , 314 , 167 , 75 ]
+brush
+	name "PICTURE_FRIGATE_HECATE"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 683 , 550 , 167 , 75 ]		
+brush
+	name "PICTURE_FRIGATE_JACKDAW"
+	content "Simple"
+	fileName "Unit_Picture"
+	pixelBox [ 1028 , 80 , 167 , 75 ]		
+				
