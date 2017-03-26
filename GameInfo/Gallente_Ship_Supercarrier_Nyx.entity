@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "CapitalShip"
 ability:0 "AbilityPLASMASmartbomb"
-ability:1 "AbilityEnergyNeutralizationBurst"
+ability:1 "AbilityRemoteArmorRepairerCapital"
 ability:2 "AbilityProjectedECMBurst"
 ability:3 "AbilityLaunchSquads"
 ability:4 ""
@@ -46,29 +46,29 @@ bombEffectsDef
 	missileMaxSlowTurnTime 6.000000
 mainViewIcon "MAINVIEWICON_CAPITALSHIP_PHASECARRIER"
 basePrice
-	credits 58333.000000
-	metal 38888.000000
-	crystal 19444.000000
+	credits 20000.000000
+	metal 5000.000000
+	crystal 4500.000000
 slotCount 1.000000
-BuildTime 350.000000
+BuildTime 900.000000
 MaxHullPoints
-	StartValue 3888888.000000
-	ValueIncreasePerLevel 388888.000000
+	StartValue 93000.000000
+	ValueIncreasePerLevel 930.000000
 MaxShieldPoints
-	StartValue 1944444.000000
-	ValueIncreasePerLevel 194444.000000
+	StartValue 46500.000000
+	ValueIncreasePerLevel 465.000000
 HullPointRestoreRate
-	StartValue 1.000000
-	ValueIncreasePerLevel 1.000000
+	StartValue 93.000000
+	ValueIncreasePerLevel 9.300000
 ShieldPointRestoreRate
-	StartValue 1.000000
-	ValueIncreasePerLevel 1.000000
+	StartValue 46.500000
+	ValueIncreasePerLevel 4.650000
 ArmorPointsFromExperience
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
 maxMitigation
-	StartValue 0.000000
-	ValueIncreasePerLevel 0.000000
+	StartValue 0.650000
+	ValueIncreasePerLevel 0.005000
 MaxAntiMatter
 	StartValue 10500.000000
 	ValueIncreasePerLevel 1110.000000
@@ -80,7 +80,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CAPITALSHIP_PHASECARRIER_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_PHASECARRIER_DESCRIPTION"
-picture "PICTURE_CAPITAL_NYX"
+picture ""
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -165,7 +165,7 @@ maxRollRate 1.000000
 maxRollAngle 30.000000
 squadTypeEntityDef:0 "Gallente_DroneSquad_Cyclops"
 squadAntiMatterCost:0 0.000000
-squadTypeEntityDef:1 "Gallente_DroneSquad_firbolg"
+squadTypeEntityDef:1 ""
 squadAntiMatterCost:1 0.000000
 squadTypeEntityDef:2 ""
 squadAntiMatterCost:2 0.000000

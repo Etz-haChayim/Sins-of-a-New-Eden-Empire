@@ -50,13 +50,13 @@ basePrice
 	metal 700.000000
 	crystal 500.000000
 slotCount 1.000000
-BuildTime 525.000000
+BuildTime 400.000000
 MaxHullPoints
-	StartValue 46667.000000
-	ValueIncreasePerLevel 466.000000
+	StartValue 7000.000000
+	ValueIncreasePerLevel 0.000000
 MaxShieldPoints
-	StartValue 342222.000000
-	ValueIncreasePerLevel 3422.000000
+	StartValue 14000.000000
+	ValueIncreasePerLevel 140.000000
 HullPointRestoreRate
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
@@ -80,7 +80,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CAPITALSHIP_RORQUAL_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_RORQUAL_DESCRIPTION"
-picture "PICTURE_CAPITAL_RORQUAL"
+picture ""
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""

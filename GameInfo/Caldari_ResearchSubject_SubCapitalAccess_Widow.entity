@@ -3,33 +3,33 @@ entityType "ResearchSubject"
 hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_WIDOW"
 smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_WIDOW"
 infoCardIcon ""
-NameStringID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_WIDOW_NAME"
-DescriptionStringID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_WIDOW_DESC"
+NameStringID "IDS_CALDARI_SHIP_BATTLESHIP_WIDOW_NAME"
+DescriptionStringID "IDS_CALDARI_SHIP_BATTLESHIP_WIDOW_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 6 , 1 ]
+	pos [ 6 , 4 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
 		Subject "Caldari_ResearchSubject_SubCapitalAccess_Scorpion"
-		Level 2
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 214.000000
-PerLevelUpgradeTime 21.000000
+BaseUpgradeTime 240.000000
+PerLevelUpgradeTime 5.000000
 BaseCost
-	credits 6630.000000
-	metal 2500.000000
-	crystal 4100.000000
+	credits 8000.000000
+	metal 1250.000000
+	crystal 2500.000000
 PerLevelCostIncrease
-	credits 663.000000
-	metal 250.000000
-	crystal 410.000000
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
 Tier 6
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 2
+MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

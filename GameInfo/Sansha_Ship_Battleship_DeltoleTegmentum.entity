@@ -22,8 +22,8 @@ slotCount 16.000000
 BuildTime 260.000000
 hasLevels FALSE
 ExperiencePointsForDestroying 500.000000
-MaxHullPoints 15000.000000
-MaxShieldPoints 31000.000000
+MaxHullPoints 1500.000000
+MaxShieldPoints 6000.000000
 HullPointRestoreRate 15.000000
 ShieldPointRestoreRate 60.000000
 BaseArmorPoints 0.000000
@@ -49,7 +49,7 @@ Weapon
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
 		WeaponClassType "MISSILE"
-	DamagePerBank:FRONT 3450.000000
+	DamagePerBank:FRONT 1200.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
@@ -148,7 +148,7 @@ ability:1 "AbilityHeavyEnergyNeutralizer"
 ability:2 "AbilityWarpDisruptor"
 ability:3 ""
 ability:4 "AbilityLaunchSquads"
-MaxAntiMatter 5600.000000
+MaxAntiMatter 750.000000
 AntiMatterRestoreRate 7.500000
 cargoType "Invalid"
 maxCargoCapacity 0.000000

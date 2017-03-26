@@ -44,24 +44,24 @@ frigateRoleType "Lrm"
 frigateRoleType "Siege"
 statCountType "FrigateSiege"
 mainViewIcon "MAINVIEWICON_FRIGATE_PHASESIEGE"
-picture "PICTURE_FRIGATE_TRISTAN"
+picture ""
 NameStringID "IDS_FRIGATE_PHASESIEGE_NAME"
 DescriptionStringID "IDS_FRIGATE_PHASESIEGE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 44.000000
-	metal 26.000000
-	crystal 18.000000
-slotCount 1.000000
-BuildTime 8.000000
+	credits 55.000000
+	metal 12.000000
+	crystal 6.000000
+slotCount 2.000000
+BuildTime 23.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 24.000000
-MaxHullPoints 1555.000000
-MaxShieldPoints 777.000000
-HullPointRestoreRate 1.000000
-ShieldPointRestoreRate 1.000000
+ExperiencePointsForDestroying 30.000000
+MaxHullPoints 325.000000
+MaxShieldPoints 162.000000
+HullPointRestoreRate 0.000000
+ShieldPointRestoreRate 0.162000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.400000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

@@ -10,7 +10,7 @@ typeCount 1
 frigateRoleType "AntiFighter"
 statCountType "FrigateAntiFighter"
 mainViewIcon "MAINVIEWICON_FRIGATE_COMORANT"
-picture "PICTURE_FRIGATE_JACKDAW"
+picture ""
 NameStringID "IDS_Caldari_ResearchSubject_SubCapitalAccess_Jackdaw_NAME"
 DescriptionStringID "IDS_Caldari_Destroyer_Jackdaw_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIFIGHTER"
@@ -19,11 +19,11 @@ basePrice
 	metal 15.000000
 	crystal 10.000000
 slotCount 3.000000
-BuildTime 34.000000
+BuildTime 50.000000
 hasLevels FALSE
 ExperiencePointsForDestroying 40.000000
-MaxHullPoints 1517.000000
-MaxShieldPoints 1867.000000
+MaxHullPoints 450.000000
+MaxShieldPoints 900.000000
 HullPointRestoreRate 0.000000
 ShieldPointRestoreRate 0.450000
 BaseArmorPoints 0.000000
@@ -31,7 +31,7 @@ maxMitigation 0.500000
 Prerequisites
 	NumResearchPrerequisites 2
 	ResearchPrerequisite
-		Subject "Caldari_ResearchSubject_SubCapitalAccess_Jackdaw"
+		Subject "Caldari_ResearchSubject_SubCapitalAccess_Comorant"
 		Level 1
 	ResearchPrerequisite
 		Subject "AllRaces_ResearchSubject_T3ModuleAccess_PropursionSystems"

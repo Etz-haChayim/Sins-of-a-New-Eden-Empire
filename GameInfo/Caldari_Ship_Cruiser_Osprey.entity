@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Support"
 statCountType "FrigateUtility1"
 mainViewIcon "MAINVIEWICON_FRIGATE_OSPREY"
-picture "PICTURE_FRIGATE_OSPREY"
+picture ""
 NameStringID "IDS_FRIGATE_OSPREY_NAME"
 DescriptionStringID "IDS_FRIGATE_OSPREY_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 178.000000
-	metal 71.000000
-	crystal 106.000000
+	credits 175.000000
+	metal 30.000000
+	crystal 20.000000
 slotCount 4.000000
-BuildTime 31.000000
+BuildTime 95.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 94.000000
-MaxHullPoints 3500.000000
-MaxShieldPoints 7000.000000
-HullPointRestoreRate 4.000000
-ShieldPointRestoreRate 4.000000
+ExperiencePointsForDestroying 67.000000
+MaxHullPoints 715.000000
+MaxShieldPoints 1430.000000
+HullPointRestoreRate 0.000000
+ShieldPointRestoreRate 0.715000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.750000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -158,7 +158,7 @@ EngineSoundID "ENGINE_PHASECAPITALSHIP"
 ability:0 "AbilityAfterburner"
 ability:1 "AbilityRemoteShieldBoosterLogiCruiser"
 ability:2 "AbilityCapTransferAugoror"
-ability:3 "AbilityCaldariShipOsprey"
+ability:3 ""
 ability:4 "AbilityT2CruiserBasilisk"
 MaxAntiMatter 785.000000
 AntiMatterRestoreRate 1.000000

@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Corvette"
 statCountType "FrigateCorvette"
 mainViewIcon "MAINVIEWICON_CORVETTE_PHASE"
-picture "PICTURE_FRIGATE_ATRON"
+picture ""
 NameStringID "IDS_CORVETTE_PHASELOYALIST_NAME"
 DescriptionStringID "IDS_CORVETTE_PHASELOYALIST_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 32.000000
-	metal 20.000000
-	crystal 12.000000
-slotCount 1.000000
-BuildTime 5.000000
+	credits 50.000000
+	metal 10.000000
+	crystal 4.000000
+slotCount 2.000000
+BuildTime 18.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 15.000000
-MaxHullPoints 1555.000000
-MaxShieldPoints 777.000000
-HullPointRestoreRate 1.000000
-ShieldPointRestoreRate 1.000000
+ExperiencePointsForDestroying 20.000000
+MaxHullPoints 260.000000
+MaxShieldPoints 130.000000
+HullPointRestoreRate 0.000000
+ShieldPointRestoreRate 0.130000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.400000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

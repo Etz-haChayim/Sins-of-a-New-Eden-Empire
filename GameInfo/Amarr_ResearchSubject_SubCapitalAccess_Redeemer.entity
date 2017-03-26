@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "ResearchSubject"
-hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_REDEEMER"
-smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_REDEEMER"
+hudIcon "HUDICON_ABILITY_REPAIRDROIDS"
+smallHudIcon "HUDICON_ABILITY_REPAIRDROIDS"
 infoCardIcon ""
 NameStringID "IDS_AMARR_SHIP_BATTLESHIP_REDEEMER_NAME"
 DescriptionStringID "IDS_CALDARI_SHIP_BATTLESHIP_WIDOW_DESCRIPTION"
@@ -13,23 +13,23 @@ Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
 		Subject "Amarr_ResearchSubject_SubCapitalAccess_Armageddon"
-		Level 2
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 180.000000
-PerLevelUpgradeTime 18.000000
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 5.000000
 BaseCost
-	credits 12100.000000
-	metal 7600.000000
-	crystal 4500.000000
+	credits 8000.000000
+	metal 2500.000000
+	crystal 1250.000000
 PerLevelCostIncrease
-	credits 12100.000000
-	metal 7600.000000
-	crystal 4500.000000
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
 Tier 6
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 2
+MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

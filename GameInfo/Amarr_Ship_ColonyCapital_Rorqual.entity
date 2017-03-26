@@ -1,9 +1,9 @@
 ﻿TXT
 entityType "CapitalShip"
-ability:0 "AbilityRorqualExtractor"
+ability:0 "AbilityTechCapitalShipColonize"
 ability:1 "AbilityEMPSmartbomb"
-ability:2 "AbilityRorqualShieldBooster"
-ability:3 "AbilityRorqualPanic"
+ability:2 "AbilityRemoteShieldBoosterCapital"
+ability:3 "AbilityHeavyEnergyNeutralizer"
 ability:4 ""
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -46,29 +46,29 @@ bombEffectsDef
 	missileMaxSlowTurnTime 6.000000
 mainViewIcon "MAINVIEWICON_SQUADTECHCOMBAT"
 basePrice
-	credits 5133.000000
-	metal 3422.000000
-	crystal 1711.000000
+	credits 3000.000000
+	metal 700.000000
+	crystal 500.000000
 slotCount 1.000000
-BuildTime 233.000000
+BuildTime 400.000000
 MaxHullPoints
-	StartValue 342222.000000
-	ValueIncreasePerLevel 34222.000000
+	StartValue 7000.000000
+	ValueIncreasePerLevel 0.000000
 MaxShieldPoints
-	StartValue 171111.000000
-	ValueIncreasePerLevel 17111.000000
+	StartValue 14000.000000
+	ValueIncreasePerLevel 140.000000
 HullPointRestoreRate
-	StartValue 1.000000
-	ValueIncreasePerLevel 1.000000
+	StartValue 0.000000
+	ValueIncreasePerLevel 0.000000
 ShieldPointRestoreRate
-	StartValue 1.000000
-	ValueIncreasePerLevel 1.000000
+	StartValue 14.000000
+	ValueIncreasePerLevel 1.400000
 ArmorPointsFromExperience
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
 maxMitigation
-	StartValue 0.000000
-	ValueIncreasePerLevel 0.000000
+	StartValue 0.600000
+	ValueIncreasePerLevel 0.005000
 MaxAntiMatter
 	StartValue 3700.000000
 	ValueIncreasePerLevel 370.000000
@@ -80,7 +80,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CAPITALSHIP_RORQUAL_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_RORQUAL_DESCRIPTION"
-picture "PICTURE_CAPITAL_RORQUAL"
+picture ""
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""

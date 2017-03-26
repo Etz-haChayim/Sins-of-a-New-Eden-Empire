@@ -9,25 +9,25 @@ canBomb FALSE
 typeCount 1
 frigateRoleType "Lrm"
 statCountType "FrigateLongRange"
-mainViewIcon "MAINVIEWICON_FRIGATE_RUPTURE"
-picture "PICTURE_FRIGATE_BROADSWORD"
+mainViewIcon "MAINVIEWICON_FRIGATE_TECHLONGRANGE"
+picture ""
 NameStringID "IDS_CRUISER_RUPTURE_NAME"
 DescriptionStringID "IDS_CRUISER_RUPTURE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_CORVETTE_TECH"
 basePrice
-	credits 122.000000
-	metal 52.000000
-	crystal 70.000000
+	credits 115.000000
+	metal 18.000000
+	crystal 12.000000
 slotCount 4.000000
-BuildTime 19.000000
+BuildTime 70.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 59.000000
-MaxHullPoints 3500.000000
-MaxShieldPoints 5250.000000
-HullPointRestoreRate 4.000000
-ShieldPointRestoreRate 4.000000
+ExperiencePointsForDestroying 55.000000
+MaxHullPoints 1050.000000
+MaxShieldPoints 525.000000
+HullPointRestoreRate 0.000000
+ShieldPointRestoreRate 0.525000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.500000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -40,8 +40,8 @@ numRandomDebrisSmall 0
 numSpecificDebris 0
 armorType "Medium"
 hudIcon "HUDICON_FRIGATE_RUPTURE"
-smallHudIcon "HUDICONSMALL_FRIGATE_RUPTURE"
-infoCardIcon "INFOCARDICON_FRIGATE_RUPTURE"
+smallHudIcon "HUDICONSMALL_FRIGATE_TECHLONGRANGE"
+infoCardIcon "INFOCARDICON_FRIGATE_TECHLONGRANGE"
 minZoomDistanceMult 1.000000
 NumWeapons 1
 Weapon
@@ -51,18 +51,18 @@ Weapon
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
-		WeaponClassType "PHASECANNON"
-	DamagePerBank:FRONT 175.000000
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 112.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
-	Range 3000.000000
-	PreBuffCooldownTime 0.600000
+	Range 7000.000000
+	PreBuffCooldownTime 4.500000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting TRUE
 	PointStaggerDelay 0.050000
-	TravelSpeed 6000.000000
-	Duration 0.000000 
+	TravelSpeed 5000.000000
+	Duration 0.300000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Projectile"
@@ -141,7 +141,7 @@ EngineSoundID "ENGINE_TECHCAPITALSHIP"
 ability:0 "AbilityAfterburner"
 ability:1 ""
 ability:2 ""
-ability:3 "AbilityMinmatarShipRupture"
+ability:3 ""
 ability:4 "AbilityT2CruiserMunnin"
 MaxAntiMatter 275.000000
 AntiMatterRestoreRate 0.500000

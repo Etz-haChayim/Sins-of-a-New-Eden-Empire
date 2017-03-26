@@ -44,31 +44,31 @@ bombEffectsDef
 	missileStartTurningDistance 250.000000
 	missileSlowTurnRate 0.708997
 	missileMaxSlowTurnTime 6.000000
-mainViewIcon "MAINVIEWICON_CAPITAL_LIF"
+mainViewIcon "MAINVIEWICON_SQUADTECHBOMBER"
 basePrice
-	credits 4277.000000
-	metal 1711.000000
-	crystal 2566.000000
+	credits 4500.000000
+	metal 1000.000000
+	crystal 750.000000
 slotCount 1.000000
-BuildTime 194.000000
+BuildTime 500.000000
 MaxHullPoints
-	StartValue 171111.000000
-	ValueIncreasePerLevel 17111.000000
+	StartValue 18000.000000
+	ValueIncreasePerLevel 180.000000
 MaxShieldPoints
-	StartValue 256666.000000
-	ValueIncreasePerLevel 25666.000000
+	StartValue 9000.000000
+	ValueIncreasePerLevel 90.000000
 HullPointRestoreRate
-	StartValue 1.000000
-	ValueIncreasePerLevel 1.000000
+	StartValue 18.000000
+	ValueIncreasePerLevel 1.800000
 ShieldPointRestoreRate
-	StartValue 1.000000
-	ValueIncreasePerLevel 1.000000
+	StartValue 9.000000
+	ValueIncreasePerLevel 0.900000
 ArmorPointsFromExperience
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
 maxMitigation
-	StartValue 0.000000
-	ValueIncreasePerLevel 0.000000
+	StartValue 0.550000
+	ValueIncreasePerLevel 0.005000
 MaxAntiMatter
 	StartValue 7000.000000
 	ValueIncreasePerLevel 700.000000
@@ -80,7 +80,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_RESEARCHSUBJECT_CapitalAccess_Lif_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_CapitalAccess_Lif_DESCRIPTION"
-picture "PICTURE_CAPITAL_LIF"
+picture ""
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -95,8 +95,8 @@ numRandomDebrisSmall 0
 numSpecificDebris 0
 armorType "VeryHeavy"
 hudIcon "HUDICON_CAPITALSHIP_LIF"
-smallHudIcon "HUDICONSMALL_CAPITAL_LIF"
-infoCardIcon "INFOCARDICON_CAPITAL_LIF"
+smallHudIcon "HUDICONSMALL_SQUADTECHBOMBER"
+infoCardIcon "INFOCARDICON_SQUADTECHBOMBER"
 minZoomDistanceMult 1.000000
 NumWeapons 1
 Weapon

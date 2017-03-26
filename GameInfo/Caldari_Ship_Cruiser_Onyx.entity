@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Heavy"
 statCountType "FrigateAntiModule"
 mainViewIcon "MAINVIEWICON_FRIGATE_ONYX"
-picture "PICTURE_FRIGATE_ONYX"
+picture ""
 NameStringID "IDS_FRIGATE_ONYX_NAME"
 DescriptionStringID "IDS_FRIGATE_ONYX_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 160.000000
-	metal 62.000000
-	crystal 97.000000
-slotCount 4.000000
-BuildTime 26.000000
+	credits 235.000000
+	metal 50.000000
+	crystal 35.000000
+slotCount 5.000000
+BuildTime 175.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 80.000000
-MaxHullPoints 3500.000000
-MaxShieldPoints 7000.000000
-HullPointRestoreRate 4.000000
-ShieldPointRestoreRate 4.000000
+ExperiencePointsForDestroying 86.000000
+MaxHullPoints 1100.000000
+MaxShieldPoints 2200.000000
+HullPointRestoreRate 1.100000
+ShieldPointRestoreRate 2.200000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.850000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Light"
 statCountType "FrigateLight"
 mainViewIcon "MAINVIEWICON_FRIGATE_PHASELIGHT"
-picture "PICTURE_FRIGATE_INCURSION"
+picture ""
 NameStringID "IDS_FRIGATE_PHASELIGHT_NAME"
 DescriptionStringID "IDS_FRIGATE_PHASELIGHT_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 32.000000
-	metal 20.000000
-	crystal 12.000000
-slotCount 1.000000
-BuildTime 5.000000
+	credits 45.000000
+	metal 7.000000
+	crystal 3.000000
+slotCount 2.000000
+BuildTime 15.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 15.000000
-MaxHullPoints 1555.000000
-MaxShieldPoints 777.000000
-HullPointRestoreRate 1.000000
-ShieldPointRestoreRate 1.000000
+ExperiencePointsForDestroying 22.000000
+MaxHullPoints 270.000000
+MaxShieldPoints 135.000000
+HullPointRestoreRate 0.000000
+ShieldPointRestoreRate 0.135000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.500000
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""

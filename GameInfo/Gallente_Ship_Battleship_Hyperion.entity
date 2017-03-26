@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Heavy"
 statCountType "FrigateHeavy"
 mainViewIcon "MAINVIEWICON_CAPITALSHIP_PHASESIEGE"
-picture "PICTURE_FRIGATE_HYPERION"
+picture ""
 NameStringID "IDS_GALLENTE_SHIP_BATTLESHIP_HYPERION_NAME"
 DescriptionStringID "IDS_GALLENTE_SHIP_BATTLESHIP_HYPERION_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_LONGRANGE"
 basePrice
-	credits 564.000000
-	metal 360.000000
-	crystal 204.000000
-slotCount 16.000000
-BuildTime 82.000000
+	credits 725.000000
+	metal 290.000000
+	crystal 175.000000
+slotCount 11.000000
+BuildTime 260.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 248.000000
-MaxHullPoints 31111.000000
-MaxShieldPoints 15555.000000
-HullPointRestoreRate 16.000000
-ShieldPointRestoreRate 16.000000
+ExperiencePointsForDestroying 210.000000
+MaxHullPoints 3200.000000
+MaxShieldPoints 1600.000000
+HullPointRestoreRate 12.800000
+ShieldPointRestoreRate 1.600000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.700000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

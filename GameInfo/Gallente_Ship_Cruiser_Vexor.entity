@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Lrm"
 statCountType "FrigateLongRange"
 mainViewIcon "MAINVIEWICON_FRIGATE_PHASELONGRANGE"
-picture "PICTURE_FRIGATE_VEXOR"
+picture ""
 NameStringID "IDS_FRIGATE_PHASELONGRANGE_NAME"
 DescriptionStringID "IDS_FRIGATE_PHASELONGRANGE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_CORVETTE_TECH"
 basePrice
-	credits 178.000000
-	metal 106.000000
-	crystal 71.000000
-slotCount 4.000000
-BuildTime 31.000000
+	credits 115.000000
+	metal 18.000000
+	crystal 12.000000
+slotCount 5.000000
+BuildTime 70.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 94.000000
-MaxHullPoints 7000.000000
-MaxShieldPoints 3500.000000
-HullPointRestoreRate 4.000000
-ShieldPointRestoreRate 4.000000
+ExperiencePointsForDestroying 55.000000
+MaxHullPoints 950.000000
+MaxShieldPoints 475.000000
+HullPointRestoreRate 0.000000
+ShieldPointRestoreRate 0.475000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.500000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

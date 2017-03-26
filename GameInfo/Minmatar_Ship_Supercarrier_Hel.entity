@@ -44,31 +44,31 @@ bombEffectsDef
 	missileStartTurningDistance 250.000000
 	missileSlowTurnRate 0.708997
 	missileMaxSlowTurnTime 6.000000
-mainViewIcon "MAINVIEWICON_CAPITAL_HEL"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_TECHCARRIER"
 basePrice
-	credits 48611.000000
-	metal 19444.000000
-	crystal 29166.000000
+	credits 20000.000000
+	metal 5000.000000
+	crystal 4500.000000
 slotCount 1.000000
-BuildTime 291.000000
+BuildTime 900.000000
 MaxHullPoints
-	StartValue 1944444.000000
+	StartValue 98500.000000
 	ValueIncreasePerLevel 985.000000
 MaxShieldPoints
-	StartValue 2916666.000000
+	StartValue 49250.000000
 	ValueIncreasePerLevel 492.500000
 HullPointRestoreRate
-	StartValue 1.000000
-	ValueIncreasePerLevel 1.000000
+	StartValue 98.500000
+	ValueIncreasePerLevel 9.850000
 ShieldPointRestoreRate
-	StartValue 1.000000
-	ValueIncreasePerLevel 1.000000
+	StartValue 49.250000
+	ValueIncreasePerLevel 4.925000
 ArmorPointsFromExperience
-	StartValue 1.000000
-	ValueIncreasePerLevel 1.000000
-maxMitigation
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
+maxMitigation
+	StartValue 0.650000
+	ValueIncreasePerLevel 0.005000
 MaxAntiMatter
 	StartValue 11700.000000
 	ValueIncreasePerLevel 1170.000000
@@ -80,7 +80,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CAPITALSHIP_HEL_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_HEL_DESCRIPTION"
-picture "PICTURE_CAPITAL_HEL"
+picture ""
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -96,8 +96,8 @@ numSpecificDebris 1
 specificDebrisMeshName "DebrisTechLarge"
 armorType "VeryHeavy"
 hudIcon "HUDICON_CAPITALSHIP_HEL"
-smallHudIcon "HUDICONSMALL_CAPITAL_HEL"
-infoCardIcon "INFOCARDICON_CAPITAL_RAGNAROK"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_TECHCARRIER"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_TECHCARRIER"
 minZoomDistanceMult 1.000000
 NumWeapons 1
 Weapon

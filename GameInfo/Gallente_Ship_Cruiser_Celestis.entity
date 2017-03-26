@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Support"
 statCountType "FrigateCarrier"
 mainViewIcon "MAINVIEWICON_FRIGATE_PHASECARRIER"
-picture "PICTURE_FRIGATE_CELESTIS"
+picture ""
 NameStringID "IDS_FRIGATE_PHASECARRIER_NAME"
 DescriptionStringID "IDS_FRIGATE_PHASECARRIER_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_CORVETTE_TECH"
 basePrice
-	credits 178.000000
-	metal 106.000000
-	crystal 71.000000
+	credits 155.000000
+	metal 32.000000
+	crystal 23.000000
 slotCount 4.000000
-BuildTime 31.000000
+BuildTime 85.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 94.000000
-MaxHullPoints 7000.000000
-MaxShieldPoints 3500.000000
-HullPointRestoreRate 4.000000
-ShieldPointRestoreRate 4.000000
+ExperiencePointsForDestroying 60.000000
+MaxHullPoints 1150.000000
+MaxShieldPoints 575.000000
+HullPointRestoreRate 1.150000
+ShieldPointRestoreRate 0.575000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.400000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

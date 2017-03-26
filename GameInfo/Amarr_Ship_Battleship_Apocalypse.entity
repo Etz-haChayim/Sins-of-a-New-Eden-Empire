@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Heavy"
 statCountType "FrigateHeavy"
 mainViewIcon "MAINVIEWICON_CAPITALSHIP_TECHSIEGE"
-picture "PICTURE_FRIGATE_APOCALYPSE"
+picture ""
 NameStringID "IDS_CAPITALSHIP_TECHSIEGE_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_TECHSIEGE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_LONGRANGE"
 basePrice
-	credits 662.000000
-	metal 409.000000
-	crystal 253.000000
-slotCount 16.000000
-BuildTime 107.000000
+	credits 600.000000
+	metal 220.000000
+	crystal 145.000000
+slotCount 10.000000
+BuildTime 245.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 322.000000
-MaxHullPoints 31111.000000
-MaxShieldPoints 15555.000000
-HullPointRestoreRate 16.000000
-ShieldPointRestoreRate 16.000000
+ExperiencePointsForDestroying 175.000000
+MaxHullPoints 3000.000000
+MaxShieldPoints 1500.000000
+HullPointRestoreRate 3.000000
+ShieldPointRestoreRate 1.500000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.450000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -147,8 +147,8 @@ HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
 HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_TECHCAPITALSHIP"
 ability:0 "AbilityMicroJumpDrive"
-ability:1 "AbilityBastionModePaladin"
-ability:2 "AbilityAmarrShipApocalypse"
+ability:1 "AbilityTrackingComputer"
+ability:2 "AbilityBastionModePaladin"
 ability:3 "AbilityT2BattleshipPaladin"
 ability:4 "AbilityLaunchSquads"
 MaxAntiMatter 700.000000

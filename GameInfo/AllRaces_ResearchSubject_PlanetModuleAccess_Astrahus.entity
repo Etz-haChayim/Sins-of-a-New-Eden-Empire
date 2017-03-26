@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "ResearchSubject"
-hudIcon "HUDICON_RESEARCHSUBJECT_ASTRAHUS"
-smallHudIcon "HUDICON_RESEARCHSUBJECT_ASTRAHUS"
+hudIcon "HUDICON_STARBASE_ASTRAHUS"
+smallHudIcon "HUDICON_STARBASE_ASTRAHUS"
 infoCardIcon ""
 NameStringID "IDS_Allraces_ResearchSubject_PlanetModuleAccess_AstrahusCitadel_NAME"
 DescriptionStringID "IDS_Allraces_ResearchSubject_PlanetModuleAccess_AstrahusCitadel_DESCRIPTION"

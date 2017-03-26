@@ -9,25 +9,25 @@ canBomb FALSE
 typeCount 1
 frigateRoleType "Support"
 statCountType "FrigateUtility1"
-mainViewIcon "MAINVIEWICON_FRIGATE_SCYTHER"
-picture "PICTURE_FRIGATE_SCYTHER"
+mainViewIcon "MAINVIEWICON_FRIGATE_TECHUTILITY1"
+picture ""
 NameStringID "IDS_CRUISER_SCYTHER_NAME"
 DescriptionStringID "IDS_CRUISER_SCYTHER_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_CORVETTE_TECH"
 basePrice
-	credits 161.000000
-	metal 71.000000
-	crystal 89.000000
+	credits 175.000000
+	metal 30.000000
+	crystal 20.000000
 slotCount 4.000000
-BuildTime 29.000000
+BuildTime 95.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 87.000000
-MaxHullPoints 3500.000000
-MaxShieldPoints 5250.000000
-HullPointRestoreRate 4.000000
-ShieldPointRestoreRate 4.000000
+ExperiencePointsForDestroying 67.000000
+MaxHullPoints 1550.000000
+MaxShieldPoints 775.000000
+HullPointRestoreRate 1.550000
+ShieldPointRestoreRate 0.775000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.700000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -40,8 +40,8 @@ numRandomDebrisSmall 0
 numSpecificDebris 0
 armorType "Medium"
 hudIcon "HUDICON_FRIGATE_SCYTHER"
-smallHudIcon "HUDICONSMALL_FRIGATE_SCYTHER"
-infoCardIcon "INFOCARDICON_FRIGATE_SCYTHER"
+smallHudIcon "HUDICONSMALL_FRIGATE_TECHUTILITY1"
+infoCardIcon "INFOCARDICON_FRIGATE_TECHUTILITY1"
 minZoomDistanceMult 1.000000
 NumWeapons 1
 Weapon

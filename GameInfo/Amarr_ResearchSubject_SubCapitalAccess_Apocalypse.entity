@@ -7,26 +7,26 @@ NameStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_APOCALYPSE"
 DescriptionStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_APOCALYPSE_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 5 , 0 ]
+	pos [ 4 , 0 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 107.000000
-PerLevelUpgradeTime 11.000000
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 5.000000
 BaseCost
-	credits 6630.000000
-	metal 4100.000000
-	crystal 2550.000000
+	credits 4000.000000
+	metal 1600.000000
+	crystal 800.000000
 PerLevelCostIncrease
-	credits 663.000000
-	metal 410.000000
-	crystal 255.000000
-Tier 5
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 4
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 2
+MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

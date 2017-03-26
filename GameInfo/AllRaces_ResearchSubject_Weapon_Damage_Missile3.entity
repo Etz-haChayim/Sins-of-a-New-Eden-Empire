@@ -37,7 +37,7 @@ researchModifier
 	modifierType "WeaponDamageAdjustment"
 	baseValue 0.000000
 	perLevelValue 0.030000
-	linkedWeaponClass "DART"
+	linkedWeaponClass "MISSILE"
 artifactPicture ""
 uniqueOverlayBrush "RebellionResearchOverlay"
 dlcId 204880

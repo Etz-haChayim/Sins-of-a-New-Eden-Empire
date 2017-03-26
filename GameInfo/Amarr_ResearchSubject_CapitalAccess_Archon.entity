@@ -10,16 +10,19 @@ researchWindowLocation
 	pos [ 3 , 2 ]
 ResearchField "Combat"
 Prerequisites
-	NumResearchPrerequisites 0
+	NumResearchPrerequisites 1
+	ResearchPrerequisite
+		Subject "Amarr_ResearchSubject_SubCapitalAccess_Augoror"
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 233.000000
-PerLevelUpgradeTime 23.000000
+BaseUpgradeTime 75.000000
+PerLevelUpgradeTime 10.000000
 BaseCost
-	credits 5200.000000
-	metal 3500.000000
-	crystal 1700.000000
+	credits 3000.000000
+	metal 800.000000
+	crystal 400.000000
 PerLevelCostIncrease
 	credits 100.000000
 	metal 25.000000

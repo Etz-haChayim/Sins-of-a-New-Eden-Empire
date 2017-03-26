@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Sins-of-a-New-Eden-Empire</name>
+	<name>Caldari</name>
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
 		<buildCommand>
 			<name>com.zombiesrus5.plugin.sose.entityBuilder</name>
 			<arguments>
@@ -12,6 +17,7 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>com.zombiesrus5.plugin.sose.entityNature</nature>
 	</natures>
 </projectDescription>

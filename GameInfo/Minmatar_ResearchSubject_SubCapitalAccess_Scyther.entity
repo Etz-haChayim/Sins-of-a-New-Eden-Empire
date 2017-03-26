@@ -7,26 +7,26 @@ NameStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Scyther_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Scyther_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 2 , 0 ]
+	pos [ 2 , 1 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 29.000000
-PerLevelUpgradeTime 3.000000
+BaseUpgradeTime 60.000000
+PerLevelUpgradeTime 5.000000
 BaseCost
-	credits 1610.000000
-	metal 718.000000
-	crystal 900.000000
+	credits 1600.000000
+	metal 400.000000
+	crystal 200.000000
 PerLevelCostIncrease
-	credits 161.000000
-	metal 71.000000
-	crystal 90.000000
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
 Tier 2
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 2
+MaxNumResearchLevels 1
 priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

@@ -46,29 +46,29 @@ bombEffectsDef
 	missileMaxSlowTurnTime 6.000000
 mainViewIcon "MAINVIEWICON_CAPITALSHIP_TECHBATTLESHIP"
 basePrice
-	credits 51331.000000
-	metal 3422.000000
-	crystal 1711.000000
+	credits 4500.000000
+	metal 1000.000000
+	crystal 750.000000
 slotCount 1.000000
-BuildTime 233.000000
+BuildTime 500.000000
 MaxHullPoints
-	StartValue 342222.000000
-	ValueIncreasePerLevel 34222.000000
+	StartValue 18000.000000
+	ValueIncreasePerLevel 180.000000
 MaxShieldPoints
-	StartValue 171111.000000
-	ValueIncreasePerLevel 17111.000000
+	StartValue 9000.000000
+	ValueIncreasePerLevel 90.000000
 HullPointRestoreRate
-	StartValue 1.000000
-	ValueIncreasePerLevel 1.000000
+	StartValue 18.000000
+	ValueIncreasePerLevel 1.800000
 ShieldPointRestoreRate
-	StartValue 1.000000
-	ValueIncreasePerLevel 1.000000
+	StartValue 9.000000
+	ValueIncreasePerLevel 0.900000
 ArmorPointsFromExperience
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
 maxMitigation
-	StartValue 0.000000
-	ValueIncreasePerLevel 0.000000
+	StartValue 0.650000
+	ValueIncreasePerLevel 0.005000
 MaxAntiMatter
 	StartValue 6000.000000
 	ValueIncreasePerLevel 600.000000
@@ -80,7 +80,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CAPITALSHIP_TECHBATTLESHIP_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_TECHBATTLESHIP_DESCRIPTION"
-picture "PICTURE_CAPITAL_ARCHON"
+picture ""
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

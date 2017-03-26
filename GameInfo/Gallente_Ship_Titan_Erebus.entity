@@ -46,29 +46,29 @@ bombEffectsDef
 	missileMaxSlowTurnTime 6.000000
 mainViewIcon "MAINVIEWICON_TITAN_PHASELOYALIST"
 basePrice
-	credits 117483.000000
-	metal 78186.000000
-	crystal 39297.000000
+	credits 7500.000000
+	metal 3500.000000
+	crystal 2500.000000
 slotCount 1.000000
-BuildTime 350.000000
+BuildTime 1200.000000
 MaxHullPoints
-	StartValue 7777778.000000
-	ValueIncreasePerLevel 777777.000000
+	StartValue 110000.000000
+	ValueIncreasePerLevel 1100.000000
 MaxShieldPoints
-	StartValue 3888889.000000
-	ValueIncreasePerLevel 388888.000000
+	StartValue 55000.000000
+	ValueIncreasePerLevel 550.000000
 HullPointRestoreRate
-	StartValue 1.000000
-	ValueIncreasePerLevel 1.000000
+	StartValue 110.000000
+	ValueIncreasePerLevel 11.000000
 ShieldPointRestoreRate
-	StartValue 1.000000
-	ValueIncreasePerLevel 1.000000
+	StartValue 55.000000
+	ValueIncreasePerLevel 5.500000
 ArmorPointsFromExperience
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
 maxMitigation
-	StartValue 0.000000
-	ValueIncreasePerLevel 0.000000
+	StartValue 0.700000
+	ValueIncreasePerLevel 0.005000
 MaxAntiMatter
 	StartValue 13000.000000
 	ValueIncreasePerLevel 1300.000000
@@ -80,7 +80,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_TITAN_PHASELOYALIST_NAME"
 DescriptionStringID "IDS_TITAN_PHASELOYALIST_DESCRIPTION"
-picture "PICTURE_CAPITAL_EREBUS"
+picture ""
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

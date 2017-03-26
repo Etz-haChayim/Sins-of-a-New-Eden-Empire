@@ -44,24 +44,24 @@ frigateRoleType "Lrm"
 frigateRoleType "Siege"
 statCountType "FrigateSiege"
 mainViewIcon "MAINVIEWICON_FRIGATE_TECHSIEGE"
-picture "PICTURE_FRIGATE_INQUISITOR"
+picture ""
 NameStringID "IDS_FRIGATE_TECHSIEGE_NAME"
 DescriptionStringID "IDS_FRIGATE_TECHSIEGE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_CORVETTE_TECH"
 basePrice
-	credits 44.000000
-	metal 26.000000
-	crystal 18.000000
-slotCount 1.000000
-BuildTime 8.000000
+	credits 55.000000
+	metal 12.000000
+	crystal 6.000000
+slotCount 2.000000
+BuildTime 23.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 24.000000
-MaxHullPoints 1555.000000
-MaxShieldPoints 777.000000
-HullPointRestoreRate 1.000000
-ShieldPointRestoreRate 1.000000
+ExperiencePointsForDestroying 30.000000
+MaxHullPoints 330.000000
+MaxShieldPoints 165.000000
+HullPointRestoreRate 0.330000
+ShieldPointRestoreRate 0.165000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.400000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -86,12 +86,12 @@ Weapon
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
 		WeaponClassType "MISSILE"
-	DamagePerBank:FRONT 105.000000
+	DamagePerBank:FRONT 212.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
 	Range 14000.000000
-	PreBuffCooldownTime 6.600000
+	PreBuffCooldownTime 14.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting TRUE
 	PointStaggerDelay 0.700000

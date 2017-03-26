@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Heavy"
 statCountType "FrigateHeavy"
 mainViewIcon "MAINVIEWICON_CAPITALSHIP_TECHTRANSPORT"
-picture "PICTURE_FRIGATE_ABADDON"
+picture ""
 NameStringID "IDS_CAPITALSHIP_TECHTRANSPORT_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_TECHTRANSPORT_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_LONGRANGE"
 basePrice
-	credits 662.000000
-	metal 409.000000
-	crystal 253.000000
-slotCount 16.000000
-BuildTime 107.000000
+	credits 725.000000
+	metal 290.000000
+	crystal 175.000000
+slotCount 11.000000
+BuildTime 260.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 322.000000
-MaxHullPoints 31111.000000
-MaxShieldPoints 15555.000000
-HullPointRestoreRate 16.000000
-ShieldPointRestoreRate 16.000000
+ExperiencePointsForDestroying 210.000000
+MaxHullPoints 3600.000000
+MaxShieldPoints 1800.000000
+HullPointRestoreRate 3.600000
+ShieldPointRestoreRate 1.800000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.650000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -51,18 +51,18 @@ Weapon
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "OVERTIME"
 		DamageType "ENERGY"
-		WeaponClassType "GAUSS"
-	DamagePerBank:FRONT 980.000000
+		WeaponClassType "LASERTECH"
+	DamagePerBank:FRONT 480.000000
 	DamagePerBank:BACK 0.000000
 	DamagePerBank:LEFT 0.000000
 	DamagePerBank:RIGHT 0.000000
-	Range 10000.000000
-	PreBuffCooldownTime 8.600000
+	Range 17000.000000
+	PreBuffCooldownTime 8.000000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting TRUE
-	PointStaggerDelay 00000
+	PointStaggerDelay 0.000000
 	TravelSpeed 0.000000
-	Duration 1.500000 
+	Duration 0.170000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Beam"

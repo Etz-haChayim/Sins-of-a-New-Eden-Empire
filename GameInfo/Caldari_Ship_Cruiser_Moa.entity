@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Support"
 statCountType "FrigateCarrier"
 mainViewIcon "MAINVIEWICON_FRIGATE_BLACKBIRD"
-picture "PICTURE_FRIGATE_BLACKBIRD"
-NameStringID "IDS_FRIGATE_MOA_NAME"
-DescriptionStringID "IDS_FRIGATE_MOA_DESCRIPTION"
+picture ""
+NameStringID "IDS_FRIGATE_BLACKBIRD_NAME"
+DescriptionStringID "IDS_FRIGATE_BLACKBIRD_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_CORVETTE_TECH"
 basePrice
-	credits 178.000000
-	metal 71.000000
-	crystal 106.000000
+	credits 155.000000
+	metal 32.000000
+	crystal 23.000000
 slotCount 4.000000
-BuildTime 31.000000
+BuildTime 85.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 94.000000
-MaxHullPoints 3500.000000
-MaxShieldPoints 7000.000000
-HullPointRestoreRate 4.000000
-ShieldPointRestoreRate 4.000000
+ExperiencePointsForDestroying 60.000000
+MaxHullPoints 575.000000
+MaxShieldPoints 1150.000000
+HullPointRestoreRate 0.575000
+ShieldPointRestoreRate 1.150000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.700000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -39,7 +39,7 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 0
 numSpecificDebris 0
 armorType "Medium"
-hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_MOA"
+hudIcon "HUDICON_FRIGATE_BLACKBIRD"
 smallHudIcon "HUDICONSMALL_FRIGATE_BLACKBIRD"
 infoCardIcon "INFOCARDICON_FRIGATE_BLACKBIRD"
 minZoomDistanceMult 1.000000

@@ -27,7 +27,7 @@ PerLevelCostIncrease
 	credits 700.000000
 	metal 50.000000
 	crystal 80.000000
-Tier 4
+Tier 3
 onlyWorksIfTierLabsExist FALSE
 MaxNumResearchLevels 5
 priority 1.000000
@@ -36,8 +36,8 @@ researchFloatModifiers 1
 researchModifier
 	modifierType "WeaponDamageAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.050000
-	linkedWeaponClass "PHASEMISSILE"
+	perLevelValue 0.030000
+	linkedWeaponClass "MISSILE"
 artifactPicture ""
 uniqueOverlayBrush "RebellionResearchOverlay"
 dlcId 204880
