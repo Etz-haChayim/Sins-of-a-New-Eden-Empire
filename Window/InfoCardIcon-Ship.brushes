@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 110
+brushCount 133
 brush
 	name "INFOCARDICON_CORVETTE_PHASE"
 	content "Simple"
@@ -551,4 +551,119 @@ brush
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 277 , 230 , 22 , 22 ]
-	
+brush
+	name "INFOCARDICON_FRIGATE_BELICOSE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 392 , 2 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_CYCLONE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 392 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TALWAR"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 392 , 69 , 22 , 22 ]
+	brush
+	name "INFOCARDICON_FRIGATE_TEMPEST"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 392 , 92 , 22 , 22 ]
+	brush
+	name "INFOCARDICON_FRIGATE_FENRIR"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 415 , 2  , 22 , 22 ]
+	brush
+	name "INFOCARDICON_FRIGATE_HURRICANE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 415 , 25 , 22 , 22 ]
+	brush
+	name "INFOCARDICON_FRIGATE_PROBE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 415 , 46 , 22 , 22 ]
+	brush
+	name "INFOCARDICON_FRIGATE_SCYTHER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 415 , 69 , 22 , 22 ]
+	brush
+	name "INFOCARDICON_FRIGATE_STABBER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 415 , 92 , 22 , 22 ]
+	brush
+	name "INFOCARDICON_CAPITAL_HEL"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 438 , 25 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_MAELSTRON"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 438 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_RUPTURE"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 438 , 69 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TRASHER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 438 , 92 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITAL_LIF"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 459 , 2 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITAL_NAGLFAR"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 459 , 25 , 22 , 22 ]
+brush
+	name "INFOCARDICON_CAPITAL_NIDHOGGUR"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 459 , 47 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_SVIPUL"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 459 , 69 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TORNADO"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 459 , 92 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_TYPHOON"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 459 , 115 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_RIFTER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 403 , 138 , 22 , 22 ]																	
+brush
+	name "INFOCARDICON_FRIGATE_ANATHEMA"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 391 , 24 , 22 , 22 ]																	
+brush
+	name "INFOCARDICON_CAPITAL_RAGNAROK"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 392 , 115 , 22 , 22 ]
+brush
+	name "INFOCARDICON_FRIGATE_BREACHER"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 429 , 117 , 22 , 22 ]																	
+																							
