@@ -7,7 +7,7 @@ NameStringID "IDS_AMARR_SHIP_CRUISER_ZEALOT_NAME"
 DescriptionStringID "IDS_Amarr_ResearchSubject_SubCapitalAccess_Omen_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 3 , 0 ]
+	pos [ 3 , 2 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 1
