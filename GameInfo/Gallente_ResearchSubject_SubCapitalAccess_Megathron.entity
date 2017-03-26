@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_MEGATHRON"
 DescriptionStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_MEGATHRON_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 4 , 1 ]
+	pos [ 4 , 2 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0

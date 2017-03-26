@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_HYPERION"
 DescriptionStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_HYPERION_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 5 , 0 ]
+	pos [ 5 , 4 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0

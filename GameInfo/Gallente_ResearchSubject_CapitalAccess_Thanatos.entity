@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCHSUBJECT_CAPITALSHIPACESS_THANATOS"
 DescriptionStringID "IDS_RESEARCHSUBJECT_CAPITALSHIPACESS_THANATOS_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 3 , 2 ]
+	pos [ 3 , 0 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 1
