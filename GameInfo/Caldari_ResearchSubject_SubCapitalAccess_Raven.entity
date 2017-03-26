@@ -7,7 +7,7 @@ NameStringID "IDS_CALDARI_SHIP_BATTLESHIP_RAVEN_NAME"
 DescriptionStringID "IDS_CALDARI_SHIP_BATTLESHIP_RAVEN_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 4 , 3 ]
+	pos [ 4 , 2 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0

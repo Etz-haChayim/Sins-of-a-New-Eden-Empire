@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_ROKH"
 DescriptionStringID "IDS_RESEARCHSUBJECT_BATTLESHIPACCESS_ROKH_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 4 , 2 ]
+	pos [ 5 , 3 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0
