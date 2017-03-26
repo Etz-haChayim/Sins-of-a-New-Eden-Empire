@@ -1,5 +1,5 @@
 TXT
-entityNameCount 2186
+entityNameCount 2187
 entityName "BuffSuppressionChannelEnd.entity"
 entityName "AbilityAbilityGuidance.entity"
 entityName "AbilityPhasedArmourHardener.entity"
@@ -2185,3 +2185,5 @@ entityName "AbilityTitanEMPSmartbombCapital.entity"
 entityName "AbilityTitanJumpBridge.entity"
 entityName "Amarr_Ship_Capital_Titan_Avatar.entity"
 entityName "AbilityJudgmentCapital.entity"
+entityName "Gallente_Ship_Capital_Titan_Erebus.entity"
+entityName "AbilityAuroraOminaeCapital.entity"
