@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCHSUBJECT_TITANACCESS_RAGNAROK_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_TITANACCESS_RAGNAROK_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 7 , 4 ]
+	pos [ 7 , 0 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0
