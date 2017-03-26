@@ -35,13 +35,14 @@ entities
 			entityDefName "Amarr_Ship_Titan_Avatar"
 	capitalShipInfo
 		Page:0
-			count 7
+			count 8
 			entityDefName "Amarr_Ship_Carrier_Archon"
 			entityDefName "Amarr_Ship_Carrier_Triage_Archon"
 			entityDefName "Amarr_Ship_Dreadnought_Revelation_ShortRange"
 			entityDefName "Amarr_Ship_Dreadnought_Revelation_LongRange"
 			entityDefName "Amarr_Ship_Supercarrier_Aeon"
 			entityDefName "Amarr_Ship_ColonyCapital_Rorqual"
+			entityDefName "Amarr_Ship_Capital_Titan_Avatar"
 			entityDefName "AllRaces_Ship_Supercarrier_Revenant"
 	frigateInfo
 		Page:0
