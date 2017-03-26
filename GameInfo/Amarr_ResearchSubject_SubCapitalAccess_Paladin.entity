@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "ResearchSubject"
-hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_PALADIN"
-smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_PALADIN"
+hudIcon "HUDICON_ABILITY_DEPLOYCOMBATTURRET"
+smallHudIcon "HUDICON_ABILITY_DEPLOYCOMBATTURRET"
 infoCardIcon ""
 NameStringID "IDS_AMARR_SHIP_BATTLESHIP_PALADIN_NAME"
 DescriptionStringID "IDS_AMARR_SHIP_BATTLESHIP_PALADIN_DESCRIPTION"
@@ -13,23 +13,23 @@ Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
 		Subject "Amarr_ResearchSubject_SubCapitalAccess_Apocalypse"
-		Level 2
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 214.000000
-PerLevelUpgradeTime 21.000000
+BaseUpgradeTime 240.000000
+PerLevelUpgradeTime 5.000000
 BaseCost
-	credits 13360.000000
-	metal 8100.000000
-	crystal 5000.000000
+	credits 8000.000000
+	metal 2500.000000
+	crystal 1250.000000
 PerLevelCostIncrease
-	credits 1336.000000
-	metal 810.000000
-	crystal 500.000000
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
 Tier 6
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 2
+MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

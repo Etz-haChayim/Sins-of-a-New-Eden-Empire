@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Support"
 statCountType "FrigateUtility0"
 mainViewIcon "MAINVIEWICON_FRIGATE_PHASEUTILITY0"
-picture "PICTURE_FRIGATE_BRUTIX"
+picture ""
 NameStringID "IDS_FRIGATE_PHASEUTILITY0_NAME"
 DescriptionStringID "IDS_FRIGATE_PHASEUTILITY0_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_CORVETTE_TECH"
 basePrice
-	credits 221.000000
-	metal 138.000000
-	crystal 83.000000
-slotCount 8.000000
-BuildTime 35.000000
+	credits 185.000000
+	metal 35.000000
+	crystal 23.000000
+slotCount 6.000000
+BuildTime 140.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 105.000000
-MaxHullPoints 10888.000000
-MaxShieldPoints 5444.000000
-HullPointRestoreRate 8.000000
-ShieldPointRestoreRate 8.000000
+ExperiencePointsForDestroying 72.000000
+MaxHullPoints 2000.000000
+MaxShieldPoints 1000.000000
+HullPointRestoreRate 2.000000
+ShieldPointRestoreRate 1.000000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.550000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

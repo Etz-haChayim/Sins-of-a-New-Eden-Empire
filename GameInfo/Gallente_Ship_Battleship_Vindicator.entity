@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Heavy"
 statCountType "FrigateHeavy"
 mainViewIcon "MAINVIEWICON_CAPITALSHIP_PHASESCOUT"
-picture "PICTURE_FRIGATE_MEGATHRON"
+picture ""
 NameStringID "IDS_GALLENTE_SHIP_BATTLESHIP_VINDICATOR_NAME"
 DescriptionStringID "IDS_GALLENTE_SHIP_BATTLESHIP_VINDICATOR_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_LONGRANGE"
 basePrice
-	credits 564.000000
-	metal 360.000000
-	crystal 204.000000
-slotCount 16.000000
-BuildTime 82.000000
+	credits 2000.000000
+	metal 600.000000
+	crystal 550.000000
+slotCount 8.000000
+BuildTime 325.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 248.000000
-MaxHullPoints 31111.000000
-MaxShieldPoints 15555.000000
-HullPointRestoreRate 16.000000
-ShieldPointRestoreRate 16.000000
+ExperiencePointsForDestroying 250.000000
+MaxHullPoints 5500.000000
+MaxShieldPoints 2750.000000
+HullPointRestoreRate 5.500000
+ShieldPointRestoreRate 2.750000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.700000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

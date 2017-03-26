@@ -13,20 +13,20 @@ Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
 		Subject "Minmatar_ResearchSubject_SubCapitalAccess_Typhoon"
-		Level 2
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 200.000000
-PerLevelUpgradeTime 20.000000
+BaseUpgradeTime 240.000000
+PerLevelUpgradeTime 5.000000
 BaseCost
-	credits 11700.000000
-	metal 5000.000000
-	crystal 6650.000000
+	credits 8000.000000
+	metal 2500.000000
+	crystal 1250.000000
 PerLevelCostIncrease
-	credits 1170.000000
-	metal 500.000000
-	crystal 665.000000
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
 Tier 6
 onlyWorksIfTierLabsExist TRUE
 MaxNumResearchLevels 1

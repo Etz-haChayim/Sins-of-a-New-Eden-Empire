@@ -7,29 +7,26 @@ NameStringID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_ONYX_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_FRIGATEACCESS_ONYX_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 4 , 1 ]
+	pos [ 5 , 0 ]
 ResearchField "Combat"
 Prerequisites
-	NumResearchPrerequisites 1
-	ResearchPrerequisite
-		Subject "Caldari_ResearchSubject_SubCapitalAccess_Eagle"
-		Level 2
+	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
 BaseUpgradeTime 120.000000
-PerLevelUpgradeTime 12.000000
+PerLevelUpgradeTime 5.000000
 BaseCost
-	credits 7140.000000
-	metal 2872.000000
-	crystal 3904.000000
+	credits 6000.000000
+	metal 1000.000000
+	crystal 2000.000000
 PerLevelCostIncrease
-	credits 714.000000
-	metal 287.000000
-	crystal 390.000000
-Tier 4
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 5
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 2
+MaxNumResearchLevels 1
 priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

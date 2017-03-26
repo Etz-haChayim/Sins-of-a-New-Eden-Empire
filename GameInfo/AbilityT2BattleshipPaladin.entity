@@ -2,7 +2,7 @@
 entityType "Ability"
 buffInstantActionType "ApplyBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
-buffType "BuffSkillPaladin"
+buffType "BuffT2CaldariGolem"
 effectInfo
 	effectAttachInfo
 		attachType "Invalid"

@@ -1,32 +1,32 @@
 ﻿TXT
 entityType "ResearchSubject"
-hudIcon "HUDICON_RESEARCHSUBJECT_HECATE"
-smallHudIcon "HUDICON_RESEARCHSUBJECT_HECATE"
+hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_ANTIFIGHTERPHASE"
+smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_ANTIFIGHTERPHASE"
 infoCardIcon ""
 NameStringID "IDS_Gallente_ResearchSubject_SubCapitalAccess_Hecate_NAME"
 DescriptionStringID "IDS_Gallente_ResearchSubject_SubCapitalAccess_Hecate_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 2 , 2 ]
+	pos [ 2 , 4 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 80.000000
-PerLevelUpgradeTime 8.000000
+BaseUpgradeTime 45.000000
+PerLevelUpgradeTime 5.000000
 BaseCost
-	credits 1868.000000
-	metal 1120.000000
-	crystal 748.000000
+	credits 800.000000
+	metal 100.000000
+	crystal 200.000000
 PerLevelCostIncrease
-	credits 1868.000000
-	metal 1120.000000
-	crystal 748.000000
-Tier 2
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 1
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 2
+MaxNumResearchLevels 1
 priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

@@ -7,29 +7,29 @@ NameStringID "AbilityT2CruiserBasiliskName"
 DescriptionStringID "AbilityT2CruiserBasiliskDescription"
 researchWindowLocation
 	block 2
-	pos [ 3 , 4 ]
+	pos [ 4 , 0 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
 		Subject "Caldari_ResearchSubject_SubCapitalAccess_Osprey"
-		Level 2
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 60.000000
-PerLevelUpgradeTime 6.000000
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 5.000000
 BaseCost
-	credits 3600.000000
-	metal 1400.000000
-	crystal 2100.000000
+	credits 4000.000000
+	metal 800.000000
+	crystal 1600.000000
 PerLevelCostIncrease
-	credits 360.000000
-	metal 140.000000
-	crystal 210.000000
-Tier 3
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 4
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 2
+MaxNumResearchLevels 1
 priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

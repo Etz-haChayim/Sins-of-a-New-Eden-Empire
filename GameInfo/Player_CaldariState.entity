@@ -19,7 +19,7 @@ entities
 			entityDefName "PLANETMODULE_PHASEORBITALCRYSTALEXTRACTOR"
 			entityDefName "Gallente_Structure_CapitalShipFactory"
 			entityDefName "Gallente_Structure_CivillianLab"
-			entityDefName "Caldari_Structure_Refinery"
+			entityDefName "Gallente_Structure_Refinery"
 		Page:1
 			count 7
 			entityDefName "Gallente_Structure_SmallBlasterBattery"
@@ -35,15 +35,14 @@ entities
 			entityDefName "Caldari_Ship_Titan_Leviathan"
 	capitalShipInfo
 		Page:0
-			count 8
+			count 7
+			entityDefName "Gallente_Ship_ColonyCapital_Rorqual"
 			entityDefName "Caldari_Ship_Carrier_Chimera"
 			entityDefName "Caldari_Ship_Carrier_Triage_Chimera"
 			entityDefName "Caldari_Ship_Dreadnought_Phoenix_ShortRange"
 			entityDefName "Caldari_Ship_Dreadnought_Phoenix_LongRange"
 			entityDefName "Caldari_Ship_Supercarrier_Wyvern"
-			entityDefName "Gallente_Ship_ColonyCapital_Rorqual"
 			entityDefName "AllRaces_Ship_Supercarrier_Revenant"
-			entityDefName "Caldari_Ship_Capital_Titan_Leviathan"
 	frigateInfo
 		Page:0
 			count 9
@@ -52,37 +51,30 @@ entities
 			entityDefName "Caldari_Ship_Frigate_Condor"
 			entityDefName "Caldari_Ship_Frigate_Kestrel"
 			entityDefName "Caldari_Ship_Destroyer_Comorant"
-            entityDefName "Caldari_Ship_Cruiser_Blackbird"
 			entityDefName "Caldari_Ship_Cruiser_Caracal"
+			entityDefName "Caldari_Ship_Cruiser_Moa"
 			entityDefName "Caldari_Ship_Cruiser_Osprey"
 			entityDefName "Gallente_Ship_Colony_Orca"
 		Page:1
 			count 9
-			entityDefName "Caldari_Ship_Battlecruiser_Drake"
-			entityDefName "Caldari_Ship_Battlecruiser_Ferox"
-			entityDefName "Caldari_Ship_Cruiser_Onyx"
 			entityDefName "Caldari_Ship_Battleship_Scorpion"
 			entityDefName "Caldari_Ship_Battleship_Raven"
 			entityDefName "Caldari_Ship_Battleship_Rokh"
-			entityDefName "Caldari_Ship_Battleship_Rattlesnake"
+			entityDefName "Caldari_Ship_Battlecruiser_Naga"
+			entityDefName "Caldari_Ship_Battlecruiser_Ferox"
+			entityDefName "Caldari_Ship_Cruiser_Onyx"
 			entityDefName "Caldari_Ship_Envoy_Ferox"
-		    entityDefName "Caldari_Ship_Destroyer_Jackdaw"
+			entityDefName "Caldari_Ship_Battleship_Rattlesnake"
+			entityDefName "Caldari_Ship_Destroyer_Jackdaw"
 		NotOnPage
 			count 3
 			entityDefName "Gallente_Ship_Constructor_Venture"
 			entityDefName "FrigatePhaseTradeShip"
 			entityDefName "Caldari_Ship_Industrial_Badge"
 	researchInfo
-		count 133
-		entityDefName "Caldari_ResearchSubject_SubCapitalAccess_Vulture"
-		entityDefName "Caldari_ResearchSubject_SubCapitalAccess_Nighthawk"
-		entityDefName "Caldari_ResearchSubject_SubCapitalAccess_Hook"
-		entityDefName "Caldari_ResearchSubject_SubCapitalAccess_Drake"
+		count 125
 		entityDefName "Caldari_ResearchSubject_SubCapitalAccess_Jackdaw"
-		entityDefName "Caldari_ResearchSubject_SubCapitalAccess_Eagle"
 		entityDefName "AllRaces_ResearchSubject_PlanetModuleAccess_CYNOSURAL_NAVIGATION"
-		entityDefName "ALLRACES_RESEARCHSUBJECT_ABILITYACCESS_CALDARISHIELDWAFAREMINDLINK"
-		entityDefName "ALLRACES_RESEARCHSUBJECT_ABILITYACCESS_REMOTESHIELDBOOSTER"
 		entityDefName "ALLRACES_RESEARCHSUBJECT_ABILITYACCESS_REPAIRYARD"
 		entityDefName "ALLRACES_RESEARCHSUBJECT_ABILITYACCESS_AFTERBURNER"
 		entityDefName "ALLRACES_RESEARCHSUBJECT_ABILITYACCESS_BASTIONMODE"
@@ -121,7 +113,6 @@ entities
 		entityDefName "Caldari_ResearchSubject_SubCapitalAccess_Scorpion"
 		entityDefName "Caldari_ResearchSubject_SubCapitalAccess_Widow"
 		entityDefName "Caldari_ResearchSubject_SubCapitalAccess_Comorant"
-		entityDefName "Caldari_ResearchSubject_SubCapitalAccess_Blackbird"
 		entityDefName "Caldari_ResearchSubject_SubCapitalAccess_Moa"
 		entityDefName "Caldari_ResearchSubject_SubCapitalAccess_Osprey"
 		entityDefName "Caldari_ResearchSubject_SubCapitalAccess_Basilisk"

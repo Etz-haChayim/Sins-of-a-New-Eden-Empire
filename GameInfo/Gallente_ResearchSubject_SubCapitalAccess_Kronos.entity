@@ -1,7 +1,7 @@
 ﻿TXT
 entityType "ResearchSubject"
-hudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_KRONOS"
-smallHudIcon "HUDICON_RESEARCHSUBJECT_FRIGATEACCESS_KRONOS"
+hudIcon "HUDICON_PLANETMODULE_PHASEORBITALPHASEGATE"
+smallHudIcon "HUDICON_PLANETMODULE_PHASEORBITALPHASEGATE"
 infoCardIcon ""
 NameStringID "IDS_GALLENTE_SHIP_BATTLESHIP_KRONOS_NAME"
 DescriptionStringID "IDS_GALLENTE_SHIP_BATTLESHIP_KRONOS_DESCRIPTION"
@@ -13,23 +13,23 @@ Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
 		Subject "Gallente_ResearchSubject_SubCapitalAccess_Megathron"
-		Level 2
+		Level 1
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 83.000000
-PerLevelUpgradeTime 8.000000
+BaseUpgradeTime 240.000000
+PerLevelUpgradeTime 5.000000
 BaseCost
-	credits 11000.000000
-	metal 7200.000000
-	crystal 4100.000000
+	credits 8000.000000
+	metal 1250.000000
+	crystal 2500.000000
 PerLevelCostIncrease
-	credits 1100.000000
-	metal 720.000000
-	crystal 410.000000
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
 Tier 6
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 2
+MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

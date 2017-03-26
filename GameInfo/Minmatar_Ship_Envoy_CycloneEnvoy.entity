@@ -9,25 +9,25 @@ canBomb FALSE
 typeCount 1
 frigateRoleType "Envoy"
 statCountType "FrigateEnvoy"
-mainViewIcon "MAINVIEWICON_FRIGATE_CYCLONE"
-picture "PICTURE_FRIGATE_CYCLONE"
-NameStringID "IDS_FRIGATE_CYCLONEENVOY_NAME"
-DescriptionStringID "IDS_FRIGATE_CYCLONEENVOY_DESC"
+mainViewIcon "MAINVIEWICON_FRIGATE_TECHUTILITY0"
+picture ""
+NameStringID "IDS_FRIGATE_TECHENVOY_NAME"
+DescriptionStringID "IDS_FRIGATE_TECHENVOY_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 258.000000
-	metal 115.000000
-	crystal 142.000000
-slotCount 8.000000
-BuildTime 47.000000
+	credits 185.000000
+	metal 35.000000
+	crystal 23.000000
+slotCount 1.000000
+BuildTime 125.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 142.000000
-MaxHullPoints 5444.000000
-MaxShieldPoints 8166.000000
-HullPointRestoreRate 8.000000
-ShieldPointRestoreRate 8.000000
+ExperiencePointsForDestroying 72.000000
+MaxHullPoints 2300.000000
+MaxShieldPoints 1150.000000
+HullPointRestoreRate 2.300000
+ShieldPointRestoreRate 1.150000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.500000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

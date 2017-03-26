@@ -46,29 +46,29 @@ bombEffectsDef
 	missileMaxSlowTurnTime 6.000000
 mainViewIcon "MAINVIEWICON_CAPITALSHIP_TECHCARRIER"
 basePrice
-	credits 58333.000000
-	metal 38888.000000
-	crystal 19444.000000
+	credits 20000.000000
+	metal 5000.000000
+	crystal 4500.000000
 slotCount 1.000000
-BuildTime 350.000000
+BuildTime 900.000000
 MaxHullPoints
-	StartValue 3888888.000000
-	ValueIncreasePerLevel 388888.000000
+	StartValue 98500.000000
+	ValueIncreasePerLevel 985.000000
 MaxShieldPoints
-	StartValue 1944444.000000
-	ValueIncreasePerLevel 194444.000000
+	StartValue 49250.000000
+	ValueIncreasePerLevel 492.500000
 HullPointRestoreRate
-	StartValue 1.000000
-	ValueIncreasePerLevel 1.000000
+	StartValue 98.500000
+	ValueIncreasePerLevel 9.850000
 ShieldPointRestoreRate
-	StartValue 1.000000
-	ValueIncreasePerLevel 1.000000
+	StartValue 49.250000
+	ValueIncreasePerLevel 4.925000
 ArmorPointsFromExperience
 	StartValue 0.000000
 	ValueIncreasePerLevel 0.000000
 maxMitigation
-	StartValue 0.000000
-	ValueIncreasePerLevel 0.000000
+	StartValue 0.650000
+	ValueIncreasePerLevel 0.005000
 MaxAntiMatter
 	StartValue 11700.000000
 	ValueIncreasePerLevel 1170.000000
@@ -80,7 +80,7 @@ CultureProtectRate
 	ValueIncreasePerLevel 0.050000
 NameStringID "IDS_CAPITALSHIP_TECHCARRIER_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_TECHCARRIER_DESCRIPTION"
-picture "PICTURE_CAPITAL_AEON"
+picture ""
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

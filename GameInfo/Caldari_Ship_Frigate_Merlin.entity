@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Light"
 statCountType "FrigateLight"
 mainViewIcon "MAINVIEWICON_FRIGATE_MERLIN"
-picture "PICTURE_FRIGATE_MERLIN"
+picture ""
 NameStringID "IDS_FRIGATE_MERLIN_NAME"
 DescriptionStringID "IDS_FRIGATE_MERLIN_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 39.000000
-	metal 15.000000
-	crystal 23.000000
-slotCount 1.000000
-BuildTime 7.000000
+	credits 45.000000
+	metal 7.000000
+	crystal 3.000000
+slotCount 2.000000
+BuildTime 15.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 21.000000
-MaxHullPoints 777.000000
-MaxShieldPoints 1555.000000
-HullPointRestoreRate 1.000000
-ShieldPointRestoreRate 1.000000
+ExperiencePointsForDestroying 22.000000
+MaxHullPoints 135.000000
+MaxShieldPoints 270.000000
+HullPointRestoreRate 0.000000
+ShieldPointRestoreRate 0.135000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.500000
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""

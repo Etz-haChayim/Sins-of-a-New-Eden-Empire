@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 274
+brushCount 248
 brush
 	name "HUDICON_CORVETTE_PHASE"
 	content "States"
@@ -3148,190 +3148,21 @@ brush
 		fileName "Unit_Ship_Normal"
 		pixelBox [ 153 , 294 , 47 , 33 ]
 brush
-	name "HUDICON_FRIGATE_SVIPUL"
+	name "HUDICON_STARBASE_ASTRAHUS"
 	content "States"
 	Disabled
 		fileName "Unit_Ship_Disabled"
-		pixelBox [ 251 , 119 , 47 , 33 ]
+		pixelBox [ 300 , 116 , 47 , 33 ]
 	Pressed
 		fileName "Unit_Ship_Pressed"
-		pixelBox [ 251 , 119 , 47 , 33 ]
+		pixelBox [ 300 , 116 , 47 , 33 ]
 	CursorOver
 		fileName "Unit_Ship_CursorOver"
-		pixelBox [ 251 , 119 , 47 , 33 ]
+		pixelBox [ 300 , 116 , 47 , 33 ]
 	Focused
 		fileName "Unit_Ship_Normal"
-		pixelBox [ 251 , 119 , 47 , 33 ]
+		pixelBox [ 300 , 116 , 47 , 33 ]
 	Normal
 		fileName "Unit_Ship_Normal"
-		pixelBox [ 251 , 119 , 47 , 33 ]
-brush
-	name "HUDICON_FRIGATE_JACKDAW"
-	content "States"
-	Disabled
-		fileName "Unit_Ship_Disabled"
-		pixelBox [ 6 , 14 , 47 , 33 ]
-	Pressed
-		fileName "Unit_Ship_Pressed"
-		pixelBox [ 6 , 14 , 47 , 33 ]
-	CursorOver
-		fileName "Unit_Ship_CursorOver"
-		pixelBox [ 6 , 14 , 47 , 33 ]
-	Focused
-		fileName "Unit_Ship_Normal"
-		pixelBox [ 6 , 14 , 47 , 33 ]
-	Normal
-		fileName "Unit_Ship_Normal"
-		pixelBox [ 6 , 14 , 47 , 33 ]
-brush
-	name "HUDICON_FRIGATE_HECATE"
-	content "States"
-	Disabled
-		fileName "Unit_Ship_Disabled"
-		pixelBox [ 447 , 469 , 47 , 33 ]
-	Pressed
-		fileName "Unit_Ship_Pressed"
-		pixelBox [ 447 , 469 , 47 , 33 ]
-	CursorOver
-		fileName "Unit_Ship_CursorOver"
-		pixelBox [ 447 , 469 , 47 , 33 ]
-	Focused
-		fileName "Unit_Ship_Normal"
-		pixelBox [ 447 , 469 , 47 , 33 ]
-	Normal
-		fileName "Unit_Ship_Normal"
-		pixelBox [ 447 , 469 , 47 , 33 ]
-brush
-	name "HUDICON_FRIGATE_CONFESSOR"
-	content "States"
-	Disabled
-		fileName "Unit_Ship_Disabled"
-		pixelBox [ 153 , 14 , 47 , 33 ]
-	Pressed
-		fileName "Unit_Ship_Pressed"
-		pixelBox [ 153 , 14 , 47 , 33 ]
-	CursorOver
-		fileName "Unit_Ship_CursorOver"
-		pixelBox [ 153 , 14 , 47 , 33 ]
-	Focused
-		fileName "Unit_Ship_Normal"
-		pixelBox [ 153 , 14 , 47 , 33 ]
-	Normal
-		fileName "Unit_Ship_Normal"
-		pixelBox [ 153 , 14 , 47 , 33 ]
-brush
-	name "HUDICONSMALL_FRIGATE_BELICOSE"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 392 , 2 , 22 , 22 ]
-brush
-	name "HUDICONSMALL_FRIGATE_CYCLONE"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 392 , 47 , 22 , 22 ]
-brush
-	name "HUDICONSMALL_FRIGATE_TALWAR"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 392 , 69 , 22 , 22 ]
-	brush
-	name "HUDICONSMALL_FRIGATE_TEMPEST"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 392 , 92 , 22 , 22 ]
-	brush
-	name "HUDICONSMALL_FRIGATE_FENRIR"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 415 , 2  , 22 , 22 ]
-	brush
-	name "HUDICONSMALL_FRIGATE_HURRICANE"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 415 , 25 , 22 , 22 ]
-	brush
-	name "HUDICONSMALL_FRIGATE_PROBE"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 415 , 46 , 22 , 22 ]
-	brush
-	name "HUDICONSMALL_FRIGATE_SCYTHER"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 415 , 69 , 22 , 22 ]
-	brush
-	name "HUDICONSMALL_FRIGATE_STABBER"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 415 , 92 , 22 , 22 ]
-	brush
-	name "HUDICONSMALL_CAPITAL_HEL"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 438 , 25 , 22 , 22 ]
-brush
-	name "HUDICONSMALL_FRIGATE_MAELSTRON"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 438 , 47 , 22 , 22 ]
-brush
-	name "HUDICONSMALL_FRIGATE_RUPTURE"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 438 , 69 , 22 , 22 ]
-brush
-	name "HUDICONSMALL_FRIGATE_TRASHER"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 438 , 92 , 22 , 22 ]
-brush
-	name "HUDICONSMALL_CAPITAL_LIF"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 459 , 2 , 22 , 22 ]
-brush
-	name "HUDICONSMALL_CAPITAL_NAGLFAR"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 459 , 25 , 22 , 22 ]
-brush
-	name "HUDICONSMALL_CAPITAL_NIDHOGGUR"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 459 , 47 , 22 , 22 ]
-brush
-	name "HUDICONSMALL_FRIGATE_SVIPUL"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 459 , 69 , 22 , 22 ]
-brush
-	name "HUDICONSMALL_FRIGATE_TORNADO"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 459 , 92 , 22 , 22 ]
-brush
-	name "HUDICONSMALL_FRIGATE_TYPHOON"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 459 , 115 , 22 , 22 ]
-brush
-	name "HUDICONSMALL_CAPITAL_RAGNAROK"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 392 , 115 , 22 , 22 ]
-brush
-	name "HUDICONSMALL_FRIGATE_RIFTER"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 403 , 138 , 22 , 22 ]																	
-brush
-	name "HUDICONSMALL_FRIGATE_ANATHEMA"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 403 , 164 , 22 , 22 ]																	
-brush
-	name "HUDICONSMALL_FRIGATE_BREACHER"
-	content "Simple"
-	fileName "Unit_Infocard"
-	pixelBox [ 429 , 117 , 22 , 22 ]																	
-																
+		pixelBox [ 300 , 116 , 47 , 33 ]
+				

@@ -7,7 +7,7 @@ NameStringID "IDS_AllRaces_ResearchSubject_Weapon_Damage_ArtyCannon3_NAME"
 DescriptionStringID "IDS_AllRaces_ResearchSubject_Weapon_Damage_ArtyCannon3_DESCRIPTION"
 researchWindowLocation
 	block 1
-	pos [ 5 , 2 ]
+	pos [ 5 , 1 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 1
@@ -36,7 +36,7 @@ researchFloatModifiers 1
 researchModifier
 	modifierType "WeaponDamageAdjustment"
 	baseValue 0.000000
-	perLevelValue 0.050000
+	perLevelValue 0.040000
 	linkedWeaponClass "GAUSS"
 artifactPicture ""
 uniqueOverlayBrush "RebellionResearchOverlay"

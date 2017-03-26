@@ -7,7 +7,7 @@ NameStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Rupture_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Rupture_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 2 , 3 ]
+	pos [ 1 , 2 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0
@@ -17,16 +17,16 @@ MinimumArtifactLevel -1
 BaseUpgradeTime 45.000000
 PerLevelUpgradeTime 5.000000
 BaseCost
-	credits 1225.000000
-	metal 525.000000
-	crystal 700.000000
+	credits 800.000000
+	metal 200.000000
+	crystal 100.000000
 PerLevelCostIncrease
-	credits 122.000000
-	metal 52.000000
-	crystal 70.000000
-Tier 2
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 1
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 2
+MaxNumResearchLevels 1
 priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

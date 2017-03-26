@@ -7,26 +7,26 @@ NameStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Typhoon_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Typhoon_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 5 , 3 ]
+	pos [ 4 , 3 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 100.000000
-PerLevelUpgradeTime 10.000000
+BaseUpgradeTime 90.000000
+PerLevelUpgradeTime 5.000000
 BaseCost
-	credits 5850.000000
-	metal 2550.000000
-	crystal 3300.000000
+	credits 4000.000000
+	metal 1600.000000
+	crystal 800.000000
 PerLevelCostIncrease
-	credits 585.000000
-	metal 255.000000
-	crystal 330.000000
-Tier 5
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
+Tier 4
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 2
+MaxNumResearchLevels 1
 priority 1.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

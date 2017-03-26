@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Envoy"
 statCountType "FrigateEnvoy"
 mainViewIcon "MAINVIEWICON_FRIGATE_FEROX"
-picture "PICTURE_FRIGATE_FEROX"
+picture ""
 NameStringID "IDS_FRIGATE_FEROXENVOY_NAME"
 DescriptionStringID "IDS_FRIGATE_FEROXENVOY_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 60.000000
-	metal 25.000000
-	crystal 35.000000
-slotCount 2.000000
-BuildTime 11.000000
+	credits 185.000000
+	metal 35.000000
+	crystal 23.000000
+slotCount 1.000000
+BuildTime 125.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 35.000000
-MaxHullPoints 933.000000
-MaxShieldPoints 1866.000000
-HullPointRestoreRate 2.000000
+ExperiencePointsForDestroying 72.000000
+MaxHullPoints 1000.000000
+MaxShieldPoints 2000.000000
+HullPointRestoreRate 1.000000
 ShieldPointRestoreRate 2.000000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.750000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

@@ -27,17 +27,12 @@ isAutoCastOnByDefault TRUE
 pickRandomPlanetToExploreForAutoCastTarget FALSE
 ignoreNonCombatShipsForAutoCastTarget TRUE
 onlyAutoCastWhenDamageTakenExceedsPerc 0.000000
-useCostType "ResourcesAndMustHaveCapitalCrew"
+useCostType "ResourcesAndMustHaveShipSlots"
 resourceCost
 	credits 67500.000000
 	metal 0.000000
 	crystal 0.000000
 requiredShipSlots
-	Level:0 1.000000
-	Level:1 1.000000
-	Level:2 1.000000
-	Level:3 1.000000
-requiredCapitalShipSlots
 	Level:0 1.000000
 	Level:1 1.000000
 	Level:2 1.000000

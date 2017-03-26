@@ -12,24 +12,24 @@ frigateRoleType "Colony"
 frigateRoleType "StarBaseConstructor"
 statCountType "FrigateColony"
 mainViewIcon "MAINVIEWICON_FRIGATE_TECHMODULECONSTRUCTOR"
-picture "PICTURE_FRIGATE_COLONY_ORCA"
+picture ""
 NameStringID "IDS_FRIGATE_TECHCOLONY_NAME"
 DescriptionStringID "IDS_FRIGATE_TECHCOLONY_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 662.000000
-	metal 409.000000
-	crystal 253.000000
+	credits 450.000000
+	metal 175.000000
+	crystal 60.000000
 slotCount 1.000000
-BuildTime 107.000000
+BuildTime 175.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 322.000000
-MaxHullPoints 31111.000000
-MaxShieldPoints 15555.000000
-HullPointRestoreRate 1.000000
-ShieldPointRestoreRate 1.000000
+ExperiencePointsForDestroying 50.000000
+MaxHullPoints 5450.000000
+MaxShieldPoints 5450.000000
+HullPointRestoreRate 5.450000
+ShieldPointRestoreRate 5.450000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.300000
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""

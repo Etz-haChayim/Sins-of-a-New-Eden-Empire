@@ -9,25 +9,25 @@ canBomb FALSE
 typeCount 1
 frigateRoleType "Heavy"
 statCountType "FrigateHeavy"
-mainViewIcon "MAINVIEWICON_FRIGATE_TEMPEST"
-picture "PICTURE_FRIGATE_TEMPEST"
+mainViewIcon "MAINVIEWICON_CAPITALSHIP_TECHSIEGE"
+picture ""
 NameStringID "IDS_BATTLESHIP_TEMPEST_NAME"
 DescriptionStringID "IDS_BATTLESHIP_TEMPEST_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_LONGRANGE"
 basePrice
-	credits 486.000000
-	metal 204.000000
-	crystal 282.000000
-slotCount 16.000000
-BuildTime 73.000000
+	credits 600.000000
+	metal 220.000000
+	crystal 145.000000
+slotCount 10.000000
+BuildTime 245.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 219.000000
-MaxHullPoints 15555.000000
-MaxShieldPoints 23333.000000
-HullPointRestoreRate 16.000000
-ShieldPointRestoreRate 16.000000
+ExperiencePointsForDestroying 175.000000
+MaxHullPoints 3000.000000
+MaxShieldPoints 1500.000000
+HullPointRestoreRate 3.000000
+ShieldPointRestoreRate 1.500000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.450000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -40,8 +40,8 @@ numRandomDebrisSmall 0
 numSpecificDebris 0
 armorType "Heavy"
 hudIcon "HUDICON_FRIGATE_TEMPEST"
-smallHudIcon "HUDICONSMALL_FRIGATE_TEMPEST"
-infoCardIcon "INFOCARDICON_FRIGATE_TEMPEST"
+smallHudIcon "HUDICONSMALL_CAPITALSHIP_TECHSIEGE"
+infoCardIcon "INFOCARDICON_CAPITALSHIP_TECHSIEGE"
 minZoomDistanceMult 1.000000
 NumWeapons 1
 Weapon
@@ -51,18 +51,18 @@ Weapon
 		DamageAffectType "AFFECTS_SHIELDS_AND_HULL"
 		DamageApplyType "BACKLOADED"
 		DamageType "PHYSICAL"
-		WeaponClassType "FLAK"
-	DamagePerBank:FRONT 490.000000
-	DamagePerBank:BACK 0.000000
-	DamagePerBank:LEFT 0.000000
-	DamagePerBank:RIGHT 0.000000
-	Range 4000.000000
-	PreBuffCooldownTime 3.600000
+		WeaponClassType "AUTOCANNON"
+	DamagePerBank:FRONT 430.125000
+	DamagePerBank:BACK 215.125000
+	DamagePerBank:LEFT 215.125000
+	DamagePerBank:RIGHT 215.125000
+	Range 12000.000000
+	PreBuffCooldownTime 7.500000
 	CanFireAtFighter FALSE
 	SynchronizedTargeting TRUE
-	PointStaggerDelay 0.050000
-	TravelSpeed 6000.000000
-	Duration 0.000000 
+	PointStaggerDelay 0.000000
+	TravelSpeed 5000.000000
+	Duration 0.300000
 	fireConstraintType "CanAlwaysFire"
 	WeaponEffects
 		weaponType "Projectile"
@@ -139,8 +139,8 @@ HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
 HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_TECHCAPITALSHIP"
 ability:0 "AbilityMicroJumpDrive"
-ability:1 "AbilityBastionModeVagur"
-ability:2 "AbilityMinmatarShipTempest"
+ability:1 "AbilityTrackingComputer"
+ability:2 "AbilityBastionModeVagur"
 ability:3 "AbilityT2BattleshipVagur"
 ability:4 "AbilityLaunchSquads"
 MaxAntiMatter 700.000000

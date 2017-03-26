@@ -10,28 +10,28 @@ typeCount 1
 frigateRoleType "AntiFighter"
 statCountType "FrigateAntiFighter"
 mainViewIcon "MAINVIEWICON_FRIGATE_PHASEANTIFIGHTER"
-picture "PICTURE_FRIGATE_HECATE"
+picture ""
 NameStringID "IDS_Gallente_ResearchSubject_SubCapitalAccess_Hecate_NAME"
 DescriptionStringID "IDS_Gallente_ResearchSubject_SubCapitalAccess_Hecate_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_ANTIFIGHTER"
 basePrice
-	credits 46.000000
-	metal 28.000000
-	crystal 18.000000
-slotCount 2.000000
-BuildTime 8.000000
+	credits 75.000000
+	metal 15.000000
+	crystal 10.000000
+slotCount 3.000000
+BuildTime 50.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 24.000000
-MaxHullPoints 1866.000000
-MaxShieldPoints 933.000000
-HullPointRestoreRate 2.000000
-ShieldPointRestoreRate 2.000000
+ExperiencePointsForDestroying 40.000000
+MaxHullPoints 900.000000
+MaxShieldPoints 450.000000
+HullPointRestoreRate 0.000000
+ShieldPointRestoreRate 0.450000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.450000
 Prerequisites
 	NumResearchPrerequisites 2
 	ResearchPrerequisite
-		Subject "Gallente_ResearchSubject_SubCapitalAccess_Hecate"
+		Subject "Gallente_ResearchSubject_SubCapitalAccess_Catalyst"
 		Level 1
 	ResearchPrerequisite
 		Subject "AllRaces_ResearchSubject_T3ModuleAccess_PropursionSystems"

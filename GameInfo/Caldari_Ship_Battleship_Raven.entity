@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Heavy"
 statCountType "FrigateHeavy"
 mainViewIcon "MAINVIEWICON_FRIGATE_RAVEN"
-picture "PICTURE_FRIGATE_RAVEN"
+picture ""
 NameStringID "IDS_CALDARI_SHIP_BATTLESHIP_RAVEN_NAME"
 DescriptionStringID "IDS_CALDARI_SHIP_BATTLESHIP_RAVEN_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_LONGRANGE"
 basePrice
-	credits 662.000000
-	metal 253.000000
-	crystal 409.000000
-slotCount 16.000000
-BuildTime 107.000000
+	credits 600.000000
+	metal 220.000000
+	crystal 145.000000
+slotCount 10.000000
+BuildTime 245.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 322.000000
-MaxHullPoints 15555.000000
-MaxShieldPoints 31111.000000
-HullPointRestoreRate 16.000000
-ShieldPointRestoreRate 16.000000
+ExperiencePointsForDestroying 175.000000
+MaxHullPoints 1425.000000
+MaxShieldPoints 2850.000000
+HullPointRestoreRate 1.425000
+ShieldPointRestoreRate 2.800000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.700000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
@@ -154,8 +154,8 @@ HyperspaceChargingSoundID "HYPERSPACE_CHARGEUP"
 HyperspaceTravelSoundID "HYPERSPACE_TRAVEL"
 EngineSoundID "ENGINE_TECHCAPITALSHIP"
 ability:0 "AbilityMicroJumpDrive"
-ability:1 "AbilityBastionMode"
-ability:2 "AbilityCaldariShipRaven"
+ability:1 ""
+ability:2 "AbilityBastionMode"
 ability:3 "AbilityT2BattleshipGolem"
 ability:4 "AbilityLaunchSquads"
 MaxAntiMatter 700.000000

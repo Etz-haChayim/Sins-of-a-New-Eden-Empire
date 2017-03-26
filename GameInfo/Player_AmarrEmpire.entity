@@ -35,14 +35,13 @@ entities
 			entityDefName "Amarr_Ship_Titan_Avatar"
 	capitalShipInfo
 		Page:0
-			count 8
+			count 7
 			entityDefName "Amarr_Ship_Carrier_Archon"
 			entityDefName "Amarr_Ship_Carrier_Triage_Archon"
 			entityDefName "Amarr_Ship_Dreadnought_Revelation_ShortRange"
 			entityDefName "Amarr_Ship_Dreadnought_Revelation_LongRange"
 			entityDefName "Amarr_Ship_Supercarrier_Aeon"
 			entityDefName "Amarr_Ship_ColonyCapital_Rorqual"
-			entityDefName "Amarr_Ship_Capital_Titan_Avatar"
 			entityDefName "AllRaces_Ship_Supercarrier_Revenant"
 	frigateInfo
 		Page:0
@@ -73,9 +72,7 @@ entities
 			entityDefName "Amarr_Ship_Tradeship_Bestower"
 			entityDefName "Amarr_Ship_Refineryship_Bestower"
 	researchInfo
-		count 128
-		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Pilgrim"
-		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Damnation"
+		count 123
 		entityDefName "ALLRACES_RESEARCHSUBJECT_ABILITYACCESS_AFTERBURNER"
 		entityDefName "ALLRACES_RESEARCHSUBJECT_ABILITYACCESS_BASTIONMODE"
 		entityDefName "ALLRACES_RESEARCHSUBJECT_ABILITYACCESS_CLOAK"
@@ -103,7 +100,6 @@ entities
 		entityDefName "Amarr_ResearchSubject_PlanetModuleAccess_LargePulseLaserBattery"
 		entityDefName "Amarr_ResearchSubject_PlanetModuleAccess_MediumPulseLaserBattery"
 		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Abaddon"
-		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Absolution"
 		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Apocalypse"
 		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Arbitrator"
 		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Armageddon"
@@ -115,12 +111,10 @@ entities
 		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Guardian"
 		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Harbinger"
 		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Inquisitor"
-		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Maller"
 		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Omen"
 		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Paladin"
 		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Prophecy"
 		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_ProphecyEnvoy"
-		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Sacrilege"
 		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Redeemer"
 		entityDefName "Amarr_ResearchSubject_SubCapitalAccess_Zealot"
 		entityDefName "RESEARCHSUBJECT_ABILITYACCESS_ARBITRATETARIFF"
@@ -733,13 +727,13 @@ researchScreenData
 			title "IDSResearchScreenBlockTitleCombat0Tech"
 			picture "ResearchScreenBlockPictureCombat0Tech"
 		block
-			area [ 50 , 271 , 690 , 192 ]
+			area [ 50 , 271 , 690 , 144 ]
 			backdrop "ResearchScreenBlockBackdropCombat0Tech"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat0Tech"
 			title "IDSResearchScreenBlockTitleCombat1Tech"
 			picture "ResearchScreenBlockPictureCombat1Tech"
 		block
-			area [ 50 , 470 , 690 , 240 ]
+			area [ 50 , 425 , 690 , 240 ]
 			backdrop "ResearchScreenBlockBackdropCombat0Tech"
 			tierIndicatorBackdrop "ResearchScreenBlockTierIndicatorCombat0Tech"
 			title "IDSResearchScreenBlockTitleCombat2Tech"

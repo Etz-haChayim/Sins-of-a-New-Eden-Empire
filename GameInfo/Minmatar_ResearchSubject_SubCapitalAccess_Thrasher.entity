@@ -7,26 +7,26 @@ NameStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Thrasher_NAME"
 DescriptionStringID "IDS_RESEARCHSUBJECT_SubCapitalAccess_Thrasher_DESCRIPTION"
 researchWindowLocation
 	block 2
-	pos [ 1 , 2 ]
+	pos [ 1 , 4 ]
 ResearchField "Combat"
 Prerequisites
 	NumResearchPrerequisites 0
 	RequiredFactionNameID ""
 	RequiredCompletedResearchSubjects 0
 MinimumArtifactLevel -1
-BaseUpgradeTime 20.000000
-PerLevelUpgradeTime 2.000000
+BaseUpgradeTime 45.000000
+PerLevelUpgradeTime 5.000000
 BaseCost
-	credits 420.000000
-	metal 187.000000
-	crystal 233.000000
+	credits 800.000000
+	metal 200.000000
+	crystal 100.000000
 PerLevelCostIncrease
-	credits 42.000000
-	metal 18.000000
-	crystal 23.000000
+	credits 100.000000
+	metal 25.000000
+	crystal 25.000000
 Tier 1
 onlyWorksIfTierLabsExist TRUE
-MaxNumResearchLevels 2
+MaxNumResearchLevels 1
 priority 0.000000
 researchBoolModifiers 0
 researchFloatModifiers 0

@@ -2,7 +2,7 @@
 entityType "Ability"
 buffInstantActionType "ApplyBuffToSelf"
 instantActionTriggerType "AlwaysPerform"
-buffType "BuffSkillWeaponRange10"
+buffType "BuffT2CaldariMuninn"
 effectInfo
 	effectAttachInfo
 		attachType "Invalid"

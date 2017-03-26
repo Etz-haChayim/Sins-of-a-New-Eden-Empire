@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Heavy"
 statCountType "FrigateHeavy"
 mainViewIcon "MAINVIEWICON_FRIGATE_PHASEHEAVY"
-picture "PICTURE_FRIGATE_MYRMIDON"
+picture ""
 NameStringID "IDS_FRIGATE_PHASEHEAVY_NAME"
 DescriptionStringID "IDS_FRIGATE_PHASEHEAVY_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_CORVETTE_TECH"
 basePrice
-	credits 194.000000
-	metal 83.000000
-	crystal 110.000000
-slotCount 8.000000
-BuildTime 31.000000
+	credits 210.000000
+	metal 40.000000
+	crystal 27.000000
+slotCount 7.000000
+BuildTime 155.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 94.000000
-MaxHullPoints 5444.000000
-MaxShieldPoints 8166.000000
-HullPointRestoreRate 8.000000
-ShieldPointRestoreRate 8.000000
-BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+ExperiencePointsForDestroying 84.000000
+MaxHullPoints 1900.000000
+MaxShieldPoints 850.000000
+HullPointRestoreRate 1.900000
+ShieldPointRestoreRate 0.850000
+BaseArmorPoints 22.000000
+maxMitigation 0.450000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite

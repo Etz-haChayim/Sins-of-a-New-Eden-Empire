@@ -10,24 +10,24 @@ typeCount 1
 frigateRoleType "Heavy"
 statCountType "FrigateHeavy"
 mainViewIcon "MAINVIEWICON_FRIGATE_SCORPION"
-picture "PICTURE_FRIGATE_SCORPION"
+picture ""
 NameStringID "IDS_CALDARI_SHIP_BATTLESHIP_RATTLESNAKE_NAME"
 DescriptionStringID "IDS_CALDARI_SHIP_BATTLESHIP_RATTLESNAKE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_LONGRANGE"
 basePrice
-	credits 662.000000
-	metal 253.000000
-	crystal 409.000000
-slotCount 16.000000
-BuildTime 107.000000
+	credits 2000.000000
+	metal 600.000000
+	crystal 550.000000
+slotCount 8.000000
+BuildTime 325.000000
 hasLevels FALSE
-ExperiencePointsForDestroying 322.000000
-MaxHullPoints 15555.000000
-MaxShieldPoints 31111.000000
-HullPointRestoreRate 16.000000
-ShieldPointRestoreRate 16.000000
+ExperiencePointsForDestroying 250.000000
+MaxHullPoints 5500.000000
+MaxShieldPoints 2750.000000
+HullPointRestoreRate 5.500000
+ShieldPointRestoreRate 2.750000
 BaseArmorPoints 0.000000
-maxMitigation 0.000000 
+maxMitigation 0.700000
 Prerequisites
 	NumResearchPrerequisites 1
 	ResearchPrerequisite
