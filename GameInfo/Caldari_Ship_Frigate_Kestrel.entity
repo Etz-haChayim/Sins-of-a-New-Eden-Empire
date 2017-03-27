@@ -49,11 +49,11 @@ NameStringID "IDS_FRIGATE_KESTREL_NAME"
 DescriptionStringID "IDS_FRIGATE_KESTREL_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 55.000000
-	metal 12.000000
-	crystal 6.000000
+	credits 175.000000
+	metal 35.000000
+	crystal 50.000000
 slotCount 2.000000
-BuildTime 23.000000
+BuildTime 6.000000
 hasLevels FALSE
 ExperiencePointsForDestroying 30.000000
 MaxHullPoints 162.000000

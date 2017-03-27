@@ -15,11 +15,11 @@ NameStringID "IDS_CORVETTE_PHASELOYALIST_NAME"
 DescriptionStringID "IDS_CORVETTE_PHASELOYALIST_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 50.000000
-	metal 10.000000
-	crystal 4.000000
+	credits 233.000000
+	metal 35.000000
+	crystal 30.000000
 slotCount 2.000000
-BuildTime 18.000000
+BuildTime 6.000000
 hasLevels FALSE
 ExperiencePointsForDestroying 20.000000
 MaxHullPoints 260.000000

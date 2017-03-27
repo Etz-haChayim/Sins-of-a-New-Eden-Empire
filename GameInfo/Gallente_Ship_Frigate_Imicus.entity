@@ -15,11 +15,11 @@ NameStringID "IDS_FRIGATE_PHASESCOUT_NAME"
 DescriptionStringID "IDS_FRIGATE_PHASESCOUT_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 40.000000
-	metal 5.000000
-	crystal 2.000000
+	credits 233.000000
+	metal 33.000000
+	crystal 28.000000
 slotCount 1.000000
-BuildTime 10.000000
+BuildTime 6.000000
 hasLevels FALSE
 ExperiencePointsForDestroying 15.000000
 MaxHullPoints 240.000000
