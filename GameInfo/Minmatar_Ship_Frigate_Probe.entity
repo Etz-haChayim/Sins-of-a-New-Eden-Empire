@@ -15,11 +15,11 @@ NameStringID "IDS_FRIGATE_PROBE_NAME"
 DescriptionStringID "IDS_FRIGATE_PROBE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 40.000000
-	metal 5.000000
-	crystal 2.000000
+	credits 175.000000
+	metal 30.000000
+	crystal 30.000000
 slotCount 1.000000
-BuildTime 10.000000
+BuildTime 5.000000
 hasLevels FALSE
 ExperiencePointsForDestroying 15.000000
 MaxHullPoints 250.000000
