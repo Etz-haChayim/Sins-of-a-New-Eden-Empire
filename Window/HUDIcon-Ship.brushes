@@ -1,6 +1,6 @@
 ﻿TXT
 onlyLoadOnDemand FALSE
-brushCount 274
+brushCount 275
 brush
 	name "HUDICON_CORVETTE_PHASE"
 	content "States"
@@ -2589,6 +2589,11 @@ brush
 	content "Simple"
 	fileName "Unit_Infocard"
 	pixelBox [ 277 , 230 , 22 , 22 ]
+brush
+	name "HUDICONSMALL_FRIGATE_JACKDAW"
+	content "Simple"
+	fileName "Unit_Infocard"
+	pixelBox [ 392 , 47 , 22 , 22 ]	
 brush
 	name "HUDICON_FRIGATE_ROKH"
 	content "States"
