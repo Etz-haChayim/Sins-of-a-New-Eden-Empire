@@ -42,8 +42,8 @@ numRandomDebrisLarge 0
 numRandomDebrisSmall 0
 numSpecificDebris 0
 armorType "Medium"
-hudIcon "HUDICON_FRIGATE_COMORANT"
-smallHudIcon "HUDICONSMALL_FRIGATE_COMORANT"
+hudIcon "HUDICON_FRIGATE_JACKDAW"
+smallHudIcon "HUDICONSMALL_FRIGATE_JACKDAW"
 infoCardIcon "INFOCARDICON_FRIGATE_COMORANT"
 minZoomDistanceMult 1.000000
 NumWeapons 1
