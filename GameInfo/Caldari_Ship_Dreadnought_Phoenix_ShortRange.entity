@@ -47,8 +47,8 @@ bombEffectsDef
 mainViewIcon "MAINVIEWICON_CAPITALSHIP_PHOENIX"
 basePrice
 	credits 6000.000000
-	metal 1350.000000
-	crystal 1150.000000
+	metal 1500.000000
+	crystal 2000.000000
 slotCount 1.000000
 BuildTime 650.000000
 MaxHullPoints

@@ -15,9 +15,9 @@ NameStringID "IDS_CAPITALSHIP_TECHSIEGE_NAME"
 DescriptionStringID "IDS_CAPITALSHIP_TECHSIEGE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_LONGRANGE"
 basePrice
-	credits 600.000000
-	metal 220.000000
-	crystal 145.000000
+	credits 750.000000
+	metal 300.000000
+	crystal 300.000000
 slotCount 10.000000
 BuildTime 245.000000
 hasLevels FALSE

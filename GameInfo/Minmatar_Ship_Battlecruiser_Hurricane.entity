@@ -15,9 +15,9 @@ NameStringID "IDS_BATTLECRUISER_HURRICANE_NAME"
 DescriptionStringID "IDS_BATTLECRUISER_HURRICANE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_CORVETTE_TECH"
 basePrice
-	credits 210.000000
-	metal 40.000000
-	crystal 27.000000
+	credits 400.000000
+	metal 175.000
+	crystal 175.0000
 slotCount 7.000000
 BuildTime 155.000000
 hasLevels FALSE

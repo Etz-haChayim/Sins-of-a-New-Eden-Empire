@@ -15,9 +15,9 @@ NameStringID "IDS_BATTLESHIP_TYPHOON_NAME"
 DescriptionStringID "IDS_BATTLESHIP_TYPHOON_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_LONGRANGE"
 basePrice
-	credits 500.000000
-	metal 190.000000
-	crystal 125.000000
+	credits 750.000000
+	metal 300.000000
+	crystal 300.000000
 slotCount 9.000000
 BuildTime 235.000000
 hasLevels FALSE

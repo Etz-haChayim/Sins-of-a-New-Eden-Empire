@@ -15,9 +15,9 @@ NameStringID "IDS_FRIGATE_SLASHER_NAME"
 DescriptionStringID "IDS_FRIGATE_SLASHER_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 233.000000
-	metal 30.000000
-	crystal 35.000000
+	credits 25.000000
+	metal 5.000000
+	crystal 5.000000
 slotCount 2.000000
 BuildTime 5.000000
 hasLevels FALSE

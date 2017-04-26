@@ -15,9 +15,9 @@ NameStringID "IDS_CRUISER_BELICOSE_NAME"
 DescriptionStringID "IDS_CRUISER_BELICOSE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 155.000000
-	metal 32.000000
-	crystal 23.000000
+	credits 150.000000
+	metal 50.000000
+	crystal 50.000000
 slotCount 5.000000
 BuildTime 85.000000
 hasLevels FALSE

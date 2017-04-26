@@ -15,9 +15,9 @@ NameStringID "IDS_BATTLECRUISER_CYCLONE_NAME"
 DescriptionStringID "IDS_BATTLECRUISER_CYCLONE_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_CORVETTE_TECH"
 basePrice
-	credits 185.000000
-	metal 35.000000
-	crystal 23.000000
+	credits 400.000000
+	metal 175.000000
+	crystal 175.000000
 slotCount 6.000000
 BuildTime 140.000000
 hasLevels FALSE

@@ -15,9 +15,9 @@ NameStringID "IDS_FRIGATE_TECHUTILITY1_NAME"
 DescriptionStringID "IDS_FRIGATE_TECHUTILITY1_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_CORVETTE_TECH"
 basePrice
-	credits 175.000000
-	metal 30.000000
-	crystal 20.000000
+	credits 150.000000
+	metal 50.000000
+	crystal 50.000000
 slotCount 4.000000
 BuildTime 95.000000
 hasLevels FALSE

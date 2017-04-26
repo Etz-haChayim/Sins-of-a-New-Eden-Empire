@@ -15,9 +15,9 @@ NameStringID "IDS_CORVETTE_TECHLOYALIST_NAME"
 DescriptionStringID "IDS_CORVETTE_TECHLOYALIST_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_FRIGATE_NONCOMBAT"
 basePrice
-	credits 204.000000
-	metal 45.000000
-	crystal 25.000000
+	credits 25.000000
+	metal 5.000000
+	crystal 5.000000
 slotCount 2.000000
 BuildTime 6.000000
 hasLevels FALSE

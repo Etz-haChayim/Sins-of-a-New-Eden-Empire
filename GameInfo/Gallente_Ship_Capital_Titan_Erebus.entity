@@ -46,9 +46,9 @@ bombEffectsDef
 	missileMaxSlowTurnTime 6.000000
 mainViewIcon "MAINVIEWICON_TITAN_PHASELOYALIST"
 basePrice
-	credits 117483.000000
-	metal 78186.000000
-	crystal 39297.000000
+	credits 120000.000000
+	metal 40000.000000
+	crystal 40000.000000
 slotCount 1.000000
 BuildTime 350.000000
 MaxHullPoints

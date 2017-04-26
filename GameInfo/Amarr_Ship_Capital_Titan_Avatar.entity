@@ -46,9 +46,9 @@ bombEffectsDef
 	missileMaxSlowTurnTime 6.000000
 mainViewIcon "MAINVIEWICON_TITAN_TECHLOYALIST"
 basePrice
-	credits 118241.000000
-	metal 78565.000000
-	crystal 39676.000000
+	credits 120000.000000
+	metal 40000.000000
+	crystal 40000.000000
 slotCount 1.000000
 BuildTime 568.000000
 MaxHullPoints

@@ -15,9 +15,9 @@ NameStringID "IDS_FRIGATE_PHASEHEAVY_NAME"
 DescriptionStringID "IDS_FRIGATE_PHASEHEAVY_DESCRIPTION"
 counterDescriptionStringID "IDS_COUNTERDESC_CORVETTE_TECH"
 basePrice
-	credits 210.000000
-	metal 40.000000
-	crystal 27.000000
+	credits 400.000000
+	metal 175.000000
+	crystal 175.000000
 slotCount 7.000000
 BuildTime 155.000000
 hasLevels FALSE
