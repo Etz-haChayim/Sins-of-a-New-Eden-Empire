@@ -1,9 +1,9 @@
 ﻿TXT
 entityType "CapitalShip"
-ability:0 "AbilityOblivionCapital"
+ability:0 ""
 ability:1 ""
-ability:2 "AbilityTitanEMPSmartbombCapital"
-ability:3 "AbilityTitanJumpBridge"
+ability:2 ""
+ability:3 ""
 ability:4 ""
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -46,9 +46,9 @@ bombEffectsDef
 	missileMaxSlowTurnTime 6.000000
 mainViewIcon "MAINVIEWICON_TITAN_LEVIATHAN"
 basePrice
-	credits 60000.000000
-	metal 20000.000000
-	crystal 20000.000000
+	credits 118241.000000
+	metal 39676.000000
+	crystal 78565.000000
 slotCount 1.000000
 BuildTime 568.000000
 MaxHullPoints

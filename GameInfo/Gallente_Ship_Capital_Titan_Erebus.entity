@@ -1,9 +1,9 @@
 ﻿TXT
 entityType "CapitalShip"
-ability:0 "AbilityAuroraOminaeCapital"
+ability:0 ""
 ability:1 ""
-ability:2 "AbilityTitanEMPSmartbombCapital"
-ability:3 "AbilityTitanJumpBridge"
+ability:2 ""
+ability:3 ""
 ability:4 ""
 defaultAutoAttackRange "GravityWell"
 defaultAutoAttackOn TRUE
@@ -46,9 +46,9 @@ bombEffectsDef
 	missileMaxSlowTurnTime 6.000000
 mainViewIcon "MAINVIEWICON_TITAN_PHASELOYALIST"
 basePrice
-	credits 120000.000000
-	metal 40000.000000
-	crystal 40000.000000
+	credits 117483.000000
+	metal 78186.000000
+	crystal 39297.000000
 slotCount 1.000000
 BuildTime 350.000000
 MaxHullPoints
